@@ -1,0 +1,103 @@
+WITH
+
+phase_one AS (
+SELECT cases.state, cases.county, state.date_implemented, COUNT(cases.cases) AS #_occurences
+    FROM [master].[dbo].[covid19-cases] AS cases
+    JOIN [master].[dbo].[state_data] AS state 
+        -- filter on: 
+        -- state implemented intervention, 
+        -- date of row is equal to or greater than the date an intervention was implemented
+        -- match on state name 
+        -- date diff is less than or equal to 20 (first date will have a diff of 0, last date will have a diff of 20)
+        -- county is not 'Unknown'
+        ON state.date_implemented is not NULL 
+            and cases.date >= state.date_implemented 
+            and cases.state = state.state_name 
+            and ABS(DATEDIFF(day, cases.date, state.date_implemented)) <= 20 
+            and cases.county != 'Unknown'
+        GROUP BY cases.state, cases.county, state.date_implemented
+        -- HAVING COUNT(1) >= 21
+    -- ORDER BY #_occurences ASC
+    -- ORDER BY cases.county ASC
+),
+
+phase_two AS (
+SELECT phase_one.state, phase_one.county, phase_one.#_occurences, phase_one.date_implemented AS intervention_date, cases.date AS case_date, cases.cases, cases.deaths
+    FROM phase_one
+    JOIN [master].[dbo].[covid19-cases] AS cases
+    ON phase_one.county = cases.county and phase_one.state = cases.state 
+        and ABS(DATEDIFF(day, cases.date, phase_one.date_implemented)) <= 20 
+        and cases.date >= phase_one.date_implemented
+    -- ORDER BY phase_one.county, phase_one.state, cases.date
+), 
+
+phase_three AS (
+SELECT 
+    phase_two.*,
+    -- assign a day 0 - 20 to all data points for each state, county, case_date pairing
+    -- another way to calculate the "day" is to use date diff (probably simpler)
+    ROW_NUMBER() OVER (PARTITION BY phase_two.state, phase_two.county ORDER BY phase_two.state, phase_two.county, phase_two.case_date) - 1 AS day
+FROM phase_two
+), 
+
+-- calculate week column values
+phase_four AS (
+SELECT *, FLOOR(day/7) + 1 AS week
+    FROM phase_three
+),
+
+-- calculate average case number per week
+phase_five AS (
+SELECT state, county, week, CEILING(AVG(cases)) AS avg_cases
+    FROM phase_four
+    GROUP BY state, county, week
+    -- ORDER BY state, county, week
+),
+
+-- calculate week-over-week percentage change in case numbers 
+phase_six AS (
+SELECT phase_five.state, phase_five.county
+    , phase_five.week AS start_week
+    , alt.week AS end_week
+    , phase_five.avg_cases
+    , alt.avg_cases AS cases_alt
+    , ROUND(((alt.avg_cases - phase_five.avg_cases) / CAST(phase_five.avg_cases AS float)) * 100, 2) AS perecentage_change
+    -- , ((CAST(alt.avg_cases AS float) - CAST(phase_five.avg_cases AS float)) / CAST(phase_five.avg_cases AS float)) * 100 AS diff
+    FROM phase_five
+    JOIN phase_five AS alt
+    -- match on state, county, and weeks 
+    ON  phase_five.state = alt.state and phase_five.county = alt.county and (alt.week - phase_five.week) = 1
+    GROUP BY phase_five.state, phase_five.county, phase_five.week, alt.week, phase_five.avg_cases, alt.avg_cases
+    -- ORDER BY phase_five.state, phase_five.county, phase_five.week
+),
+
+-- QUESTION 1 DATA
+q1 AS (
+SELECT state, county, end_week, avg_cases, cases_alt, perecentage_change
+    FROM phase_six
+    WHERE perecentage_change < 25 and cases_alt >= 5
+    GROUP BY state, county, perecentage_change, end_week, avg_cases, cases_alt
+),
+
+-- 51 counties: both weeks showed less than 25 % change 
+-- SELECT q1.state, q1.county, q1.perecentage_change AS per_change_w1w2, alt.perecentage_change AS per_change_w2w3
+--     FROM q1
+--     JOIN q1 AS alt
+--     ON q1.state = alt.state and q1.county = alt.county and q1.end_week < alt.end_week
+--     ORDER BY q1.state, q1.county
+
+-- 294 counties: at least 1 week where % change was less than 25 (CHOSEN FOR MODEL)
+q1_final AS (
+SELECT state, county, MAX(perecentage_change) AS max_percentage_change 
+    FROM q1
+    GROUP BY state, county
+    -- ORDER BY state, county
+)
+
+-- create final output dataset where 1 is set for all counties that match criteria, and 0 for all others 
+-- 2340 counties total, 294 have 1 in less_than_25_percent_increase_wow column
+SELECT phase_one.state, phase_one.county, 
+    CASE WHEN phase_one.state = q1_final.state and phase_one.county = q1_final.county THEN 1 ELSE 0 END AS less_than_25_percent_increase_wow
+    FROM phase_one
+    LEFT OUTER JOIN q1_final
+    ON phase_one.state = q1_final.state and phase_one.county = q1_final.county
