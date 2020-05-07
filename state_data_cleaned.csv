@@ -1,0 +1,51 @@
+﻿state_name,fips_state_code,usps_state_abbreviation,stay_at_home,shelter_in_place,date_implemented,governor_political_party,state_control_political_party
+Alabama,1,AL,1,0,4/4/20,republican ,republican
+Alaska,2,AK,1,0,3/28/20,republican ,republican
+Arizona,4,AZ,1,0,3/31/20,republican ,republican
+Arkansas,5,AR,0,0,,republican ,republican
+California,6,CA,1,0,3/19/20,democrat,democrat
+Colorado,8,CO,1,0,3/26/20,democrat,democrat
+Connecticut,9,CT,1,0,3/23/20,democrat,democrat
+Delaware,10,DE,0,1,3/24/20,democrat,democrat
+Florida,12,FL,1,0,4/3/20,republican ,republican
+Georgia,13,GA,0,1,4/3/20,republican ,republican
+Hawaii,15,HI,1,0,3/25/20,democrat,democrat
+Idaho,16,ID,1,0,3/25/20,republican ,republican
+Illinois,17,IL,1,0,3/21/20,democrat,democrat
+Indiana,18,IN,1,0,3/24/20,republican ,republican
+Iowa,19,IA,0,0,,republican ,republican
+Kansas,20,KS,1,0,3/30/20,democrat,divided
+Kentucky,21,KY,1,0,3/26/20,democrat,divided
+Louisiana,22,LA,1,0,3/23/20,democrat,divided
+Maine,23,ME,1,0,4/2/20,democrat,democrat
+Maryland,24,MD,1,0,3/30/20,republican ,divided
+Massachusetts,25,MA,1,0,3/24/20,republican ,divided
+Michigan,26,MI,1,0,3/24/20,democrat,divided
+Minnesota,27,MN,1,0,3/27/20,democrat,divided
+Mississippi,28,MS,0,1,4/3/20,republican ,republican
+Missouri,29,MO,1,0,4/6/20,republican ,republican
+Montana,30,MT,1,0,3/28/20,democrat,divided
+Nebraska,31,NE,0,0,,republican ,non-partisan
+Nevada,32,NV,1,0,4/1/20,democrat,democrat
+New Hampshire,33,NH,1,0,3/27/20,republican ,divided
+New Jersey,34,NJ,1,0,3/21/20,democrat,democrat
+New Mexico,35,NM,1,0,3/24/20,democrat,democrat
+New York,36,NY,1,0,3/22/20,democrat,democrat
+North Carolina,37,NC,1,0,3/30/20,democrat,divided
+North Dakota,38,ND,0,0,,republican ,republican
+Ohio,39,OH,1,0,3/23/20,republican ,republican
+Oklahoma,40,OK,0,0,,republican ,republican
+Oregon,41,OR,1,0,3/23/20,democrat,democrat
+Pennsylvania,42,PA,1,0,4/1/20,democrat,divided
+Rhode Island,44,RI,1,0,3/28/20,democrat,democrat
+South Carolina,45,SC,1,0,4/7/20,republican ,republican
+South Dakota,46,SD,0,0,,republican ,republican
+Tennessee,47,TN,1,0,3/31/20,republican ,republican
+Texas,48,TX,1,0,4/2/20,republican ,republican
+Utah,49,UT,0,0,,republican ,republican
+Vermont,50,VT,1,0,3/25/20,republican ,divided
+Virginia,51,VA,1,0,3/30/20,democrat,democrat
+Washington,53,WA,1,0,3/23/20,democrat,democrat
+West Virginia,54,WV,1,0,3/24/20,republican ,republican
+Wisconsin,55,WI,1,0,3/25/20,democrat,divided
+Wyoming,56,WY,0,0,,republican ,republican
