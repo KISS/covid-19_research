@@ -2,7 +2,7 @@ state,county,place_name,state_fips,county_fips,fips,jan,feb,mar,apr
 Alabama,Autauga,Autauga County,1,1,1001,50.4,52.6,65,63.4
 Alabama,Baldwin,Baldwin County,1,3,1003,55.1,56.9,68.6,68
 Alabama,Barbour,Barbour County,1,5,1005,51.8,52.7,65.8,64.2
-Alabama,"Bibb ",Bibb County,1,7,1007,48.2,49.4,62.2,60.8
+Alabama,Bibb ,Bibb County,1,7,1007,48.2,49.4,62.2,60.8
 Alabama,Blount,Blount County,1,9,1009,46.8,47.7,59.9,58.7
 Alabama,Bullock,Bullock County,1,11,1011,50.9,52.4,64.8,63.4
 Alabama,Butler,Butler County,1,13,1013,51.5,53.9,66.3,64.3
@@ -78,7 +78,7 @@ Alaska,Haines,Haines Borough,2,100,2100,12.8,20.9,21.9,30.7
 Alaska,Juneau,Juneau Borough,2,110,2110,15.8,23.7,23.5,30.6
 Alaska,Kenai Peninsula,Kenai Peninsula Borough,2,122,2122,4,18.5,20.8,33
 Alaska,Ketchikan Gateway,Ketchikan Gateway Borough,2,130,2130,23.9,30.4,31,37.3
-Alaska,"Kodiak Island ",Kodiak Island Borough,2,150,2150,15,25.8,28,38.6
+Alaska,Kodiak Island ,Kodiak Island Borough,2,150,2150,15,25.8,28,38.6
 Alaska,Lake and Peninsula,Lake and Peninsula Borough,2,164,2164,3,19.2,22.2,37.1
 Alaska,Matanuska-Susitna,Matanuska-Susitna Borough,2,170,2170,-4.6,10.6,13.2,27.4
 Alaska,Nome Census,Nome Census Area,2,180,2180,-4.6,-8,10,23.2
@@ -165,7 +165,7 @@ Arkansas,Pope,Pope County,5,115,5115,41.4,42.7,54.6,57.6
 Arkansas,Prairie,Prairie County,5,117,5117,45,46,57.4,59.6
 Arkansas,Pulaski,Pulaski County,5,119,5119,43.9,44.8,56.2,59
 Arkansas,Randolph,Randolph County,5,121,5121,41.4,42,53.3,57
-Arkansas,"St. Francis ",St. Francis County,5,123,5123,45.3,45.5,57.2,59.2
+Arkansas,St. Francis ,St. Francis County,5,123,5123,45.3,45.5,57.2,59.2
 Arkansas,Saline,Saline County,5,125,5125,44.1,44.9,56.2,59
 Arkansas,Scott,Scott County,5,127,5127,43.4,43.4,56.2,58.1
 Arkansas,Searcy,Searcy County,5,129,5129,39.5,39.9,52.5,54.6
@@ -385,7 +385,7 @@ Georgia,Baldwin,Baldwin County,13,9,13009,51.2,51.4,62.2,62.5
 Georgia,Banks,Banks County,13,11,13011,46.9,46.6,57.2,59.1
 Georgia,Barrow,Barrow County,13,13,13013,47,47.2,58.2,59.5
 Georgia,Bartow,Bartow County,13,15,13015,46,47.4,58.4,58.4
-Georgia,"Ben Hill ",Ben Hill County,13,17,13017,53.7,55,66.2,65.2
+Georgia,Ben Hill ,Ben Hill County,13,17,13017,53.7,55,66.2,65.2
 Georgia,Berrien,Berrien County,13,19,13019,53.8,55.1,66.7,65.6
 Georgia,Bibb,Bibb County,13,21,13021,51.7,51.7,63.3,62.8
 Georgia,Bleckley,Bleckley County,13,23,13023,53,52.8,64.3,63.8
@@ -471,7 +471,7 @@ Georgia,Long,Long County,13,183,13183,55.5,55.9,66,67.4
 Georgia,Lowndes,Lowndes County,13,185,13185,54.3,56,67,66.8
 Georgia,Lumpkin,Lumpkin County,13,187,13187,44.2,44.6,54.8,55.3
 Georgia,McDuffie,McDuffie County,13,189,13189,50.9,50.6,61.2,62.4
-Georgia,"McIntosh ",McIntosh County,13,191,13191,56.5,56.2,66.5,68.2
+Georgia,McIntosh ,McIntosh County,13,191,13191,56.5,56.2,66.5,68.2
 Georgia,Macon,Macon County,13,193,13193,52.3,52.9,64.6,63.6
 Georgia,Madison,Madison County,13,195,13195,47,47.1,58.1,59.6
 Georgia,Marion,Marion County,13,197,13197,51.7,52.1,64.1,62.9
@@ -640,8 +640,8 @@ Illinois,Lee,Lee County,17,103,17103,27.2,27.4,40.2,46.3
 Illinois,Livingston,Livingston County,17,105,17105,30,29.2,41.7,47.9
 Illinois,Logan,Logan County,17,107,17107,32.1,31.4,44.6,50.1
 Illinois,McDonough,McDonough County,17,109,17109,29,30.1,43.1,49.2
-Illinois,"McHenry ",McHenry County,17,111,17111,27.6,26.9,39.3,45.3
-Illinois,"McLean ",McLean County,17,113,17113,30.5,30.1,43,48.9
+Illinois,McHenry ,McHenry County,17,111,17111,27.6,26.9,39.3,45.3
+Illinois,McLean ,McLean County,17,113,17113,30.5,30.1,43,48.9
 Illinois,Macon,Macon County,17,115,17115,32.1,31.6,44.6,49.6
 Illinois,Macoupin,Macoupin County,17,117,17117,32.9,33.9,46,51.1
 Illinois,Madison,Madison County,17,119,17119,34,35.5,48,52.1
@@ -1056,7 +1056,7 @@ Kentucky,Livingston,Livingston County,21,139,21139,40,39.7,52.8,55
 Kentucky,Logan,Logan County,21,141,21141,42,41.7,53.5,54.7
 Kentucky,Lyon,Lyon County,21,143,21143,40.9,40,53.3,55.2
 Kentucky,McCracken,McCracken County,21,145,21145,40.2,40.4,53.2,55.6
-Kentucky,"McCreary ",McCreary County,21,147,21147,41.1,41.7,52.1,52.8
+Kentucky,McCreary ,McCreary County,21,147,21147,41.1,41.7,52.1,52.8
 Kentucky,McLean,McLean County,21,149,21149,39.8,39.4,51.9,53.6
 Kentucky,Madison,Madison County,21,151,21151,40.2,38.8,51,51.4
 Kentucky,Magoffin,Magoffin County,21,153,21153,40.9,41.1,51.4,52
@@ -1120,7 +1120,7 @@ Louisiana,Claiborne,Claiborne Parish,22,27,22027,48.4,48.9,62.3,62.5
 Louisiana,Concordia,Concordia Parish,22,29,22029,51.7,51.9,67,64.7
 Louisiana,De Soto,De Soto Parish,22,31,22031,50.7,50.1,64.3,64.1
 Louisiana,East Baton Rouge,East Baton Rouge Parish,22,33,22033,55.4,55.8,69,68
-Louisiana,"East Carroll ",East Carroll Parish,22,35,22035,49.7,49.8,62.8,63.2
+Louisiana,East Carroll ,East Carroll Parish,22,35,22035,49.7,49.8,62.8,63.2
 Louisiana,East Feliciana,East Feliciana Parish,22,37,22037,54.1,54.7,68.1,66.6
 Louisiana,Evangeline,Evangeline Parish,22,39,22039,54.2,54.1,67.8,66.8
 Louisiana,Franklin,Franklin Parish,22,41,22041,50.6,51.1,65.1,63.6
@@ -1129,7 +1129,7 @@ Louisiana,Iberia,Iberia Parish,22,45,22045,57.1,57.3,69.6,69.5
 Louisiana,Iberville,Iberville Parish,22,47,22047,56.3,56.5,69.4,68.8
 Louisiana,Jackson,Jackson Parish,22,49,22049,49.8,51,63.7,63.1
 Louisiana,Jefferson,Jefferson Parish,22,51,22051,58.6,59.3,70.9,70.5
-Louisiana,"Jefferson Davis ",Jefferson Davis Parish,22,53,22053,55.7,55.3,68.5,67.7
+Louisiana,Jefferson Davis ,Jefferson Davis Parish,22,53,22053,55.7,55.3,68.5,67.7
 Louisiana,Lafayette,Lafayette Parish,22,55,22055,55.7,56,69,68.3
 Louisiana,Lafourche,Lafourche Parish,22,57,22057,59.2,60,71.1,70.8
 Louisiana,La Salle,La Salle Parish,22,59,22059,51.5,51.8,66.2,64.5
@@ -1149,7 +1149,7 @@ Louisiana,Sabine,Sabine Parish,22,85,22085,51.6,51.7,65.8,65.1
 Louisiana,St. Bernard,St. Bernard Parish,22,87,22087,57.6,58.2,70.1,69.6
 Louisiana,St. Charles,St. Charles Parish,22,89,22089,58.1,59,70.8,70.4
 Louisiana,St. Helena,St. Helena Parish,22,91,22091,54.3,55,68.2,67
-Louisiana,"St. James ",St. James Parish,22,93,22093,57.2,57.8,70.3,69.8
+Louisiana,St. James ,St. James Parish,22,93,22093,57.2,57.8,70.3,69.8
 Louisiana,St. John,St. John the Baptist Parish,22,95,22095,57.2,58.2,70.3,69.8
 Louisiana,St. Landry,St. Landry Parish,22,97,22097,54.3,54.6,68,67
 Louisiana,St. Martin,St. Martin Parish,22,99,22099,56.5,56.8,69.5,69
@@ -1163,7 +1163,7 @@ Louisiana,Vermilion,Vermilion Parish,22,113,22113,56.6,56.5,69.1,68.5
 Louisiana,Vernon,Vernon Parish,22,115,22115,53.1,53.2,67.2,65.9
 Louisiana,Washington,Washington Parish,22,117,22117,54.1,55.8,68.4,67.1
 Louisiana,Webster,Webster Parish,22,119,22119,49.4,49,63.5,63.5
-Louisiana,"West Baton Rouge ",West Baton Rouge Parish,22,121,22121,55.6,55.9,69.1,68.2
+Louisiana,West Baton Rouge ,West Baton Rouge Parish,22,121,22121,55.6,55.9,69.1,68.2
 Louisiana,West Carroll,West Carroll Parish,22,123,22123,49.3,49.4,62.4,63.1
 Louisiana,West Feliciana,West Feliciana Parish,22,125,22125,53.7,54,67.8,66.3
 Louisiana,Winn,Winn Parish,22,127,22127,50.7,51.4,65,64.1
@@ -1340,7 +1340,7 @@ Minnesota,Kanabec,Kanabec County,27,65,27065,16.4,16.5,32.4,40.1
 Minnesota,Kandiyohi,Kandiyohi County,27,67,27067,15.8,15.9,34.1,41.8
 Minnesota,Kittson,Kittson County,27,69,27069,10.9,10.2,23.8,36.5
 Minnesota,Koochiching,Koochiching County,27,71,27071,10.3,8.8,26,36.5
-Minnesota,"Lac qui Parle ",Lac qui Parle County,27,73,27073,15.1,17.3,34.5,42
+Minnesota,Lac qui Parle ,Lac qui Parle County,27,73,27073,15.1,17.3,34.5,42
 Minnesota,Lake,Lake County,27,75,27075,12.2,10.5,25.6,33.6
 Minnesota,Lake of the Woods,Lake of the Woods County,27,77,27077,9.2,9,26.3,36.7
 Minnesota,Le Sueur,Le Sueur County,27,79,27079,17.4,17.2,35.9,43
@@ -1791,7 +1791,7 @@ New Mexico,Chaves,Chaves County,35,5,35005,43,42.8,54,60.1
 New Mexico,Cibola,Cibola County,35,6,35006,31.8,34.4,42.7,48.1
 New Mexico,Colfax,Colfax County,35,7,35007,30.6,30.8,41.8,46.4
 New Mexico,Curry,Curry County,35,9,35009,39.9,39.1,51.8,55.4
-New Mexico,"DeBaca ",DeBaca County,35,11,35011,41.7,42.1,52.7,57.3
+New Mexico,DeBaca ,DeBaca County,35,11,35011,41.7,42.1,52.7,57.3
 New Mexico,Dona Ana,Dona Ana County,35,13,35013,43.9,46.3,55.4,62.4
 New Mexico,Eddy,Eddy County,35,15,35015,45.3,44.8,56.6,63.4
 New Mexico,Grant,Grant County,35,17,35017,40.8,42.4,49,55.5
@@ -2004,10 +2004,10 @@ North Dakota,Hettinger,Hettinger County,38,41,38041,17.7,22.6,33.2,38.4
 North Dakota,Kidder,Kidder County,38,43,38043,11.6,16.2,30,37.6
 North Dakota,LaMoure,LaMoure County,38,45,38045,12.7,17.1,29.8,38
 North Dakota,Logan,Logan County,38,47,38047,12.5,16.9,30.1,37.8
-North Dakota,"McHenry ",McHenry County,38,49,38049,11.4,18.1,29.7,37
-North Dakota,"McIntosh ",McIntosh County,38,51,38051,12.4,16.6,30.2,38.3
+North Dakota,McHenry ,McHenry County,38,49,38049,11.4,18.1,29.7,37
+North Dakota,McIntosh ,McIntosh County,38,51,38051,12.4,16.6,30.2,38.3
 North Dakota,McKenzie,McKenzie County,38,53,38053,16,23.3,32.4,38.6
-North Dakota,"McLean ",McLean County,38,55,38055,13.8,20.6,31.2,38.3
+North Dakota,McLean ,McLean County,38,55,38055,13.8,20.6,31.2,38.3
 North Dakota,Mercer,Mercer County,38,57,38057,14.9,21.8,32.3,39.2
 North Dakota,Morton,Morton County,38,59,38059,15,21.3,33.2,39.1
 North Dakota,Mountrail,Mountrail County,38,61,38061,12.3,19.6,29.8,37.2
@@ -2164,8 +2164,8 @@ Oklahoma,Le Flore,Le Flore County,40,79,40079,44.2,44.2,57.5,58.7
 Oklahoma,Lincoln,Lincoln County,40,81,40081,42.6,41.9,55.9,58.4
 Oklahoma,Logan,Logan County,40,83,40083,41.9,41.1,54.9,57.6
 Oklahoma,Love,Love County,40,85,40085,46.4,45.6,59.9,60.7
-Oklahoma,"McClain ",McClain County,40,87,40087,44,43.3,56.9,59.6
-Oklahoma,"McCurtain ",McCurtain County,40,89,40089,46.4,46.6,59.5,60.3
+Oklahoma,McClain ,McClain County,40,87,40087,44,43.3,56.9,59.6
+Oklahoma,McCurtain ,McCurtain County,40,89,40089,46.4,46.6,59.5,60.3
 Oklahoma,McIntosh,McIntosh County,40,91,40091,43.6,44.5,57.8,59.5
 Oklahoma,Major,Major County,40,93,40093,39.8,39.7,52.9,56.8
 Oklahoma,Marshall,Marshall County,40,95,40095,46.1,45.7,60.2,61
@@ -2394,8 +2394,8 @@ South Dakota,Lake,Lake County,46,79,46079,16.3,19.2,36,43
 South Dakota,Lawrence,Lawrence County,46,81,46081,26.4,24,33.3,36.7
 South Dakota,Lincoln,Lincoln County,46,83,46083,19.8,23.9,38.2,44.7
 South Dakota,Lyman,Lyman County,46,85,46085,21.5,26.6,39.4,44.4
-South Dakota,"McCook ",McCook County,46,87,46087,18.4,22.1,38.3,44.5
-South Dakota,"McPherson ",McPherson County,46,89,46089,12.7,17.2,31,39.2
+South Dakota,McCook ,McCook County,46,87,46087,18.4,22.1,38.3,44.5
+South Dakota,McPherson ,McPherson County,46,89,46089,12.7,17.2,31,39.2
 South Dakota,Marshall,Marshall County,46,91,46091,12.2,15.5,30,37.9
 South Dakota,Meade,Meade County,46,93,46093,23.7,26.6,37.1,40.9
 South Dakota,Mellette,Mellette County,46,95,46095,25.1,28.6,39.6,43.8
@@ -2470,8 +2470,8 @@ Tennessee,Lawrence,Lawrence County,47,99,47099,44.8,43.9,55.3,55
 Tennessee,Lewis,Lewis County,47,101,47101,44,43.6,55.1,55.2
 Tennessee,Lincoln,Lincoln County,47,103,47103,44.1,44.6,56.7,56.5
 Tennessee,Loudon,Loudon County,47,105,47105,43.7,44.7,55.2,56.3
-Tennessee,"McMinn ",McMinn County,47,107,47107,44,45.4,56.1,56.3
-Tennessee,"McNairy ",McNairy County,47,109,47109,44.4,43.5,57,57
+Tennessee,McMinn ,McMinn County,47,107,47107,44,45.4,56.1,56.3
+Tennessee,McNairy ,McNairy County,47,109,47109,44.4,43.5,57,57
 Tennessee,Macon,Macon County,47,111,47111,41.8,42.1,52.8,54.4
 Tennessee,Madison,Madison County,47,113,47113,43.8,43.6,55.9,57.1
 Tennessee,Marion,Marion County,47,115,47115,44,44.5,55,55.8
@@ -2573,7 +2573,7 @@ Texas,Dawson,Dawson County,48,115,48115,45.2,44,57.4,61.4
 Texas,Deaf Smith,Deaf Smith County,48,117,48117,39.2,37.4,51.4,54.3
 Texas,Delta,Delta County,48,119,48119,47.8,47.6,61,61.4
 Texas,Denton,Denton County,48,121,48121,48.9,47.9,61.9,62.6
-Texas,"DeWitt ",DeWitt County,48,123,48123,58.3,56.4,71.6,70.4
+Texas,DeWitt ,DeWitt County,48,123,48123,58.3,56.4,71.6,70.4
 Texas,Dickens,Dickens County,48,125,48125,45.9,42.9,57,60.2
 Texas,Dimmit,Dimmit County,48,127,48127,59,58.5,72.6,72.6
 Texas,Donley,Donley County,48,129,48129,42.9,40,53.8,58
@@ -2665,9 +2665,9 @@ Texas,Llano,Llano County,48,299,48299,53.2,50.5,65.7,65.1
 Texas,Loving,Loving County,48,301,48301,48.1,48,61,66.7
 Texas,Lubbock,Lubbock County,48,303,48303,44.2,41.9,55.6,59.6
 Texas,Lynn,Lynn County,48,305,48305,45,42.8,56.5,60.4
-Texas,"McCulloch ",McCulloch County,48,307,48307,51.7,49.8,64.3,63.5
-Texas,"McLennan ",McLennan County,48,309,48309,50.3,48.8,64.1,64.6
-Texas,"McMullen ",McMullen County,48,311,48311,59.7,57.9,71.8,71
+Texas,McCulloch ,McCulloch County,48,307,48307,51.7,49.8,64.3,63.5
+Texas,McLennan ,McLennan County,48,309,48309,50.3,48.8,64.1,64.6
+Texas,McMullen ,McMullen County,48,311,48311,59.7,57.9,71.8,71
 Texas,Madison,Madison County,48,313,48313,53.4,52.8,67.2,66.4
 Texas,Marion,Marion County,48,315,48315,49.2,49.2,62.2,62.7
 Texas,Martin,Martin County,48,317,48317,47.1,45.8,59.4,64
@@ -3003,7 +3003,7 @@ West Virginia,Kanawha,Kanawha County,54,39,54039,39.6,39.9,50.4,51.2
 West Virginia,Lewis,Lewis County,54,41,54041,38.8,39.4,48.5,50.3
 West Virginia,Lincoln,Lincoln County,54,43,54043,41.1,40.3,51.1,52
 West Virginia,Logan,Logan County,54,45,54045,40.5,40.7,50.7,51.5
-West Virginia,"McDowell ",McDowell County,54,47,54047,38.7,39.9,49.7,50.4
+West Virginia,McDowell ,McDowell County,54,47,54047,38.7,39.9,49.7,50.4
 West Virginia,Marion,Marion County,54,49,54049,36.9,37.4,47.6,48.7
 West Virginia,Marshall,Marshall County,54,51,54051,35.4,34.4,46.2,48.2
 West Virginia,Mason,Mason County,54,53,54053,38.6,37.5,48.8,49.8
@@ -3130,3 +3130,4 @@ Wyoming,Teton,Teton County,56,39,56039,19.4,14.8,27,31.4
 Wyoming,Uinta,Uinta County,56,41,56041,20.6,18.1,30.8,37.4
 Wyoming,Washakie,Washakie County,56,43,56043,26.3,21.7,35.9,40.3
 Wyoming,Weston,Weston County,56,45,56045,26.3,23.2,35.8,38.5
+Virginia,Lexington city,Lexington city,51,678,51678,38.6,41.2,50.56,51.9
