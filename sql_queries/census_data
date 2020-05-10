@@ -1,0 +1,41 @@
+WITH
+
+households AS (
+SELECT mhi.state AS state_fips, mhi.county AS county_fips, mhi.median_household_income, phbp.pct_households_below_poverty
+    FROM [master].[dbo].[median_household_income] AS mhi
+    JOIN [master].[dbo].[pct_households_below_poverty] as phbp
+    ON mhi.state = phbp.state and mhi.county = phbp.county
+),
+
+households_po65 AS ( 
+SELECT households.*, po65.pct_pop_over_65
+    FROM households
+    JOIN [master].[dbo].[pct_pop_over_65] AS po65
+    ON households.state_fips = po65.state and households.county_fips = po65.county
+),
+
+households_po65_pu AS ( 
+SELECT households_po65.*, pu.pct_pop_uninsured
+    FROM households_po65
+    JOIN [master].[dbo].[pct_pop_uninsured] AS pu
+    ON households_po65.state_fips = pu.state and households_po65.county_fips = pu.county
+),
+
+households_po65_pu_transit AS ( 
+SELECT households_po65_pu.*, pop_transit.pct_pop_using_public_transit
+    FROM households_po65_pu
+    JOIN [master].[dbo].[pct_pop_using_public_transit] AS pop_transit
+    ON households_po65_pu.state_fips = pop_transit.state and households_po65_pu.county_fips = pop_transit.county
+),
+
+households_pop AS ( 
+SELECT households_po65_pu_transit.*, pop_density.pop_density
+    FROM households_po65_pu_transit
+    JOIN [master].[dbo].[pop_density] AS pop_density
+    ON households_po65_pu_transit.state_fips = pop_density.state and households_po65_pu_transit.county_fips = pop_density.county
+)
+
+-- remove Puerto Rico (state fips = 72) and District of Columbia (state fips = 11)
+SELECT * 
+    FROM households_pop
+    WHERE state_fips != 72 and state_fips != 11
