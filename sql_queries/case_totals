@@ -1,3 +1,6 @@
+-- filter out Unknown counties
 SELECT county, state, fips, SUM(cases) AS cases_since_01212020, SUM(deaths) AS deaths_since_01212020
     FROM [master].[dbo].[covid19-cases]
+    WHERE county != 'Unknown'
     GROUP BY county, state, fips
+    -- ORDER BY county

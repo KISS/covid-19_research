@@ -1,0 +1,2341 @@
+state,county,less_than_25_percent_increase_wow
+Alabama,Blount,0
+Alabama,Calhoun,0
+Alabama,Cleburne,1
+Alabama,Coffee,0
+Alabama,DeKalb,0
+Alabama,Elmore,0
+Alabama,Escambia,0
+Alabama,Fayette,0
+Alabama,Houston,0
+Alabama,Lawrence,1
+Alabama,Madison,1
+Alabama,Marion,1
+Alabama,Monroe,1
+Alabama,St. Clair,0
+Alabama,Talladega,0
+Alabama,Tuscaloosa,0
+Alaska,Bethel Census Area,0
+Alaska,Petersburg Borough,0
+Arizona,La Paz,0
+Arizona,Maricopa,0
+Arizona,Mohave,0
+Arizona,Santa Cruz,0
+Arizona,Yuma,1
+California,Alpine,0
+California,Humboldt,0
+California,Imperial,0
+California,Nevada,0
+California,Placer,0
+California,San Francisco,0
+California,Shasta,0
+California,Siskiyou,0
+California,Stanislaus,0
+California,Tulare,0
+Colorado,Arapahoe,0
+Colorado,Costilla,0
+Colorado,Crowley,0
+Colorado,El Paso,0
+Colorado,Grand,0
+Colorado,Jefferson,0
+Colorado,Lake,0
+Colorado,Larimer,0
+Colorado,Lincoln,0
+Colorado,Moffat,0
+Colorado,Montezuma,0
+Colorado,Morgan,0
+Colorado,Otero,0
+Colorado,Phillips,0
+Colorado,Prowers,0
+Colorado,Rio Blanco,0
+Colorado,Routt,0
+Colorado,Teller,0
+Colorado,Washington,0
+Connecticut,Middlesex,0
+Connecticut,New Haven,0
+Delaware,New Castle,0
+Florida,Baker,1
+Florida,DeSoto,1
+Florida,Escambia,0
+Florida,Flagler,0
+Florida,Hendry,0
+Florida,Lee,1
+Florida,Liberty,0
+Florida,Madison,0
+Florida,Marion,0
+Florida,Suwannee,0
+Georgia,Bartow,1
+Georgia,Ben Hill,0
+Georgia,Camden,1
+Georgia,Catoosa,0
+Georgia,Clinch,0
+Georgia,Columbia,0
+Georgia,Cook,0
+Georgia,Crisp,0
+Georgia,Dawson,0
+Georgia,Dougherty,1
+Georgia,Douglas,0
+Georgia,Early,0
+Georgia,Echols,0
+Georgia,Fulton,0
+Georgia,Greene,0
+Georgia,Hancock,0
+Georgia,Irwin,0
+Georgia,Jackson,0
+Georgia,Jones,0
+Georgia,Lanier,1
+Georgia,Macon,0
+Georgia,McDuffie,0
+Georgia,Miller,0
+Georgia,Montgomery,0
+Georgia,Muscogee,0
+Georgia,Peach,0
+Georgia,Pierce,1
+Georgia,Pike,0
+Georgia,Quitman,0
+Georgia,Rockdale,0
+Georgia,Stewart,0
+Georgia,Tattnall,0
+Georgia,Telfair,0
+Georgia,Thomas,0
+Georgia,Toombs,0
+Georgia,Towns,0
+Georgia,Treutlen,0
+Georgia,Turner,0
+Georgia,Twiggs,0
+Georgia,Walker,0
+Georgia,Washington,1
+Georgia,Wayne,0
+Georgia,Wheeler,0
+Georgia,Whitfield,0
+Georgia,Wilkes,0
+Georgia,Wilkinson,0
+Idaho,Blaine,1
+Idaho,Canyon,0
+Idaho,Fremont,0
+Idaho,Gem,0
+Idaho,Lewis,0
+Idaho,Nez Perce,0
+Idaho,Twin Falls,0
+Idaho,Valley,0
+Idaho,Washington,0
+Illinois,Carroll,0
+Illinois,Champaign,0
+Illinois,Clark,0
+Illinois,Coles,0
+Illinois,DuPage,0
+Illinois,Effingham,0
+Illinois,Greene,0
+Illinois,Iroquois,0
+Illinois,Jefferson,0
+Illinois,Lake,0
+Illinois,Lawrence,0
+Illinois,Livingston,0
+Illinois,Macoupin,0
+Illinois,Menard,0
+Illinois,Morgan,0
+Illinois,Ogle,0
+Illinois,Randolph,0
+Alabama,Baldwin,0
+Alabama,Bibb,0
+Alabama,Cherokee,0
+Alabama,Chilton,0
+Alabama,Clarke,1
+Alabama,Clay,0
+Alabama,Covington,0
+Alabama,Franklin,0
+Alabama,Henry,0
+Alabama,Jackson,0
+Alabama,Lee,1
+Alabama,Macon,0
+Alabama,Marengo,0
+Alabama,Mobile,0
+Alabama,Montgomery,0
+Alabama,Randolph,0
+Alabama,Shelby,1
+Alabama,Walker,1
+Alabama,Wilcox,0
+Alaska,Matanuska-Susitna Borough,0
+Alaska,Prince of Wales-Hyder Census Area,0
+Alaska,Yukon-Koyukuk Census Area,0
+Arizona,Coconino,0
+Arizona,Gila,0
+Arizona,Pima,0
+California,Alameda,0
+California,Butte,0
+California,Colusa,0
+California,Contra Costa,0
+California,Del Norte,0
+California,El Dorado,0
+California,Fresno,0
+California,Glenn,0
+California,Kern,0
+California,Monterey,0
+California,Napa,0
+California,San Benito,0
+California,San Diego,0
+California,San Mateo,0
+California,Santa Clara,0
+California,Sonoma,0
+California,Tehama,0
+California,Ventura,0
+California,Yuba,0
+Colorado,Adams,0
+Colorado,Baca,1
+Colorado,Boulder,0
+Colorado,Broomfield,0
+Colorado,Chaffee,0
+Colorado,Custer,0
+Colorado,Delta,0
+Colorado,Denver,0
+Colorado,Eagle,0
+Colorado,Fremont,0
+Colorado,Gilpin,0
+Colorado,Gunnison,1
+Colorado,Hinsdale,0
+Colorado,Kit Carson,0
+Colorado,Logan,0
+Colorado,Park,0
+Colorado,San Miguel,1
+Colorado,Summit,0
+Colorado,Weld,0
+Connecticut,Hartford,0
+Connecticut,New London,0
+Connecticut,Tolland,0
+Delaware,Sussex,0
+Florida,Bradford,0
+Florida,Brevard,0
+Florida,Broward,0
+Florida,Dixie,0
+Florida,Duval,0
+Florida,Gadsden,0
+Florida,Gilchrist,0
+Florida,Hardee,0
+Florida,Hernando,1
+Florida,Highlands,1
+Florida,Jefferson,0
+Florida,Lafayette,0
+Florida,Leon,0
+Florida,Levy,0
+Florida,Nassau,0
+Florida,Okeechobee,0
+Florida,Orange,1
+Florida,Osceola,1
+Florida,Pasco,1
+Florida,Santa Rosa,1
+Florida,Sarasota,1
+Florida,Washington,0
+Georgia,Baldwin,0
+Georgia,Barrow,0
+Georgia,Berrien,0
+Georgia,Bleckley,0
+Georgia,Brantley,0
+Georgia,Butts,0
+Georgia,Calhoun,0
+Georgia,Chatham,1
+Georgia,Chattahoochee,0
+Georgia,Chattooga,0
+Georgia,Cherokee,0
+Georgia,Clay,1
+Georgia,Fannin,0
+Georgia,Fayette,0
+Georgia,Floyd,1
+Georgia,Franklin,0
+Georgia,Gilmer,0
+Georgia,Glynn,0
+Georgia,Haralson,0
+Georgia,Hart,0
+Georgia,Heard,0
+Georgia,Henry,0
+Georgia,Jasper,0
+Georgia,Jenkins,0
+Georgia,Johnson,0
+Georgia,Laurens,0
+Georgia,Lee,1
+Georgia,Liberty,0
+Georgia,Lowndes,0
+Georgia,McIntosh,0
+Georgia,Monroe,1
+Georgia,Morgan,0
+Georgia,Murray,1
+Georgia,Newton,0
+Georgia,Paulding,0
+Georgia,Polk,0
+Georgia,Seminole,0
+Georgia,Taylor,0
+Georgia,Troup,0
+Georgia,Union,0
+Hawaii,Hawaii,0
+Hawaii,Kauai,0
+Hawaii,Maui,0
+Idaho,Adams,0
+Alabama,Butler,0
+Alabama,Chambers,1
+Alabama,Conecuh,0
+Alabama,Dale,0
+Alabama,Dallas,0
+Alabama,Geneva,0
+Alabama,Hale,0
+Alabama,Jefferson,1
+Alabama,Lauderdale,1
+Alabama,Limestone,1
+Alabama,Pickens,0
+Alabama,Russell,0
+Alabama,Sumter,0
+Alabama,Tallapoosa,0
+Alabama,Winston,0
+Alaska,Kenai Peninsula Borough,1
+Alaska,Ketchikan Gateway Borough,1
+Alaska,Kodiak Island Borough,0
+Alaska,Southeast Fairbanks Census Area,0
+Arizona,Greenlee,0
+Arizona,Yavapai,1
+California,Marin,0
+California,Mendocino,0
+California,Merced,0
+California,Orange,0
+California,San Luis Obispo,0
+California,Santa Barbara,0
+California,Sutter,0
+California,Tuolumne,0
+Colorado,Alamosa,0
+Colorado,Archuleta,1
+Colorado,Douglas,0
+Colorado,Elbert,0
+Colorado,Huerfano,0
+Colorado,La Plata,0
+Colorado,Las Animas,0
+Colorado,Mesa,0
+Colorado,Montrose,0
+Colorado,Pitkin,1
+Colorado,Rio Grande,1
+Connecticut,Fairfield,0
+Connecticut,Windham,0
+Delaware,Kent,0
+Florida,Alachua,1
+Florida,Calhoun,1
+Florida,Clay,0
+Florida,Collier,0
+Florida,Franklin,0
+Florida,Gulf,0
+Florida,Hamilton,0
+Florida,Hillsborough,1
+Florida,Jackson,0
+Florida,Manatee,0
+Florida,Martin,1
+Florida,Monroe,1
+Florida,Pinellas,0
+Florida,Putnam,0
+Florida,St. Johns,1
+Florida,St. Lucie,0
+Florida,Taylor,0
+Florida,Union,0
+Florida,Volusia,0
+Florida,Walton,1
+Georgia,Bacon,0
+Georgia,Banks,0
+Georgia,Brooks,0
+Georgia,Bulloch,0
+Georgia,Carroll,0
+Georgia,Charlton,0
+Georgia,Clayton,0
+Georgia,Cobb,0
+Georgia,Coffee,0
+Georgia,Colquitt,0
+Georgia,Crawford,0
+Georgia,Dade,0
+Georgia,Elbert,0
+Georgia,Forsyth,0
+Georgia,Grady,0
+Georgia,Gwinnett,0
+Georgia,Habersham,0
+Georgia,Harris,0
+Georgia,Jefferson,0
+Georgia,Lamar,0
+Georgia,Lincoln,1
+Georgia,Long,0
+Georgia,Mitchell,0
+Georgia,Pickens,0
+Georgia,Pulaski,0
+Georgia,Rabun,1
+Georgia,Schley,0
+Georgia,Stephens,0
+Georgia,Sumter,0
+Georgia,Tift,0
+Georgia,Warren,0
+Georgia,Worth,0
+Idaho,Ada,0
+Idaho,Bannock,0
+Idaho,Bingham,0
+Idaho,Boundary,0
+Idaho,Caribou,0
+Idaho,Cassia,0
+Idaho,Jefferson,0
+Idaho,Lincoln,0
+Idaho,Power,0
+Illinois,Bond,0
+Illinois,Boone,0
+Illinois,De Witt,0
+Illinois,Douglas,1
+Illinois,Fayette,0
+Illinois,Fulton,0
+Illinois,Hancock,0
+Illinois,Henry,0
+Illinois,Jersey,0
+Illinois,Kane,0
+Illinois,Kendall,0
+Illinois,Knox,0
+Illinois,Madison,0
+Illinois,McHenry,0
+Illinois,Mercer,0
+Illinois,Moultrie,0
+Illinois,Sangamon,0
+Illinois,Stark,0
+Illinois,Vermilion,0
+Illinois,Woodford,0
+Indiana,Bartholomew,0
+Indiana,Benton,0
+Indiana,Blackford,0
+Indiana,Carroll,0
+Indiana,Cass,0
+Indiana,Crawford,0
+Indiana,DeKalb,0
+Illinois,Stephenson,0
+Illinois,Washington,0
+Illinois,Williamson,0
+Illinois,Winnebago,0
+Indiana,Allen,0
+Indiana,Brown,0
+Indiana,Clark,0
+Indiana,Daviess,0
+Indiana,Decatur,0
+Indiana,Delaware,0
+Indiana,Fayette,0
+Indiana,Franklin,0
+Indiana,Hendricks,0
+Indiana,Jasper,0
+Indiana,Jefferson,0
+Indiana,Madison,0
+Indiana,Newton,0
+Indiana,Parke,0
+Indiana,Rush,0
+Indiana,Scott,0
+Indiana,Tipton,0
+Indiana,White,0
+Kansas,Chautauqua,0
+Kansas,Cowley,0
+Kansas,Dickinson,0
+Kansas,Ford,0
+Kansas,Jewell,0
+Kansas,Linn,1
+Kansas,Miami,0
+Kansas,Montgomery,1
+Kansas,Neosho,0
+Kansas,Osage,0
+Kansas,Ottawa,0
+Kansas,Republic,0
+Kansas,Riley,0
+Kansas,Sedgwick,0
+Kansas,Stafford,0
+Kansas,Stanton,0
+Kansas,Wilson,0
+Kansas,Woodson,0
+Kentucky,Boyle,0
+Kentucky,Butler,0
+Kentucky,Caldwell,0
+Kentucky,Christian,0
+Kentucky,Crittenden,0
+Kentucky,Cumberland,0
+Kentucky,Edmonson,1
+Kentucky,Gallatin,0
+Kentucky,Garrard,0
+Kentucky,Graves,0
+Kentucky,Hart,0
+Kentucky,Henry,0
+Kentucky,Jackson,0
+Kentucky,Jessamine,0
+Kentucky,Kenton,0
+Kentucky,Larue,0
+Kentucky,McCracken,0
+Kentucky,McCreary,0
+Kentucky,Meade,0
+Kentucky,Montgomery,1
+Kentucky,Muhlenberg,0
+Kentucky,Nelson,0
+Kentucky,Owsley,0
+Kentucky,Pulaski,0
+Kentucky,Russell,0
+Kentucky,Shelby,0
+Kentucky,Spencer,0
+Kentucky,Taylor,0
+Louisiana,Allen,0
+Louisiana,Assumption,0
+Louisiana,Avoyelles,0
+Louisiana,Bossier,0
+Louisiana,Caddo,0
+Louisiana,Concordia,0
+Louisiana,De Soto,0
+Louisiana,East Baton Rouge,0
+Louisiana,East Feliciana,0
+Louisiana,Iberville,0
+Louisiana,Jefferson,0
+Louisiana,Lincoln,0
+Louisiana,Livingston,0
+Louisiana,Natchitoches,0
+Louisiana,Plaquemines,0
+Louisiana,Rapides,0
+Louisiana,Red River,0
+Louisiana,St. Bernard,0
+Louisiana,St. James,0
+Louisiana,West Baton Rouge,0
+Louisiana,West Feliciana,0
+Maine,Franklin,0
+Maine,Waldo,0
+Maine,York,1
+Maryland,Caroline,0
+Maryland,Frederick,0
+Maryland,Harford,0
+Maryland,Howard,0
+Maryland,Prince George's,0
+Maryland,Worcester,0
+Massachusetts,Berkshire,0
+Massachusetts,Bristol,0
+Massachusetts,Essex,0
+Massachusetts,Franklin,0
+Massachusetts,Hampden,0
+Massachusetts,Hampshire,0
+Massachusetts,Plymouth,0
+Massachusetts,Worcester,0
+Michigan,Cass,0
+Michigan,Charlevoix,0
+Michigan,Genesee,0
+Michigan,Kalkaska,0
+Michigan,Livingston,0
+Michigan,Marquette,0
+Michigan,Mason,0
+Michigan,Mecosta,0
+Michigan,Missaukee,0
+Michigan,Montcalm,0
+Michigan,Muskegon,0
+Michigan,Ogemaw,0
+Michigan,Osceola,0
+Michigan,Saginaw,0
+Michigan,Sanilac,0
+Michigan,Schoolcraft,0
+Michigan,Tuscola,0
+Michigan,Wexford,0
+Minnesota,Carlton,0
+Minnesota,Carver,1
+Minnesota,Cass,0
+Minnesota,Clay,0
+Minnesota,Dakota,0
+Minnesota,Freeborn,0
+Minnesota,Goodhue,0
+Minnesota,Lincoln,0
+Minnesota,Martin,1
+Minnesota,Meeker,0
+Minnesota,Ramsey,0
+Alabama,Autauga,0
+Alabama,Barbour,0
+Alabama,Bullock,0
+Alabama,Choctaw,0
+Alabama,Colbert,0
+Alabama,Coosa,0
+Alabama,Crenshaw,0
+Alabama,Cullman,1
+Alabama,Etowah,0
+Alabama,Greene,0
+Alabama,Lamar,1
+Alabama,Lowndes,0
+Alabama,Marshall,0
+Alabama,Morgan,1
+Alabama,Perry,0
+Alabama,Pike,0
+Alabama,Washington,0
+Alaska,Anchorage,0
+Alaska,Fairbanks North Star Borough,0
+Alaska,Juneau City and Borough,0
+Alaska,Nome Census Area,0
+Arizona,Apache,0
+Arizona,Cochise,0
+Arizona,Graham,0
+Arizona,Navajo,0
+Arizona,Pinal,0
+California,Amador,0
+California,Calaveras,0
+California,Inyo,1
+California,Kings,0
+California,Lake,0
+California,Los Angeles,0
+California,Madera,0
+California,Mono,1
+California,Plumas,0
+California,Riverside,0
+California,Sacramento,0
+California,San Bernardino,0
+California,San Joaquin,0
+California,Santa Cruz,0
+California,Solano,0
+California,Yolo,0
+Colorado,Clear Creek,0
+Colorado,Garfield,1
+Colorado,Mineral,0
+Colorado,Ouray,0
+Colorado,Pueblo,0
+Colorado,Saguache,0
+Colorado,Yuma,0
+Connecticut,Litchfield,0
+Florida,Bay,0
+Florida,Charlotte,1
+Florida,Citrus,1
+Florida,Columbia,0
+Florida,Glades,0
+Florida,Holmes,0
+Florida,Indian River,1
+Florida,Lake,0
+Florida,Miami-Dade,0
+Florida,Okaloosa,0
+Florida,Palm Beach,0
+Florida,Polk,0
+Florida,Seminole,1
+Florida,Sumter,0
+Florida,Wakulla,0
+Georgia,Appling,0
+Georgia,Atkinson,0
+Georgia,Baker,1
+Georgia,Bibb,0
+Georgia,Bryan,1
+Georgia,Burke,0
+Georgia,Candler,0
+Georgia,Clarke,0
+Georgia,Coweta,0
+Georgia,Decatur,0
+Georgia,DeKalb,0
+Georgia,Dodge,0
+Georgia,Dooly,0
+Georgia,Effingham,1
+Georgia,Emanuel,0
+Georgia,Evans,0
+Georgia,Gordon,0
+Georgia,Hall,0
+Georgia,Houston,0
+Georgia,Jeff Davis,0
+Georgia,Lumpkin,0
+Georgia,Madison,0
+Georgia,Marion,0
+Georgia,Meriwether,0
+Georgia,Oconee,0
+Georgia,Oglethorpe,0
+Georgia,Putnam,0
+Georgia,Randolph,1
+Georgia,Richmond,0
+Georgia,Screven,0
+Georgia,Spalding,0
+Georgia,Talbot,0
+Georgia,Terrell,0
+Georgia,Upson,0
+Georgia,Walton,0
+Georgia,Ware,0
+Georgia,Webster,0
+Georgia,White,0
+Georgia,Wilcox,0
+Hawaii,Honolulu,0
+Idaho,Bonner,0
+Idaho,Bonneville,0
+Idaho,Camas,0
+Idaho,Elmore,1
+Idaho,Kootenai,1
+Idaho,Madison,0
+Illinois,Adams,0
+Illinois,Bureau,0
+Illinois,Calhoun,0
+Illinois,Cook,0
+Illinois,Crawford,0
+Illinois,Franklin,0
+Illinois,Jasper,0
+Illinois,Jo Daviess,0
+Illinois,LaSalle,0
+Illinois,Lee,0
+Illinois,Macon,0
+Illinois,McLean,0
+Illinois,Monroe,0
+Illinois,Piatt,0
+Illinois,Pulaski,0
+Illinois,Richland,0
+Illinois,Rock Island,0
+Illinois,Saline,0
+Illinois,Shelby,0
+Illinois,St. Clair,0
+Illinois,Whiteside,0
+Indiana,Clinton,0
+Indiana,Fountain,0
+Indiana,Grant,0
+Idaho,Custer,0
+Idaho,Gooding,0
+Idaho,Idaho,0
+Idaho,Jerome,0
+Idaho,Latah,0
+Idaho,Minidoka,0
+Idaho,Owyhee,0
+Idaho,Payette,0
+Idaho,Teton,0
+Illinois,Christian,0
+Illinois,Clinton,0
+Illinois,Cumberland,0
+Illinois,DeKalb,0
+Illinois,Ford,0
+Illinois,Gallatin,0
+Illinois,Grundy,0
+Illinois,Jackson,0
+Illinois,Kankakee,0
+Illinois,Logan,0
+Illinois,Marion,0
+Illinois,Marshall,0
+Illinois,Mason,0
+Illinois,Massac,0
+Illinois,Montgomery,0
+Illinois,Peoria,0
+Illinois,Pike,0
+Illinois,Schuyler,0
+Illinois,Tazewell,0
+Illinois,Wabash,0
+Illinois,Will,0
+Indiana,Adams,0
+Indiana,Boone,0
+Indiana,Clay,0
+Indiana,Dearborn,0
+Indiana,Dubois,0
+Indiana,Floyd,0
+Indiana,Gibson,0
+Indiana,Hamilton,0
+Indiana,Henry,0
+Indiana,Howard,0
+Indiana,Huntington,0
+Indiana,Jackson,0
+Indiana,Johnson,0
+Indiana,LaGrange,0
+Indiana,Lawrence,0
+Indiana,Martin,0
+Indiana,Monroe,0
+Indiana,Putnam,0
+Indiana,Randolph,0
+Indiana,Spencer,0
+Indiana,Starke,0
+Indiana,Switzerland,1
+Indiana,Union,0
+Indiana,Vigo,0
+Indiana,Warrick,0
+Indiana,Wayne,0
+Kansas,Anderson,0
+Kansas,Atchison,0
+Kansas,Butler,0
+Kansas,Chase,0
+Kansas,Cloud,0
+Kansas,Crawford,1
+Kansas,Doniphan,0
+Kansas,Douglas,1
+Kansas,Geary,1
+Kansas,Gove,0
+Kansas,Harvey,0
+Kansas,Leavenworth,0
+Kansas,Marion,0
+Kansas,Morton,0
+Kansas,Phillips,0
+Kansas,Saline,0
+Kansas,Seward,0
+Kansas,Stevens,0
+Kentucky,Ballard,0
+Kentucky,Barren,0
+Kentucky,Boyd,1
+Kentucky,Carter,0
+Kentucky,Clark,0
+Kentucky,Fayette,0
+Kentucky,Franklin,0
+Kentucky,Grant,0
+Kentucky,Hancock,0
+Kentucky,Harrison,1
+Kentucky,Johnson,0
+Kentucky,Knott,0
+Kentucky,Knox,0
+Kentucky,Laurel,0
+Kentucky,Lewis,0
+Kentucky,McLean,0
+Kentucky,Mercer,0
+Kentucky,Monroe,0
+Kentucky,Morgan,0
+Kentucky,Pendleton,0
+Kentucky,Simpson,0
+Kentucky,Trigg,0
+Kentucky,Trimble,0
+Kentucky,Union,0
+Kentucky,Woodford,0
+Louisiana,Acadia,0
+Louisiana,East Carroll,0
+Louisiana,Evangeline,0
+Louisiana,Iberia,0
+Louisiana,Lafayette,0
+Louisiana,LaSalle,0
+Louisiana,Morehouse,0
+Louisiana,Ouachita,0
+Louisiana,St. John the Baptist,0
+Louisiana,St. Landry,0
+Louisiana,St. Tammany,0
+Louisiana,Washington,0
+Louisiana,Webster,0
+Maine,Aroostook,0
+Maine,Cumberland,0
+Maine,Washington,0
+Maryland,Allegany,0
+Maryland,Carroll,0
+Maryland,Cecil,0
+Maryland,Dorchester,0
+Maryland,Kent,0
+Maryland,Talbot,0
+Maryland,Washington,0
+Maryland,Wicomico,0
+Massachusetts,Norfolk,0
+Massachusetts,Suffolk,0
+Michigan,Allegan,0
+Michigan,Branch,0
+Michigan,Chippewa,0
+Michigan,Clare,0
+Michigan,Clinton,0
+Michigan,Crawford,0
+Michigan,Dickinson,0
+Michigan,Eaton,0
+Michigan,Gogebic,0
+Michigan,Gratiot,1
+Michigan,Ingham,0
+Michigan,Ionia,0
+Michigan,Iosco,0
+Michigan,Kalamazoo,0
+Michigan,Lapeer,0
+Michigan,Leelanau,0
+Minnesota,Redwood,0
+Minnesota,Steele,0
+Minnesota,Todd,0
+Minnesota,Traverse,0
+Minnesota,Washington,0
+Minnesota,Winona,0
+Mississippi,Adams,0
+Mississippi,Calhoun,0
+Mississippi,Hinds,0
+Mississippi,Jackson,0
+Mississippi,Jones,0
+Mississippi,Lauderdale,0
+Mississippi,Leflore,0
+Mississippi,Marion,0
+Mississippi,Monroe,0
+Mississippi,Panola,0
+Mississippi,Perry,1
+Mississippi,Prentiss,0
+Mississippi,Sunflower,1
+Mississippi,Tippah,1
+Mississippi,Tunica,0
+Mississippi,Wayne,0
+Missouri,Adair,1
+Missouri,Andrew,0
+Missouri,Atchison,0
+Missouri,Bollinger,0
+Missouri,Cape Girardeau,1
+Missouri,Cass,1
+Missouri,Chariton,0
+Missouri,Clark,0
+Missouri,Dunklin,1
+Missouri,Gentry,0
+Missouri,Jefferson,0
+Missouri,Johnson,1
+Missouri,Lafayette,1
+Missouri,Lincoln,1
+Missouri,Livingston,0
+Missouri,New Madrid,1
+Missouri,Nodaway,0
+Missouri,Oregon,0
+Missouri,Randolph,1
+Montana,Beaverhead,0
+Montana,Cascade,1
+Montana,Flathead,1
+Montana,Hill,0
+Montana,Jefferson,0
+Montana,Lake,0
+Montana,Lincoln,1
+Montana,Park,1
+Montana,Silver Bow,1
+Montana,Stillwater,0
+Nevada,Clark,0
+Nevada,Lander,0
+Nevada,Mineral,0
+Nevada,Nye,0
+New Jersey,Bergen,0
+New Jersey,Cape May,0
+New Jersey,Hudson,0
+New Jersey,Mercer,0
+New Jersey,Monmouth,0
+New Jersey,Passaic,0
+New Mexico,Cibola,0
+New Mexico,Doña Ana,0
+New Mexico,Los Alamos,0
+New Mexico,Roosevelt,0
+New Mexico,San Miguel,0
+New Mexico,Santa Fe,0
+New York,Albany,0
+New York,Allegany,0
+New York,Chautauqua,0
+New York,Chenango,0
+New York,Clinton,0
+New York,Columbia,0
+New York,Fulton,0
+New York,Herkimer,0
+New York,Montgomery,0
+New York,Nassau,0
+New York,Schenectady,0
+New York,Schoharie,0
+New York,Steuben,0
+New York,Warren,0
+New York,Wayne,0
+New York,Yates,0
+North Carolina,Alamance,0
+North Carolina,Anson,0
+North Carolina,Catawba,0
+North Carolina,Chowan,0
+North Carolina,Clay,0
+North Carolina,Cleveland,0
+North Carolina,Craven,0
+North Carolina,Currituck,0
+North Carolina,Davie,1
+North Carolina,Forsyth,1
+North Carolina,Gates,0
+North Carolina,Greene,0
+North Carolina,Hertford,0
+North Carolina,Lincoln,0
+North Carolina,Martin,0
+North Carolina,Moore,0
+North Carolina,Northampton,1
+North Carolina,Pender,0
+North Carolina,Polk,1
+North Carolina,Randolph,0
+North Carolina,Rowan,0
+North Carolina,Rutherford,0
+North Carolina,Stanly,0
+North Carolina,Stokes,0
+North Carolina,Transylvania,1
+North Carolina,Union,0
+North Carolina,Vance,0
+North Carolina,Warren,0
+North Carolina,Washington,0
+Ohio,Adams,0
+Ohio,Belmont,0
+Ohio,Clinton,0
+Ohio,Crawford,0
+Ohio,Fulton,0
+Ohio,Guernsey,0
+Ohio,Hancock,0
+Ohio,Hardin,0
+Ohio,Hocking,0
+Indiana,Elkhart,0
+Indiana,Fulton,0
+Indiana,Greene,0
+Indiana,Jay,0
+Indiana,Kosciusko,0
+Indiana,LaPorte,0
+Indiana,Marion,0
+Indiana,Noble,0
+Indiana,Ohio,0
+Indiana,Orange,0
+Indiana,Pike,0
+Indiana,Ripley,0
+Indiana,Sullivan,0
+Indiana,Vermillion,0
+Indiana,Wabash,0
+Indiana,Warren,0
+Indiana,Washington,0
+Indiana,Wells,0
+Kansas,Barber,0
+Kansas,Clay,0
+Kansas,Coffey,0
+Kansas,Ellis,0
+Kansas,Franklin,1
+Kansas,Greenwood,0
+Kansas,Hamilton,0
+Kansas,Jackson,0
+Kansas,Johnson,0
+Kansas,Labette,0
+Kansas,Osborne,0
+Kansas,Pottawatomie,0
+Kansas,Reno,0
+Kansas,Shawnee,0
+Kansas,Wabaunsee,0
+Kentucky,Anderson,0
+Kentucky,Bath,0
+Kentucky,Bracken,0
+Kentucky,Breathitt,0
+Kentucky,Breckinridge,0
+Kentucky,Calloway,0
+Kentucky,Campbell,0
+Kentucky,Clinton,0
+Kentucky,Daviess,0
+Kentucky,Floyd,0
+Kentucky,Grayson,0
+Kentucky,Green,0
+Kentucky,Greenup,0
+Kentucky,Hardin,0
+Kentucky,Henderson,0
+Kentucky,Hopkins,0
+Kentucky,Lawrence,0
+Kentucky,Letcher,0
+Kentucky,Lincoln,0
+Kentucky,Livingston,0
+Kentucky,Marion,0
+Kentucky,Marshall,0
+Kentucky,Menifee,0
+Kentucky,Ohio,0
+Kentucky,Oldham,0
+Kentucky,Perry,0
+Kentucky,Pike,0
+Kentucky,Rockcastle,0
+Kentucky,Scott,0
+Kentucky,Wayne,0
+Kentucky,Webster,0
+Kentucky,Whitley,0
+Louisiana,Bienville,0
+Louisiana,Calcasieu,0
+Louisiana,Catahoula,0
+Louisiana,Claiborne,0
+Louisiana,Grant,0
+Louisiana,Jackson,0
+Louisiana,Lafourche,0
+Louisiana,Madison,0
+Louisiana,Pointe Coupee,0
+Louisiana,Richland,0
+Louisiana,Sabine,0
+Louisiana,St. Charles,0
+Louisiana,St. Martin,0
+Louisiana,St. Mary,0
+Louisiana,Tangipahoa,0
+Louisiana,Tensas,0
+Louisiana,Union,0
+Louisiana,Vermilion,0
+Louisiana,West Carroll,0
+Maine,Androscoggin,0
+Maine,Hancock,0
+Maine,Kennebec,0
+Maine,Knox,1
+Maine,Oxford,1
+Maine,Penobscot,0
+Maine,Sagadahoc,1
+Maryland,Baltimore,0
+Maryland,Baltimore city,0
+Michigan,Alpena,0
+Michigan,Berrien,0
+Michigan,Calhoun,0
+Michigan,Grand Traverse,0
+Michigan,Isabella,0
+Michigan,Lake,0
+Michigan,Mackinac,0
+Michigan,Manistee,0
+Michigan,Midland,0
+Michigan,Monroe,0
+Michigan,Oakland,0
+Michigan,Ontonagon,0
+Michigan,Presque Isle,0
+Michigan,Shiawassee,0
+Michigan,St. Joseph,1
+Michigan,Van Buren,0
+Minnesota,Beltrami,1
+Minnesota,Benton,0
+Minnesota,Big Stone,0
+Minnesota,Brown,1
+Minnesota,Crow Wing,1
+Minnesota,Isanti,0
+Minnesota,Mille Lacs,0
+Minnesota,Murray,0
+Minnesota,Nobles,0
+Minnesota,Norman,0
+Minnesota,Olmsted,0
+Minnesota,Red Lake,0
+Minnesota,Renville,0
+Minnesota,Roseau,0
+Minnesota,St. Louis,0
+Minnesota,Stearns,1
+Minnesota,Waseca,0
+Minnesota,Wilkin,0
+Mississippi,Bolivar,1
+Mississippi,Claiborne,0
+Mississippi,Coahoma,0
+Mississippi,Franklin,0
+Mississippi,Hancock,1
+Mississippi,Harrison,0
+Mississippi,Humphreys,1
+Indiana,Hancock,0
+Indiana,Harrison,0
+Indiana,Jennings,0
+Indiana,Knox,0
+Indiana,Lake,0
+Indiana,Marshall,0
+Indiana,Miami,0
+Indiana,Montgomery,0
+Indiana,Morgan,0
+Indiana,Owen,0
+Indiana,Perry,0
+Indiana,Porter,0
+Indiana,Posey,0
+Indiana,Pulaski,0
+Indiana,Shelby,0
+Indiana,St. Joseph,0
+Indiana,Steuben,0
+Indiana,Tippecanoe,0
+Indiana,Vanderburgh,0
+Indiana,Whitley,0
+Kansas,Barton,0
+Kansas,Bourbon,1
+Kansas,Cherokee,1
+Kansas,Finney,0
+Kansas,Jefferson,0
+Kansas,Kearny,0
+Kansas,Lyon,0
+Kansas,McPherson,0
+Kansas,Mitchell,0
+Kansas,Morris,0
+Kansas,Pratt,0
+Kansas,Rooks,0
+Kansas,Scott,0
+Kansas,Sheridan,0
+Kansas,Sherman,0
+Kansas,Smith,0
+Kansas,Sumner,0
+Kansas,Wyandotte,0
+Kentucky,Adair,0
+Kentucky,Allen,0
+Kentucky,Boone,0
+Kentucky,Bourbon,0
+Kentucky,Bullitt,0
+Kentucky,Carroll,0
+Kentucky,Casey,0
+Kentucky,Fleming,0
+Kentucky,Jefferson,0
+Kentucky,Leslie,0
+Kentucky,Logan,0
+Kentucky,Lyon,0
+Kentucky,Madison,0
+Kentucky,Martin,0
+Kentucky,Mason,0
+Kentucky,Nicholas,0
+Kentucky,Powell,0
+Kentucky,Rowan,0
+Kentucky,Todd,0
+Kentucky,Warren,0
+Kentucky,Washington,0
+Louisiana,Ascension,0
+Louisiana,Beauregard,0
+Louisiana,Caldwell,0
+Louisiana,Cameron,0
+Louisiana,Franklin,0
+Louisiana,Jefferson Davis,0
+Louisiana,Orleans,0
+Louisiana,St. Helena,0
+Louisiana,Terrebonne,0
+Louisiana,Vernon,0
+Louisiana,Winn,0
+Maine,Lincoln,1
+Maine,Piscataquis,0
+Maine,Somerset,0
+Maryland,Anne Arundel,0
+Maryland,Calvert,0
+Maryland,Charles,0
+Maryland,Garrett,0
+Maryland,Montgomery,0
+Maryland,Queen Anne's,0
+Maryland,Somerset,0
+Maryland,St. Mary's,0
+Massachusetts,Barnstable,0
+Massachusetts,Dukes,0
+Massachusetts,Middlesex,0
+Massachusetts,Nantucket,0
+Michigan,Antrim,0
+Michigan,Arenac,0
+Michigan,Barry,0
+Michigan,Bay,0
+Michigan,Benzie,0
+Michigan,Cheboygan,1
+Michigan,Delta,1
+Michigan,Emmet,0
+Michigan,Gladwin,0
+Michigan,Hillsdale,0
+Michigan,Houghton,0
+Michigan,Huron,0
+Michigan,Jackson,0
+Michigan,Kent,0
+Michigan,Lenawee,0
+Michigan,Oceana,0
+Michigan,Oscoda,0
+Michigan,Ottawa,0
+Michigan,Roscommon,0
+Michigan,Wayne,0
+Minnesota,Anoka,0
+Minnesota,Blue Earth,0
+Minnesota,Chisago,0
+Minnesota,Clearwater,0
+Minnesota,Douglas,0
+Minnesota,Faribault,0
+Minnesota,Hennepin,0
+Minnesota,Jackson,0
+Minnesota,Koochiching,0
+Minnesota,Lac qui Parle,0
+Minnesota,Le Sueur,1
+Minnesota,McLeod,0
+Minnesota,Rice,0
+Minnesota,Rock,0
+Minnesota,Scott,0
+Minnesota,Sherburne,1
+Minnesota,Sibley,0
+Minnesota,Wabasha,1
+Minnesota,Yellow Medicine,0
+Mississippi,Attala,0
+Mississippi,Carroll,1
+Mississippi,Chickasaw,0
+Mississippi,Clay,0
+Mississippi,Covington,0
+Mississippi,DeSoto,0
+Mississippi,Forrest,0
+Mississippi,Greene,0
+Mississippi,Grenada,0
+Mississippi,Kemper,0
+Mississippi,Lafayette,0
+Michigan,Luce,0
+Michigan,Macomb,0
+Michigan,Menominee,0
+Michigan,Montmorency,0
+Michigan,Newaygo,0
+Michigan,Otsego,0
+Michigan,St. Clair,0
+Michigan,Washtenaw,0
+Minnesota,Becker,0
+Minnesota,Cottonwood,1
+Minnesota,Dodge,0
+Minnesota,Fillmore,1
+Minnesota,Houston,0
+Minnesota,Itasca,0
+Minnesota,Kandiyohi,0
+Minnesota,Lyon,0
+Minnesota,Mahnomen,0
+Minnesota,Mower,0
+Minnesota,Nicollet,0
+Minnesota,Otter Tail,0
+Minnesota,Pine,0
+Minnesota,Pipestone,0
+Minnesota,Polk,0
+Minnesota,Swift,0
+Minnesota,Watonwan,0
+Minnesota,Wright,0
+Mississippi,Alcorn,1
+Mississippi,Amite,0
+Mississippi,Benton,1
+Mississippi,Choctaw,1
+Mississippi,Clarke,0
+Mississippi,Copiah,0
+Mississippi,George,0
+Mississippi,Holmes,0
+Mississippi,Jefferson Davis,0
+Mississippi,Marshall,1
+Mississippi,Montgomery,1
+Mississippi,Neshoba,0
+Mississippi,Noxubee,0
+Mississippi,Scott,0
+Mississippi,Tate,0
+Mississippi,Webster,1
+Mississippi,Wilkinson,0
+Mississippi,Winston,0
+Mississippi,Yalobusha,1
+Mississippi,Yazoo,0
+Missouri,Audrain,0
+Missouri,Barry,0
+Missouri,Bates,1
+Missouri,Benton,0
+Missouri,Butler,0
+Missouri,Caldwell,0
+Missouri,Callaway,1
+Missouri,Camden,1
+Missouri,Carroll,0
+Missouri,Cedar,1
+Missouri,Clinton,1
+Missouri,Dallas,0
+Missouri,Daviess,0
+Missouri,DeKalb,0
+Missouri,Greene,1
+Missouri,Holt,0
+Missouri,Howell,0
+Missouri,Maries,0
+Missouri,Marion,0
+Missouri,McDonald,0
+Missouri,Moniteau,0
+Missouri,Montgomery,1
+Missouri,Osage,0
+Missouri,Pike,1
+Missouri,Ralls,0
+Missouri,Ray,1
+Missouri,Ripley,0
+Missouri,Scott,0
+Missouri,St. Francois,1
+Missouri,Taney,1
+Missouri,Warren,0
+Missouri,Washington,0
+Missouri,Webster,0
+Missouri,Worth,0
+Montana,Broadwater,0
+Montana,Missoula,0
+Montana,Musselshell,0
+Montana,Pondera,0
+Nevada,Churchill,0
+Nevada,Humboldt,0
+New Hampshire,Cheshire,0
+New Hampshire,Coos,0
+New Hampshire,Hillsborough,0
+New Hampshire,Merrimack,0
+New Hampshire,Rockingham,0
+New Hampshire,Strafford,0
+New Hampshire,Sullivan,1
+New Jersey,Burlington,0
+New Jersey,Cumberland,0
+New Jersey,Ocean,0
+New Mexico,Luna,0
+New Mexico,McKinley,0
+New Mexico,Otero,0
+New York,Franklin,1
+New York,Hamilton,0
+New York,Lewis,0
+New York,Monroe,0
+New York,Niagara,0
+New York,Oneida,0
+New York,Orleans,0
+New York,Oswego,0
+New York,Putnam,0
+New York,Saratoga,0
+New York,Seneca,0
+New York,Tompkins,0
+New York,Wyoming,0
+North Carolina,Alexander,0
+North Carolina,Buncombe,1
+North Carolina,Burke,0
+North Carolina,Cabarrus,0
+North Carolina,Carteret,1
+North Carolina,Caswell,0
+North Carolina,Dare,1
+North Carolina,Davidson,1
+Ohio,Holmes,0
+Ohio,Huron,0
+Ohio,Knox,0
+Ohio,Licking,0
+Ohio,Lucas,0
+Ohio,Mahoning,0
+Ohio,Miami,0
+Ohio,Monroe,0
+Ohio,Morgan,0
+Ohio,Morrow,0
+Ohio,Pickaway,0
+Ohio,Shelby,0
+Ohio,Wayne,0
+Ohio,Wood,0
+Oregon,Clackamas,0
+Oregon,Columbia,0
+Oregon,Deschutes,0
+Oregon,Grant,0
+Oregon,Hood River,0
+Oregon,Morrow,0
+Oregon,Polk,0
+Oregon,Umatilla,0
+Pennsylvania,Beaver,0
+Pennsylvania,Bucks,0
+Pennsylvania,Cambria,0
+Pennsylvania,Carbon,0
+Pennsylvania,Clearfield,1
+Pennsylvania,Clinton,0
+Pennsylvania,Columbia,0
+Pennsylvania,Cumberland,0
+Pennsylvania,Indiana,0
+Pennsylvania,Montgomery,0
+Pennsylvania,Montour,0
+Pennsylvania,Northumberland,0
+Pennsylvania,Somerset,0
+Pennsylvania,Susquehanna,0
+Rhode Island,Newport,0
+South Carolina,Abbeville,0
+South Carolina,Barnwell,0
+South Carolina,Beaufort,1
+South Carolina,Cherokee,1
+South Carolina,Chester,1
+South Carolina,Clarendon,0
+South Carolina,Colleton,1
+South Carolina,Edgefield,0
+South Carolina,Florence,0
+South Carolina,Jasper,1
+South Carolina,Laurens,0
+South Carolina,Lee,1
+South Carolina,Marion,0
+South Carolina,Oconee,0
+South Carolina,Orangeburg,1
+South Carolina,Pickens,0
+Tennessee,Cumberland,0
+Tennessee,Dickson,0
+Tennessee,Dyer,0
+Tennessee,Fentress,0
+Tennessee,Grundy,0
+Tennessee,Hawkins,0
+Tennessee,Haywood,1
+Tennessee,Henderson,0
+Tennessee,Jackson,0
+Tennessee,Lauderdale,0
+Tennessee,Macon,0
+Tennessee,Perry,0
+Tennessee,Sevier,1
+Tennessee,Shelby,0
+Tennessee,Stewart,0
+Tennessee,Wayne,0
+Tennessee,Weakley,1
+Texas,Bell,0
+Texas,Bowie,0
+Texas,Brazoria,0
+Texas,Brazos,1
+Texas,Brown,0
+Texas,Burnet,0
+Texas,Calhoun,0
+Texas,Cameron,0
+Texas,Carson,0
+Texas,Cherokee,1
+Texas,Childress,0
+Texas,Colorado,0
+Texas,Comanche,0
+Texas,Erath,1
+Texas,Fayette,1
+Texas,Franklin,0
+Texas,Freestone,0
+Texas,Grayson,1
+Texas,Gregg,0
+Texas,Grimes,0
+Texas,Guadalupe,1
+Texas,Hansford,0
+Texas,Hidalgo,0
+Texas,Houston,0
+Texas,Howard,0
+Texas,Jasper,1
+Texas,Lee,0
+Texas,Liberty,0
+Texas,Llano,0
+Texas,Marion,0
+Texas,Maverick,0
+Texas,Midland,0
+Texas,Milam,0
+Texas,Morris,0
+Texas,Nacogdoches,0
+Texas,Newton,0
+Texas,Orange,0
+Texas,Pecos,0
+Texas,Rockwall,0
+Texas,Rusk,0
+Texas,Scurry,0
+Texas,Shelby,0
+Texas,Sherman,0
+Texas,Smith,1
+Texas,Stephens,0
+Texas,Travis,0
+Texas,Trinity,0
+Texas,Van Zandt,1
+Texas,Wharton,0
+Texas,Wood,1
+Texas,Zapata,0
+Vermont,Caledonia,0
+Vermont,Chittenden,0
+Vermont,Rutland,0
+Vermont,Windsor,1
+Virginia,Arlington,0
+Virginia,Augusta,0
+Virginia,Campbell,0
+Virginia,Charlotte,0
+Virginia,Chesterfield,0
+Virginia,Dinwiddie,0
+Mississippi,Itawamba,0
+Mississippi,Jasper,0
+Mississippi,Jefferson,0
+Mississippi,Lee,0
+Mississippi,Lowndes,0
+Mississippi,Madison,0
+Mississippi,Newton,0
+Mississippi,Oktibbeha,1
+Mississippi,Simpson,0
+Mississippi,Smith,0
+Mississippi,Stone,0
+Mississippi,Tallahatchie,0
+Mississippi,Tishomingo,0
+Mississippi,Walthall,0
+Missouri,Boone,1
+Missouri,Carter,0
+Missouri,Clay,1
+Missouri,Franklin,1
+Missouri,Gasconade,0
+Missouri,Henry,1
+Missouri,Kansas City,1
+Missouri,Lewis,0
+Missouri,Madison,0
+Missouri,Morgan,0
+Missouri,Newton,1
+Missouri,Phelps,0
+Missouri,Platte,1
+Missouri,Polk,0
+Missouri,Reynolds,0
+Missouri,St. Charles,1
+Missouri,St. Louis city,0
+Missouri,Ste. Genevieve,1
+Missouri,Stone,0
+Missouri,Wright,1
+Montana,Big Horn,0
+Montana,Carbon,1
+Montana,Deer Lodge,0
+Montana,Golden Valley,0
+Montana,Madison,1
+Montana,Richland,0
+Montana,Toole,0
+Nevada,Elko,1
+Nevada,Lyon,0
+Nevada,Washoe,0
+Nevada,White Pine,0
+New Hampshire,Belknap,1
+New Hampshire,Carroll,0
+New Hampshire,Grafton,1
+New Jersey,Atlantic,0
+New Jersey,Essex,0
+New Jersey,Morris,0
+New Mexico,Bernalillo,0
+New Mexico,Colfax,0
+New Mexico,Curry,0
+New Mexico,Grant,0
+New Mexico,Quay,0
+New Mexico,San Juan,0
+New Mexico,Taos,1
+New Mexico,Torrance,0
+New Mexico,Valencia,0
+New York,Broome,0
+New York,Cayuga,0
+New York,Chemung,0
+New York,Cortland,0
+New York,Essex,0
+New York,Greene,0
+New York,Jefferson,0
+New York,Onondaga,0
+New York,Ontario,0
+New York,Orange,0
+New York,Otsego,0
+New York,Schuyler,0
+New York,Tioga,0
+New York,Washington,0
+North Carolina,Alleghany,0
+North Carolina,Beaufort,0
+North Carolina,Brunswick,1
+North Carolina,Chatham,0
+North Carolina,Cherokee,0
+North Carolina,Edgecombe,0
+North Carolina,Gaston,0
+North Carolina,Henderson,0
+North Carolina,Hoke,0
+North Carolina,Mecklenburg,1
+North Carolina,Montgomery,0
+North Carolina,Nash,0
+North Carolina,Onslow,0
+North Carolina,Pamlico,0
+North Carolina,Perquimans,0
+North Carolina,Robeson,0
+North Carolina,Scotland,0
+North Carolina,Wake,0
+North Carolina,Wayne,0
+Ohio,Clermont,0
+Ohio,Columbiana,0
+Ohio,Coshocton,0
+Ohio,Defiance,0
+Ohio,Erie,0
+Ohio,Fairfield,0
+Ohio,Fayette,0
+Ohio,Franklin,0
+Ohio,Gallia,0
+Ohio,Henry,0
+Ohio,Jackson,0
+Ohio,Lake,0
+Ohio,Madison,0
+Ohio,Mercer,0
+Ohio,Ottawa,0
+Ohio,Paulding,0
+Ohio,Portage,0
+Ohio,Putnam,0
+Ohio,Richland,0
+Ohio,Ross,0
+Ohio,Scioto,0
+Ohio,Seneca,0
+Ohio,Stark,0
+Ohio,Union,0
+Oregon,Jackson,0
+Oregon,Josephine,0
+Oregon,Lane,0
+Oregon,Linn,0
+Oregon,Malheur,0
+Oregon,Multnomah,0
+Oregon,Union,0
+Oregon,Yamhill,0
+Pennsylvania,Adams,0
+Pennsylvania,Allegheny,1
+Virginia,Fluvanna,0
+Virginia,Galax city,0
+Virginia,Gloucester,0
+Virginia,Hopewell city,1
+Virginia,James City,1
+Virginia,Mecklenburg,0
+Virginia,Montgomery,0
+Virginia,Northumberland,0
+Virginia,Roanoke city,0
+Virginia,Rockbridge,0
+Virginia,Spotsylvania,0
+Virginia,Stafford,0
+Virginia,Wise,0
+Washington,Adams,0
+Washington,Asotin,0
+Washington,Benton,0
+Washington,Chelan,0
+Washington,Franklin,0
+Washington,Kittitas,0
+Washington,Mason,0
+Washington,Stevens,0
+Washington,Whitman,0
+West Virginia,Boone,0
+West Virginia,Braxton,0
+West Virginia,Jefferson,0
+West Virginia,Logan,0
+West Virginia,Mason,0
+West Virginia,Mercer,0
+West Virginia,Nicholas,0
+West Virginia,Pleasants,0
+West Virginia,Putnam,0
+West Virginia,Randolph,0
+West Virginia,Wetzel,0
+West Virginia,Wirt,0
+West Virginia,Wyoming,0
+Wisconsin,Columbia,0
+Wisconsin,Dane,0
+Wisconsin,Douglas,1
+Wisconsin,Dunn,0
+Wisconsin,Grant,0
+Wisconsin,Iron,0
+Wisconsin,Jackson,0
+Wisconsin,Kenosha,0
+Wisconsin,La Crosse,1
+Wisconsin,Marinette,0
+Wisconsin,Menominee,0
+Wisconsin,Ozaukee,0
+Wisconsin,Pierce,1
+Wisconsin,Sheboygan,0
+Mississippi,Lamar,0
+Mississippi,Lawrence,0
+Mississippi,Leake,0
+Mississippi,Lincoln,0
+Mississippi,Pearl River,0
+Mississippi,Pike,0
+Mississippi,Pontotoc,1
+Mississippi,Quitman,1
+Mississippi,Rankin,0
+Mississippi,Sharkey,0
+Mississippi,Union,0
+Mississippi,Warren,0
+Mississippi,Washington,0
+Missouri,Buchanan,0
+Missouri,Christian,1
+Missouri,Cole,1
+Missouri,Cooper,0
+Missouri,Crawford,1
+Missouri,Harrison,1
+Missouri,Howard,0
+Missouri,Iron,0
+Missouri,Jackson,1
+Missouri,Jasper,1
+Missouri,Linn,0
+Missouri,Macon,0
+Missouri,Miller,0
+Missouri,Mississippi,0
+Missouri,Pemiscot,0
+Missouri,Perry,1
+Missouri,Pettis,0
+Missouri,Pulaski,0
+Missouri,Saline,0
+Missouri,Scotland,0
+Missouri,Shelby,0
+Missouri,St. Clair,0
+Missouri,St. Louis,0
+Missouri,Stoddard,0
+Missouri,Vernon,0
+Montana,Gallatin,1
+Montana,Glacier,0
+Montana,Lewis and Clark,1
+Montana,Liberty,0
+Montana,Meagher,0
+Montana,Ravalli,0
+Montana,Roosevelt,0
+Montana,Yellowstone,0
+Nevada,Carson City,0
+Nevada,Douglas,0
+New Jersey,Camden,0
+New Jersey,Gloucester,0
+New Jersey,Hunterdon,0
+New Jersey,Middlesex,0
+New Jersey,Salem,0
+New Jersey,Somerset,0
+New Jersey,Sussex,0
+New Jersey,Union,0
+New Jersey,Warren,0
+New Mexico,Catron,0
+New Mexico,Chaves,0
+New Mexico,Eddy,0
+New Mexico,Hidalgo,0
+New Mexico,Lea,0
+New Mexico,Lincoln,0
+New Mexico,Rio Arriba,0
+New Mexico,Sandoval,0
+New Mexico,Socorro,0
+New York,Cattaraugus,0
+New York,Delaware,0
+New York,Dutchess,0
+New York,Erie,0
+New York,Genesee,0
+New York,Livingston,0
+New York,Madison,0
+New York,New York City,0
+New York,Rensselaer,0
+New York,Rockland,0
+New York,St. Lawrence,0
+New York,Suffolk,0
+New York,Sullivan,0
+New York,Ulster,0
+New York,Westchester,0
+North Carolina,Ashe,0
+North Carolina,Bertie,0
+North Carolina,Bladen,0
+North Carolina,Caldwell,0
+North Carolina,Columbus,0
+North Carolina,Cumberland,0
+North Carolina,Durham,0
+North Carolina,Franklin,0
+North Carolina,Guilford,0
+North Carolina,Harnett,0
+North Carolina,Haywood,0
+North Carolina,Jackson,0
+North Carolina,Johnston,0
+North Carolina,Lee,0
+North Carolina,Lenoir,0
+North Carolina,Macon,0
+North Carolina,New Hanover,1
+North Carolina,Orange,0
+North Carolina,Pasquotank,0
+North Carolina,Pitt,0
+North Carolina,Sampson,0
+North Carolina,Surry,0
+North Carolina,Tyrrell,0
+North Carolina,Yadkin,1
+Ohio,Allen,0
+Ohio,Ashland,0
+Ohio,Auglaize,0
+Ohio,Brown,0
+Ohio,Champaign,0
+Ohio,Clark,0
+Ohio,Cuyahoga,0
+Ohio,Darke,0
+Ohio,Delaware,0
+Ohio,Hamilton,0
+Ohio,Jefferson,0
+Ohio,Lawrence,0
+Ohio,Logan,0
+Ohio,Medina,0
+Ohio,Noble,0
+Ohio,Sandusky,0
+Ohio,Summit,0
+Ohio,Van Wert,0
+Ohio,Wyandot,0
+Oregon,Benton,0
+Oregon,Coos,0
+Oregon,Crook,0
+Oregon,Curry,0
+Oregon,Marion,0
+Pennsylvania,Armstrong,0
+Pennsylvania,Berks,0
+Pennsylvania,Blair,0
+Pennsylvania,Centre,1
+Pennsylvania,Franklin,0
+Pennsylvania,Juniata,0
+Pennsylvania,Lancaster,0
+Pennsylvania,Luzerne,0
+Pennsylvania,Lycoming,0
+Pennsylvania,Mercer,0
+Pennsylvania,Mifflin,0
+Pennsylvania,Monroe,1
+Pennsylvania,Northampton,0
+Pennsylvania,Philadelphia,0
+Pennsylvania,Potter,0
+Pennsylvania,Schuylkill,0
+Pennsylvania,Union,0
+Pennsylvania,Venango,1
+Pennsylvania,Wyoming,0
+Pennsylvania,York,0
+Rhode Island,Bristol,0
+South Carolina,Aiken,0
+South Carolina,Allendale,0
+South Carolina,Anderson,1
+South Carolina,Charleston,1
+South Carolina,Dorchester,1
+South Carolina,Greenville,0
+South Carolina,Lexington,1
+Tennessee,Anderson,1
+Tennessee,Benton,0
+Tennessee,Bradley,1
+Tennessee,Campbell,0
+Tennessee,Coffee,0
+Tennessee,Crockett,0
+Tennessee,Davidson,0
+Tennessee,DeKalb,0
+Tennessee,Hamblen,0
+Tennessee,Hardin,0
+Tennessee,Hickman,0
+Tennessee,Jefferson,1
+Tennessee,Lincoln,0
+Tennessee,Marshall,0
+Tennessee,McMinn,0
+Tennessee,Meigs,0
+Tennessee,Montgomery,0
+Tennessee,Obion,0
+Tennessee,Robertson,0
+Tennessee,Rutherford,0
+Tennessee,Scott,0
+Tennessee,Sequatchie,0
+Tennessee,Trousdale,0
+Tennessee,White,0
+Texas,Andrews,0
+Texas,Angelina,0
+Texas,Blanco,0
+Texas,Brooks,0
+Texas,Caldwell,0
+Texas,Camp,0
+Texas,Cass,0
+Texas,Castro,1
+Texas,Coryell,0
+Texas,Dallas,0
+Texas,Deaf Smith,0
+Texas,DeWitt,0
+Texas,Dimmit,0
+Texas,Duval,0
+Texas,Eastland,0
+Texas,Falls,0
+Texas,Gonzales,0
+Texas,Hale,1
+Texas,Jack,0
+Texas,Jefferson,0
+Texas,Jones,0
+Texas,Kleberg,0
+Texas,La Salle,0
+Texas,Limestone,1
+Texas,Live Oak,0
+Texas,Lynn,0
+Texas,Madison,0
+Texas,Medina,0
+Texas,Mitchell,0
+Texas,Nueces,1
+Texas,Panola,0
+Texas,Randall,0
+Texas,Roberts,0
+Texas,Titus,0
+Texas,Upshur,0
+Texas,Waller,0
+Texas,Washington,0
+Texas,Wilbarger,0
+Texas,Willacy,0
+Vermont,Essex,0
+Vermont,Orange,0
+Vermont,Washington,0
+Vermont,Windham,0
+Virginia,Amelia,0
+Virginia,Buchanan,0
+Virginia,Buena Vista city,0
+Virginia,Carroll,0
+Virginia,Charles City,0
+Virginia,Charlottesville city,0
+Virginia,Colonial Heights city,0
+Virginia,Craig,0
+Virginia,Falls Church city,0
+Virginia,Fauquier,0
+Virginia,Franklin city,0
+Virginia,Giles,0
+Virginia,Greene,0
+Virginia,Halifax,0
+Virginia,Henrico,0
+Virginia,King and Queen,0
+Virginia,Loudoun,0
+Virginia,Madison,0
+Virginia,New Kent,0
+Virginia,Nottoway,0
+Virginia,Petersburg city,0
+Virginia,Prince Edward,0
+Virginia,Prince William,0
+Virginia,Pulaski,0
+Virginia,Richmond,0
+Virginia,Russell,0
+Virginia,Shenandoah,0
+Virginia,Warren,0
+Virginia,Washington,0
+Virginia,Waynesboro city,0
+Virginia,Westmoreland,1
+Virginia,Wythe,0
+Washington,Clark,0
+Washington,Cowlitz,0
+Washington,Douglas,0
+Washington,Grant,0
+Washington,Island,0
+Washington,Lewis,0
+Washington,Pacific,0
+Washington,Pierce,0
+Washington,Skagit,0
+Washington,Snohomish,0
+Washington,Spokane,0
+Washington,Thurston,0
+Washington,Wahkiakum,0
+Washington,Walla Walla,0
+Washington,Whatcom,0
+West Virginia,Barbour,0
+West Virginia,Berkeley,0
+West Virginia,Fayette,0
+West Virginia,Greenbrier,0
+West Virginia,Hancock,1
+West Virginia,Hardy,0
+West Virginia,Harrison,0
+West Virginia,Kanawha,0
+West Virginia,Lewis,0
+West Virginia,McDowell,0
+West Virginia,Mingo,0
+West Virginia,Monroe,0
+West Virginia,Morgan,0
+West Virginia,Pendleton,0
+West Virginia,Raleigh,0
+West Virginia,Roane,0
+West Virginia,Tyler,0
+Wisconsin,Adams,0
+Wisconsin,Barron,0
+Wisconsin,Buffalo,0
+Wisconsin,Eau Claire,1
+Wisconsin,Fond du Lac,0
+Wisconsin,Green,1
+Wisconsin,Juneau,0
+Wisconsin,Marathon,0
+Wisconsin,Milwaukee,0
+Wisconsin,Monroe,0
+Wisconsin,Oconto,0
+Wisconsin,Oneida,0
+Wisconsin,Outagamie,0
+Wisconsin,Polk,0
+Wisconsin,Richland,0
+Wisconsin,Rock,0
+Wisconsin,Sawyer,0
+Wisconsin,Shawano,0
+Wisconsin,St. Croix,0
+Wisconsin,Trempealeau,0
+Wisconsin,Walworth,0
+Wisconsin,Waukesha,0
+Wisconsin,Waushara,0
+North Carolina,Duplin,0
+North Carolina,Granville,1
+North Carolina,Halifax,0
+North Carolina,Iredell,1
+North Carolina,Jones,0
+North Carolina,McDowell,0
+North Carolina,Mitchell,0
+North Carolina,Person,0
+North Carolina,Richmond,0
+North Carolina,Rockingham,0
+North Carolina,Watauga,1
+North Carolina,Wilkes,0
+North Carolina,Wilson,0
+Ohio,Ashtabula,0
+Ohio,Athens,0
+Ohio,Butler,0
+Ohio,Carroll,0
+Ohio,Geauga,0
+Ohio,Greene,0
+Ohio,Highland,0
+Ohio,Lorain,0
+Ohio,Marion,0
+Ohio,Meigs,0
+Ohio,Montgomery,0
+Ohio,Muskingum,0
+Ohio,Perry,0
+Ohio,Pike,0
+Ohio,Preble,0
+Ohio,Trumbull,0
+Ohio,Tuscarawas,0
+Ohio,Warren,0
+Ohio,Washington,0
+Ohio,Williams,0
+Oregon,Clatsop,0
+Oregon,Douglas,0
+Oregon,Klamath,0
+Oregon,Lincoln,0
+Oregon,Wasco,1
+Oregon,Washington,0
+Pennsylvania,Butler,1
+Pennsylvania,Clarion,0
+Pennsylvania,Crawford,1
+Pennsylvania,Elk,0
+Pennsylvania,Forest,0
+Pennsylvania,Fulton,0
+Pennsylvania,Greene,1
+Pennsylvania,Huntingdon,0
+Pennsylvania,McKean,0
+Pennsylvania,Perry,1
+Pennsylvania,Pike,0
+Pennsylvania,Tioga,1
+Pennsylvania,Warren,0
+Pennsylvania,Washington,1
+Pennsylvania,Wayne,0
+Pennsylvania,Westmoreland,0
+Rhode Island,Kent,0
+South Carolina,Calhoun,1
+South Carolina,Darlington,0
+South Carolina,Georgetown,1
+South Carolina,Greenwood,0
+South Carolina,Hampton,0
+South Carolina,Horry,1
+South Carolina,Kershaw,1
+South Carolina,Lancaster,1
+South Carolina,Marlboro,0
+South Carolina,Richland,0
+South Carolina,Saluda,0
+South Carolina,Spartanburg,1
+South Carolina,Union,1
+South Carolina,York,1
+Tennessee,Bedford,0
+Tennessee,Bledsoe,0
+Tennessee,Blount,1
+Tennessee,Cannon,1
+Tennessee,Carter,0
+Tennessee,Chester,1
+Tennessee,Claiborne,0
+Tennessee,Fayette,0
+Tennessee,Franklin,0
+Tennessee,Grainger,0
+Tennessee,Hamilton,1
+Tennessee,Henry,0
+Tennessee,Houston,0
+Tennessee,Humphreys,0
+Tennessee,Johnson,0
+Tennessee,Knox,1
+Tennessee,Lake,0
+Tennessee,Loudon,0
+Tennessee,Maury,1
+Tennessee,Monroe,0
+Tennessee,Moore,0
+Tennessee,Morgan,1
+Tennessee,Polk,0
+Tennessee,Rhea,0
+Tennessee,Roane,0
+Tennessee,Smith,0
+Tennessee,Tipton,0
+Tennessee,Unicoi,0
+Tennessee,Union,0
+Tennessee,Van Buren,0
+Tennessee,Williamson,1
+Tennessee,Wilson,0
+Texas,Aransas,0
+Texas,Armstrong,0
+Texas,Austin,0
+Texas,Bandera,0
+Texas,Bee,0
+Texas,Burleson,0
+Texas,Callahan,0
+Texas,Clay,0
+Texas,Collin,1
+Texas,Comal,1
+Texas,Concho,0
+Texas,Cooke,0
+Texas,Crane,0
+Texas,Crosby,0
+Texas,Dawson,0
+Texas,Delta,0
+Texas,Dickens,0
+Texas,Ector,0
+Texas,Ellis,0
+Oregon,Sherman,0
+Oregon,Tillamook,0
+Oregon,Wallowa,0
+Pennsylvania,Bedford,0
+Pennsylvania,Bradford,0
+Pennsylvania,Cameron,0
+Pennsylvania,Chester,0
+Pennsylvania,Dauphin,0
+Pennsylvania,Delaware,0
+Pennsylvania,Erie,0
+Pennsylvania,Fayette,0
+Pennsylvania,Jefferson,0
+Pennsylvania,Lackawanna,0
+Pennsylvania,Lawrence,0
+Pennsylvania,Lebanon,0
+Pennsylvania,Lehigh,0
+Pennsylvania,Snyder,0
+Pennsylvania,Sullivan,0
+Rhode Island,Providence,0
+Rhode Island,Washington,0
+South Carolina,Bamberg,1
+South Carolina,Berkeley,0
+South Carolina,Chesterfield,0
+South Carolina,Dillon,0
+South Carolina,Fairfield,1
+South Carolina,McCormick,1
+South Carolina,Newberry,1
+South Carolina,Sumter,1
+South Carolina,Williamsburg,0
+Tennessee,Carroll,0
+Tennessee,Cheatham,0
+Tennessee,Clay,0
+Tennessee,Cocke,0
+Tennessee,Decatur,0
+Tennessee,Gibson,0
+Tennessee,Giles,0
+Tennessee,Greene,0
+Tennessee,Hardeman,1
+Tennessee,Lawrence,0
+Tennessee,Lewis,0
+Tennessee,Madison,0
+Tennessee,Marion,1
+Tennessee,McNairy,1
+Tennessee,Overton,0
+Tennessee,Putnam,1
+Tennessee,Sullivan,0
+Tennessee,Sumner,1
+Tennessee,Warren,0
+Tennessee,Washington,0
+Texas,Anderson,0
+Texas,Atascosa,0
+Texas,Bastrop,0
+Texas,Bexar,0
+Texas,Bosque,0
+Texas,Chambers,0
+Texas,Dallam,0
+Texas,Denton,0
+Texas,Donley,1
+Texas,El Paso,0
+Texas,Fort Bend,0
+Texas,Frio,0
+Texas,Gaines,0
+Texas,Galveston,0
+Texas,Gillespie,0
+Texas,Goliad,0
+Texas,Hamilton,0
+Texas,Hardin,0
+Texas,Harris,0
+Texas,Harrison,0
+Texas,Hartley,0
+Texas,Henderson,0
+Texas,Hill,0
+Texas,Hockley,1
+Texas,Hopkins,0
+Texas,Johnson,0
+Texas,Karnes,0
+Texas,Kendall,1
+Texas,Knox,0
+Texas,Lamar,1
+Texas,Lavaca,0
+Texas,Leon,0
+Texas,Lubbock,0
+Texas,McCulloch,0
+Texas,McLennan,1
+Texas,Moore,0
+Texas,Navarro,0
+Texas,Oldham,0
+Texas,Parmer,0
+Texas,Polk,0
+Texas,Rains,0
+Texas,Red River,0
+Texas,Robertson,0
+Texas,Sabine,0
+Texas,San Augustine,0
+Texas,San Patricio,1
+Texas,Starr,1
+Texas,Tom Green,1
+Texas,Tyler,0
+Texas,Uvalde,1
+Texas,Val Verde,1
+Texas,Victoria,1
+Texas,Wheeler,0
+Texas,Wichita,1
+Texas,Williamson,0
+Texas,Wilson,0
+Texas,Winkler,0
+Texas,Wise,0
+Texas,Yoakum,0
+Texas,Young,0
+Vermont,Grand Isle,0
+Vermont,Lamoille,0
+Virginia,Accomack,0
+Virginia,Alexandria city,0
+Virginia,Appomattox,0
+Virginia,Bedford,0
+Virginia,Caroline,0
+Virginia,Clarke,0
+Virginia,Covington city,0
+Virginia,Danville city,0
+Virginia,Emporia city,1
+Virginia,Essex,0
+Virginia,Franklin,1
+Virginia,Frederick,0
+Virginia,Greensville,0
+Virginia,Henry,0
+Virginia,Isle of Wight,0
+Virginia,Lee,0
+Virginia,Lexington city,0
+Virginia,Lunenburg,0
+Virginia,Manassas city,0
+Virginia,Orange,0
+Virginia,Page,0
+Virginia,Poquoson city,0
+Virginia,Powhatan,0
+Virginia,Radford city,0
+Virginia,Rappahannock,0
+Virginia,Richmond city,0
+Virginia,Rockingham,0
+Virginia,Salem city,0
+Virginia,Scott,0
+Virginia,Southampton,0
+Virginia,Staunton city,0
+Virginia,Surry,0
+Virginia,Tazewell,0
+Virginia,Winchester city,0
+Washington,Columbia,0
+Washington,Grays Harbor,0
+Washington,Jefferson,0
+Washington,King,0
+Washington,Klickitat,0
+Washington,Lincoln,0
+Washington,Pend Oreille,0
+Washington,San Juan,0
+Washington,Skamania,0
+West Virginia,Grant,0
+West Virginia,Hampshire,0
+West Virginia,Jackson,0
+West Virginia,Preston,0
+West Virginia,Summers,0
+West Virginia,Taylor,0
+West Virginia,Tucker,0
+West Virginia,Upshur,0
+West Virginia,Wayne,0
+West Virginia,Wood,0
+Wisconsin,Bayfield,0
+Wisconsin,Dodge,1
+Wisconsin,Florence,0
+Wisconsin,Green Lake,0
+Wisconsin,Kewaunee,0
+Wisconsin,Marquette,0
+Wisconsin,Portage,0
+Wisconsin,Price,0
+Wisconsin,Racine,0
+Wisconsin,Rusk,0
+Wisconsin,Sauk,0
+Wisconsin,Washburn,0
+Wisconsin,Waupaca,0
+Texas,Fannin,0
+Texas,Floyd,0
+Texas,Gray,0
+Texas,Hays,0
+Texas,Hemphill,0
+Texas,Hood,1
+Texas,Hunt,0
+Texas,Hutchinson,0
+Texas,Jackson,0
+Texas,Jim Wells,0
+Texas,Kaufman,0
+Texas,Kerr,0
+Texas,Lamb,0
+Texas,Lampasas,0
+Texas,Martin,0
+Texas,Mason,0
+Texas,Matagorda,1
+Texas,Montague,0
+Texas,Montgomery,0
+Texas,Motley,0
+Texas,Palo Pinto,0
+Texas,Parker,0
+Texas,Potter,0
+Texas,San Jacinto,0
+Texas,Swisher,0
+Texas,Tarrant,0
+Texas,Taylor,0
+Texas,Terry,0
+Texas,Walker,0
+Texas,Webb,0
+Texas,Zavala,0
+Vermont,Addison,0
+Vermont,Bennington,0
+Vermont,Franklin,0
+Vermont,Orleans,1
+Virginia,Albemarle,0
+Virginia,Alleghany,0
+Virginia,Amherst,0
+Virginia,Botetourt,1
+Virginia,Bristol city,0
+Virginia,Brunswick,0
+Virginia,Buckingham,0
+Virginia,Chesapeake city,0
+Virginia,Culpeper,0
+Virginia,Cumberland,1
+Virginia,Fairfax,0
+Virginia,Fairfax city,0
+Virginia,Floyd,0
+Virginia,Fredericksburg city,0
+Virginia,Goochland,0
+Virginia,Hampton city,0
+Virginia,Hanover,0
+Virginia,Harrisonburg city,0
+Virginia,King George,0
+Virginia,King William,0
+Virginia,Lancaster,0
+Virginia,Louisa,0
+Virginia,Lynchburg city,0
+Virginia,Manassas Park city,0
+Virginia,Mathews,0
+Virginia,Middlesex,0
+Virginia,Nelson,0
+Virginia,Newport News city,0
+Virginia,Norfolk city,0
+Virginia,Northampton,0
+Virginia,Pittsylvania,0
+Virginia,Portsmouth city,0
+Virginia,Prince George,1
+Virginia,Roanoke,0
+Virginia,Smyth,0
+Virginia,Suffolk city,0
+Virginia,Sussex,0
+Virginia,Virginia Beach city,1
+Virginia,Williamsburg city,0
+Virginia,York,0
+Washington,Clallam,0
+Washington,Ferry,0
+Washington,Kitsap,0
+Washington,Okanogan,0
+Washington,Yakima,0
+West Virginia,Brooke,0
+West Virginia,Cabell,0
+West Virginia,Marion,0
+West Virginia,Marshall,0
+West Virginia,Mineral,0
+West Virginia,Monongalia,0
+West Virginia,Ohio,0
+Wisconsin,Ashland,0
+Wisconsin,Brown,0
+Wisconsin,Calumet,0
+Wisconsin,Chippewa,0
+Wisconsin,Clark,1
+Wisconsin,Crawford,0
+Wisconsin,Door,0
+Wisconsin,Iowa,0
+Wisconsin,Jefferson,0
+Wisconsin,Lafayette,0
+Wisconsin,Manitowoc,0
+Wisconsin,Vilas,0
+Wisconsin,Washington,0
+Wisconsin,Winnebago,0
+Wisconsin,Wood,0
