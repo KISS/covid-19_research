@@ -1,0 +1,33 @@
+WITH 
+
+jan_mapping AS (
+SElECT  tavg.STATION, tavg.NAME, tavg.tavg, tavg.DATE AS date, mapping.state, mapping.county, mapping.fips, mapping.temp_id
+    FROM [master].[dbo].[hi_station_tavg_jan] AS tavg
+    JOIN [master].[dbo].[hi_station_mappings]AS mapping
+    ON tavg.STATION = mapping.STATION 
+),
+
+jan_tavg AS (
+SELECT state, county, date, AVG(tavg) AS tavg, fips, temp_id 
+    FROM jan_mapping
+    GROUP BY state, county, date, fips, temp_id
+),
+
+feb_mapping AS (
+SElECT  tavg.STATION, tavg.NAME, tavg.tavg, tavg.DATE AS date, mapping.state, mapping.county, mapping.fips, mapping.temp_id
+    FROM [master].[dbo].[hi_station_tavg_feb] AS tavg
+    JOIN [master].[dbo].[hi_station_mappings]AS mapping
+    ON tavg.STATION = mapping.STATION 
+),
+
+feb_tavg AS (
+SELECT state, county, date, AVG(tavg) AS tavg, fips, temp_id 
+    FROM feb_mapping
+    GROUP BY state, county, date, fips, temp_id
+)
+
+-- merge jan_tavg and feb_tavg totals 
+SELECT jan_tavg.state, jan_tavg.county, jan_tavg.tavg AS jan_tavg, feb_tavg.tavg AS feb_tavg, jan_tavg.fips, jan_tavg.temp_id 
+    FROM jan_tavg
+    JOIN feb_tavg
+    ON jan_tavg.fips = feb_tavg.fips

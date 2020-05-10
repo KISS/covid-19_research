@@ -1,0 +1,51 @@
+﻿climdiv_state,climdiv_state_id,state,state_fips,state_usps_code
+01 Alabama,01,Alabama,01,AL
+50 Alaska,50,Alaska,02,AK
+02 Arizona,02,Arizona,04,AZ
+03 Arkansas,03,Arkansas,05,AR
+04 California,04,California,06,CA
+05 Colorado,05,Colorado,08,CO
+06 Connecticut,06,Connecticut,09,CT
+07 Delaware,07,Delaware,10,DE
+08 Florida,08,Florida,12,FL
+09 Georgia,09,Georgia,13,GA
+51 Hawaii,51,Hawaii,15,HI
+10 Idaho ,10,Idaho,16,ID
+11 Illinois,11,Illinois,17,IL
+12 Indiana,12,Indiana,18,IN
+13 Iowa,13,Iowa,19,IA
+14 Kansas,14,Kansas,20,KS
+15 Kentucky,15,Kentucky,21,KY
+16 Louisiana,16,Louisiana,22,LA
+17 Maine,17,Maine,23,ME
+18 Maryland,18,Maryland,24,MD
+19 Massachusetts,19,Massachusetts,25,MA
+20 Michigan  ,20,Michigan,26,MI
+21 Minnesota,21,Minnesota,27,MN
+22 Mississippi,22,Mississippi,28,MS
+23 Missouri,23,Missouri,29,MO
+24 Montana,24,Montana,30,MT
+25 Nebraska,25,Nebraska,31,NE
+26 Nevada,26,Nevada,32,NV
+27 New Hampshire,27,New Hampshire,33,NH
+28 New Jersey,28,New Jersey,34,NJ
+29 New Mexico,29,New Mexico,35,NM
+30 New York,30,New York,36,NY
+31 North Carolina,31,North Carolina,37,NC
+32 North Dakota,32,North Dakota,38,ND
+33 Ohio,33,Ohio,39,OH
+34 Oklahoma,34,Oklahoma,40,OK
+35 Oregon,35,Oregon,41,OR
+36 Pennsylvania,36,Pennsylvania,42,PA
+37 Rhode Island,37,Rhode Island,44,RI
+38 South Carolina,38,South Carolina,45,SC
+39 South Dakota,39,South Dakota,46,SD
+40 Tennessee,40,Tennessee,47,TN
+41 Texas,41,Texas,48,TX
+42 Utah,42,Utah,49,UT
+43 Vermont,43,Vermont,50,VT
+44 Virginia,44,Virginia,51,VA
+45 Washington,45,Washington,53,WA
+46 West Virginia,46,West Virginia,54,WV
+47 Wisconsin,47,Wisconsin,55,WI
+48 Wyoming,48,Wyoming,56,WY

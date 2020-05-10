@@ -1,0 +1,6 @@
+﻿county,state,climdiv_state_id,climdiv_id,county_fips,state_fips,fips,tavg_jan,tavg_feb,tavg_mar,tavg_apr
+Hawaii,Hawaii,51,51001,1,15,15001,62.85,60.14,59.49,61.63
+Honolulu,Hawaii,51,51003,3,15,15003,72.67,71.45,70.55,72.8
+Kalawao ,Hawaii,51,51005,5,15,15005,74.60,73.80,72.74,74.5
+Kauai ,Hawaii,51,51007,7,15,15007,72.30,70.77,70.83,72.38
+Maui ,Hawaii,51,51009,9,15,15009,69.80,68.38,69.13,70.83

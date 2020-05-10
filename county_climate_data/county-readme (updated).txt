@@ -101,6 +101,7 @@ STATE CODE TABLE:
 
 			              ****
 			              50 Alaska
+                             51 Hawaii (added by me)
 
 
 FILE FORMAT:
