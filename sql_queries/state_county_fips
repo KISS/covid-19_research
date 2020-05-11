@@ -1,0 +1,4 @@
+SELECT scf.*, sd.state_name AS state
+    FROM [master].[dbo].[state_county_fips] as scf
+    JOIN [master].[dbo].[state_data] as sd
+    ON scf.state_fips = sd.fips_state_code

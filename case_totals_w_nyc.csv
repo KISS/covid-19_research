@@ -1,0 +1,2847 @@
+county,state,fips,cases_since_01212020,deaths_since_01212020,death_rate,high_chance_of_death_10pct,high_chance_of_death_5pct
+Adams,Nebraska,31001,2206,18,0.815956482,0,0
+Addison,Vermont,50001,1703,32,1.879036994,0,0
+Alameda,California,6001,33257,1032,3.103106113,0,0
+Alamosa,Colorado,8003,221,44,19.90950226,1,1
+Albany,Wyoming,56001,167,0,0,0,0
+Alcona,Michigan,26001,45,1,2.222222222,0,0
+Alexander,Illinois,17003,32,0,0,0,0
+Alleghany,North Carolina,37005,66,0,0,0,0
+Allen,Indiana,18003,7552,507,6.71345339,0,1
+Allen,Ohio,39003,1784,237,13.28475336,1,1
+Allendale,South Carolina,45005,153,8,5.22875817,0,1
+Amelia,Virginia,51007,331,10,3.021148036,0,0
+Andrews,Texas,48003,404,0,0,0,0
+Apache,Arizona,4001,4890,97,1.983640082,0,0
+Appanoose,Iowa,19007,51,39,76.47058824,1,1
+Aransas,Texas,48007,54,0,0,0,0
+Archuleta,Colorado,8007,185,0,0,0,0
+Arlington,Virginia,51013,15114,426,2.818578801,0,0
+Armstrong,Pennsylvania,42005,912,34,3.728070175,0,0
+Armstrong,Texas,48011,23,0,0,0,0
+Ashley,Arkansas,5003,297,0,0,0,0
+Ashtabula,Ohio,39007,1661,130,7.826610476,0,1
+Assumption,Louisiana,22007,3721,42,1.128728836,0,0
+Atchison,Missouri,29005,52,0,0,0,0
+Atkinson,Georgia,13003,118,2,1.694915254,0,0
+Atoka,Oklahoma,40005,29,0,0,0,0
+Aurora,South Dakota,46003,35,0,0,0,0
+Bacon,Georgia,13005,469,15,3.198294243,0,0
+Ballard,Kentucky,21007,95,0,0,0,0
+Bannock,Idaho,16005,177,0,0,0,0
+Barbour,Alabama,1005,506,2,0.395256917,0,0
+Barnwell,South Carolina,45011,214,0,0,0,0
+Barrow,Georgia,13013,2261,101,4.467049978,0,0
+Barton,Kansas,20009,174,0,0,0,0
+Bates,Missouri,29013,165,18,10.90909091,1,1
+Baxter,Arkansas,5005,136,0,0,0,0
+Bay,Florida,12005,1361,45,3.306392359,0,0
+Bay,Michigan,26017,2170,45,2.073732719,0,0
+Beaverhead,Montana,30001,27,0,0,0,0
+Bedford,Tennessee,47003,1984,38,1.915322581,0,0
+Belmont,Ohio,39013,1974,98,4.964539007,0,0
+Ben Hill,Georgia,13017,402,0,0,0,0
+Benton,Washington,53005,8898,896,10.06967858,1,1
+Berkeley,South Carolina,45015,3289,100,3.040437823,0,0
+Berkeley,West Virginia,54003,2950,16,0.542372881,0,0
+Bibb,Georgia,13021,4437,85,1.915708812,0,0
+Blaine,Idaho,16013,14419,143,0.991747,0,0
+Bollinger,Missouri,29017,89,0,0,0,0
+Boone,Iowa,19015,149,0,0,0,0
+Bowie,Texas,48037,1799,149,8.282379099,0,1
+Bradford,Pennsylvania,42015,631,52,8.24088748,0,1
+Branch,Michigan,26023,948,48,5.063291139,0,1
+Brantley,Georgia,13025,378,38,10.05291005,1,1
+Brazos,Texas,48041,4553,361,7.928838129,0,1
+Bristol,Massachusetts,25005,51398,2099,4.083816491,0,0
+Bristol,Rhode Island,44001,1891,0,0,0,0
+Bristol city,Virginia,51520,35,0,0,0,0
+Broadwater,Montana,30007,142,0,0,0,0
+Brooke,West Virginia,54009,67,0,0,0,0
+Brooks,Georgia,13027,740,92,12.43243243,1,1
+Brooks,Texas,48047,9,0,0,0,0
+Brown,Texas,48049,417,26,6.23501199,0,1
+Brule,South Dakota,46015,6,0,0,0,0
+Brunswick,North Carolina,37019,1106,56,5.063291139,0,1
+Buchanan,Iowa,19019,264,0,0,0,0
+Buena Vista city,Virginia,51530,121,0,0,0,0
+Buffalo,South Dakota,46017,3,0,0,0,0
+Bulloch,Georgia,13031,656,31,4.725609756,0,0
+Buncombe,North Carolina,37021,1331,75,5.634861007,0,1
+Burke,Georgia,13033,1214,50,4.118616145,0,0
+Burke,North Carolina,37023,1728,132,7.638888889,0,1
+Burleigh,North Dakota,38015,1916,0,0,0,0
+Burlington,New Jersey,34005,42522,1498,3.522882273,0,0
+Butler,Kansas,20015,356,0,0,0,0
+Butler,Nebraska,31023,21,0,0,0,0
+Butler,Pennsylvania,42019,4376,138,3.153564899,0,0
+Butte,California,6007,481,0,0,0,0
+Butts,Georgia,13035,1847,34,1.840822956,0,0
+Cabell,West Virginia,54011,755,0,0,0,0
+Cache,Utah,49005,1030,0,0,0,0
+Caddo,Louisiana,22017,33494,1694,5.057622261,0,1
+Caldwell,North Carolina,37027,576,0,0,0,0
+Caledonia,Vermont,50005,295,0,0,0,0
+Calhoun,Georgia,13037,1655,65,3.927492447,0,0
+Calhoun,Texas,48057,566,25,4.416961131,0,0
+Calhoun,West Virginia,54013,5,0,0,0,0
+Calumet,Wisconsin,55015,181,0,0,0,0
+Cambria,Pennsylvania,42021,449,34,7.572383073,0,1
+Camden,North Carolina,37029,4,0,0,0,0
+Campbell,Virginia,51031,233,0,0,0,0
+Carbon,Utah,49007,95,0,0,0,0
+Carlisle,Kentucky,21039,12,0,0,0,0
+Caroline,Maryland,24011,931,0,0,0,0
+Carroll,Arkansas,5015,69,0,0,0,0
+Carroll,Illinois,17015,183,42,22.95081967,1,1
+Carroll,Indiana,18015,224,17,7.589285714,0,1
+Carroll,Maryland,24013,8511,850,9.987075549,0,1
+Carroll,Virginia,51035,93,0,0,0,0
+Carteret,North Carolina,37031,689,43,6.240928882,0,1
+Cascade,Montana,30013,436,24,5.504587156,0,1
+Casey,Kentucky,21045,17,0,0,0,0
+Caswell,North Carolina,37033,220,0,0,0,0
+Catahoula,Louisiana,22025,612,48,7.843137255,0,1
+Cedar,Iowa,19031,684,0,0,0,0
+Cedar,Missouri,29039,155,0,0,0,0
+Centre,Pennsylvania,42027,2128,24,1.127819549,0,0
+Chambers,Texas,48071,908,0,0,0,0
+Champaign,Illinois,17019,2671,86,3.219767877,0,0
+Chariton,Missouri,29041,137,0,0,0,0
+Chattooga,Georgia,13055,264,27,10.22727273,1,1
+Cheatham,Tennessee,47021,748,0,0,0,0
+Ada,Idaho,16001,16390,283,1.726662599,0,0
+Adair,Oklahoma,40001,1096,63,5.748175182,0,1
+Adams,Mississippi,28001,2033,108,5.312346286,0,1
+Aiken,South Carolina,45003,1834,94,5.125408942,0,1
+Alcorn,Mississippi,28003,217,2,0.921658986,0,0
+Allegheny,Pennsylvania,42003,28965,1197,4.132573796,0,0
+Allen,Louisiana,22003,2126,215,10.11288805,1,1
+Amite,Mississippi,28005,467,22,4.710920771,0,0
+Anderson,Kansas,20003,17,0,0,0,0
+Anderson,South Carolina,45007,3615,148,4.094052559,0,0
+Andrew,Missouri,29003,24,0,0,0,0
+Anson,North Carolina,37007,382,0,0,0,0
+Appling,Georgia,13001,752,40,5.319148936,0,1
+Arapahoe,Colorado,8005,42182,1892,4.485325494,0,0
+Arthur,Nebraska,31005,1,0,0,0,0
+Ascension,Louisiana,22005,14103,752,5.332198823,0,1
+Ashe,North Carolina,37009,94,0,0,0,0
+Ashland,Ohio,39005,160,0,0,0,0
+Atascosa,Texas,48013,293,13,4.436860068,0,0
+Augusta,Virginia,51015,630,8,1.26984127,0,0
+Austin,Texas,48015,296,0,0,0,0
+Avoyelles,Louisiana,22009,1862,104,5.585392052,0,1
+Baldwin,Alabama,1003,2972,58,1.951547779,0,0
+Baltimore city,Maryland,24510,34613,1162,3.357120157,0,0
+Bamberg,South Carolina,45009,204,0,0,0,0
+Barber,Kansas,20007,24,0,0,0,0
+Barry,Missouri,29009,96,0,0,0,0
+Bartow,Georgia,13015,8126,586,7.211420133,0,1
+Beaufort,South Carolina,45013,6561,199,3.033074226,0,0
+Beauregard,Louisiana,22011,895,44,4.916201117,0,0
+Beaver,Oklahoma,40007,46,0,0,0,0
+Bedford,Virginia,51019,488,0,0,0,0
+Belknap,New Hampshire,33001,823,0,0,0,0
+Bennington,Vermont,50003,1127,23,2.040816327,0,0
+Benton,Missouri,29015,109,0,0,0,0
+Benton,Oregon,41003,803,97,12.07970112,1,1
+Bergen,New Jersey,34003,338214,18328,5.419054208,0,1
+Berks,Pennsylvania,42011,42196,1329,3.149587639,0,0
+Bethel Census Area,Alaska,2050,24,0,0,0,0
+Bingham,Idaho,16011,90,0,0,0,0
+Black Hawk,Iowa,19013,8491,86,1.012837122,0,0
+Blanco,Texas,48031,130,0,0,0,0
+Bledsoe,Tennessee,47007,4753,0,0,0,0
+Bolivar,Mississippi,28011,2221,131,5.898244034,0,1
+Bond,Illinois,17005,124,15,12.09677419,1,1
+Boone,Indiana,18011,3796,250,6.585879874,0,1
+Botetourt,Virginia,51023,661,30,4.538577912,0,0
+Bourbon,Kentucky,21017,215,46,21.39534884,1,1
+Bradley,Tennessee,47011,1054,17,1.612903226,0,0
+Brazoria,Texas,48039,9076,81,0.89246364,0,0
+Broomfield,Colorado,8014,2800,97,3.464285714,0,0
+Brown,Ohio,39015,213,31,14.55399061,1,1
+Brown,Wisconsin,55009,8909,35,0.392861152,0,0
+Buena Vista,Iowa,19021,57,0,0,0,0
+Buffalo,Wisconsin,55011,97,26,26.80412371,1,1
+Burke,North Dakota,38013,68,0,0,0,0
+Burnet,Texas,48053,271,0,0,0,0
+Butler,Kentucky,21031,1484,53,3.571428571,0,0
+Caddo,Oklahoma,40015,938,69,7.356076759,0,1
+Caldwell,Missouri,29025,50,0,0,0,0
+Calhoun,Alabama,1015,1914,40,2.089864159,0,0
+Callahan,Texas,48059,27,0,0,0,0
+Calloway,Kentucky,21035,552,24,4.347826087,0,0
+Camas,Idaho,16025,31,0,0,0,0
+Camden,Missouri,29029,907,34,3.74862183,0,0
+Cameron,Louisiana,22023,56,0,0,0,0
+Cameron,Pennsylvania,42023,34,0,0,0,0
+Campbell,Kentucky,21037,1526,137,8.977719528,0,1
+Campbell,Tennessee,47013,355,16,4.507042254,0,0
+Cape May,New Jersey,34009,5259,311,5.913671801,0,1
+Carbon,Wyoming,56007,148,0,0,0,0
+Carlton,Minnesota,27017,863,0,0,0,0
+Carroll,Iowa,19027,51,0,0,0,0
+Carroll,Missouri,29033,19,0,0,0,0
+Carroll,New Hampshire,33003,898,0,0,0,0
+Carter,Kentucky,21043,86,0,0,0,0
+Carter,Tennessee,47019,164,16,9.756097561,0,1
+Cass,Indiana,18017,6525,25,0.383141762,0,0
+Cass,Missouri,29037,1358,113,8.321060383,0,1
+Cass,North Dakota,38017,6101,136,2.229142763,0,0
+Cass,Texas,48067,291,50,17.18213058,1,1
+Castro,Texas,48069,384,27,7.03125,0,1
+Catron,New Mexico,35003,30,6,20,1,1
+Cattaraugus,New York,36009,865,6,0.693641618,0,0
+Cayuga,New York,36011,904,25,2.765486726,0,0
+Chaffee,Colorado,8015,1234,179,14.50567261,1,1
+Charles City,Virginia,51036,274,10,3.649635036,0,0
+Charlottesville city,Virginia,51540,1162,34,2.925989673,0,0
+Chatham,Georgia,13051,4793,159,3.317337784,0,0
+Chemung,New York,36015,2139,53,2.477793361,0,0
+Cherokee,Georgia,13057,8204,240,2.925402243,0,0
+Cherokee,North Carolina,37039,408,31,7.598039216,0,1
+Cherokee,South Carolina,45021,280,0,0,0,0
+Chesapeake city,Virginia,51550,4264,92,2.157598499,0,0
+Chesterfield,South Carolina,45025,902,1,0.110864745,0,0
+Chesterfield,Virginia,51041,8365,190,2.271368799,0,0
+Cheyenne,Kansas,20023,3,0,0,0,0
+Chippewa,Wisconsin,55017,588,0,0,0,0
+Chittenden,Vermont,50007,11323,629,5.555064912,0,1
+Choctaw,Alabama,1023,491,0,0,0,0
+Choctaw,Mississippi,28019,355,26,7.323943662,0,1
+Claiborne,Mississippi,28021,261,0,0,0,0
+Clarendon,South Carolina,45027,3340,199,5.958083832,0,1
+Clark,Nevada,32003,82429,3499,4.244865278,0,0
+Clay,Arkansas,5021,34,0,0,0,0
+Clay,Georgia,13061,483,42,8.695652174,0,1
+Clay,Illinois,17025,26,0,0,0,0
+Clay,Indiana,18021,391,9,2.301790281,0,0
+Clay,Iowa,19041,74,0,0,0,0
+Clay,Missouri,29047,1581,25,1.581277672,0,0
+Clay,North Carolina,37043,118,0,0,0,0
+Accomack,Virginia,51001,1908,28,1.467505241,0,0
+Adair,Iowa,19001,45,0,0,0,0
+Adams,Colorado,8001,25253,975,3.860927415,0,0
+Adams,Idaho,16003,53,0,0,0,0
+Adams,Ohio,39001,85,0,0,0,0
+Adams,Washington,53001,1137,0,0,0,0
+Adams,Wisconsin,55001,86,17,19.76744186,1,1
+Alachua,Florida,12001,6359,18,0.283063375,0,0
+Albany,New York,36001,19983,755,3.77821148,0,0
+Albemarle,Virginia,51003,1723,33,1.915264074,0,0
+Alexander,North Carolina,37003,88,0,0,0,0
+Alfalfa,Oklahoma,40003,18,0,0,0,0
+Allegan,Michigan,26005,1120,9,0.803571429,0,0
+Alleghany,Virginia,51005,116,0,0,0,0
+Alpena,Michigan,26007,625,28,4.48,0,0
+Alpine,California,6003,43,0,0,0,0
+Amherst,Virginia,51009,284,4,1.408450704,0,0
+Anchorage,Alaska,2020,4394,117,2.662721893,0,0
+Anderson,Kentucky,21005,173,41,23.69942197,1,1
+Anderson,Tennessee,47001,538,23,4.275092937,0,0
+Anderson,Texas,48001,245,0,0,0,0
+Angelina,Texas,48005,703,0,0,0,0
+Antelope,Nebraska,31003,38,0,0,0,0
+Arkansas,Arkansas,5001,58,0,0,0,0
+Ashland,Wisconsin,55003,50,0,0,0,0
+Asotin,Washington,53003,277,14,5.054151625,0,1
+Athens,Ohio,39009,104,32,30.76923077,1,1
+Atlantic,New Jersey,34001,11462,463,4.039434654,0,0
+Attala,Mississippi,28007,1246,0,0,0,0
+Auglaize,Ohio,39011,549,45,8.196721311,0,1
+Baca,Colorado,8009,290,0,0,0,0
+Baker,Florida,12003,557,60,10.77199282,1,1
+Baker,Georgia,13007,447,62,13.87024609,1,1
+Bandera,Texas,48019,81,0,0,0,0
+Banks,Georgia,13011,329,0,0,0,0
+Baraga,Michigan,26013,15,0,0,0,0
+Barbour,West Virginia,54001,120,8,6.666666667,0,1
+Barnes,North Dakota,38003,87,0,0,0,0
+Barron,Wisconsin,55005,154,0,0,0,0
+Bartholomew,Indiana,18005,3763,161,4.278501196,0,0
+Bastrop,Texas,48021,1126,39,3.463587922,0,0
+Beaver,Pennsylvania,42007,6673,777,11.64393826,1,1
+Bedford,Pennsylvania,42009,341,20,5.865102639,0,1
+Bee,Texas,48025,96,0,0,0,0
+Bell,Texas,48027,3610,83,2.299168975,0,0
+Benton,Arkansas,5007,2073,0,0,0,0
+Benton,Indiana,18007,90,0,0,0,0
+Benton,Minnesota,27009,107,0,0,0,0
+Benton,Mississippi,28009,213,0,0,0,0
+Benton,Tennessee,47005,150,8,5.333333333,0,1
+Bertie,North Carolina,37015,620,32,5.161290323,0,1
+Bexar,Texas,48029,27161,950,3.497662089,0,0
+Bibb,Alabama,1007,662,0,0,0,0
+Bienville,Louisiana,22013,1359,199,14.64311994,1,1
+Big Stone,Minnesota,27011,45,0,0,0,0
+Bladen,North Carolina,37017,122,0,0,0,0
+Blount,Alabama,1009,619,0,0,0,0
+Bonner,Idaho,16017,106,0,0,0,0
+Boone,Arkansas,5009,120,0,0,0,0
+Boone,Missouri,29019,2988,44,1.472556894,0,0
+Boone,West Virginia,54005,40,0,0,0,0
+Bossier,Louisiana,22015,6443,273,4.237156604,0,0
+Boundary,Idaho,16021,1,0,0,0,0
+Bourbon,Kansas,20011,200,24,12,1,1
+Bowman,North Dakota,38011,24,0,0,0,0
+Bracken,Kentucky,21023,148,0,0,0,0
+Bradford,Florida,12007,903,33,3.65448505,0,0
+Bradley,Arkansas,5011,229,12,5.240174672,0,1
+Braxton,West Virginia,54007,29,0,0,0,0
+Breckinridge,Kentucky,21027,149,0,0,0,0
+Bremer,Iowa,19017,564,19,3.368794326,0,0
+Brookings,South Dakota,46011,242,0,0,0,0
+Broome,New York,36007,5007,253,5.052925904,0,1
+Brown,Indiana,18013,357,24,6.722689076,0,1
+Brown,Minnesota,27015,197,21,10.65989848,1,1
+Brown,South Dakota,46013,576,0,0,0,0
+Brunswick,Virginia,51025,230,0,0,0,0
+Bryan,Oklahoma,40013,144,10,6.944444444,0,1
+Buchanan,Missouri,29021,943,22,2.332979852,0,0
+Bucks,Pennsylvania,42017,48997,2380,4.857440251,0,0
+Bullock,Alabama,1011,236,0,0,0,0
+Burleson,Texas,48051,217,0,0,0,0
+Butler,Iowa,19023,74,0,0,0,0
+Butler,Missouri,29023,476,0,0,0,0
+Calaveras,California,6009,301,0,0,0,0
+Caldwell,Kentucky,21033,257,0,0,0,0
+Caldwell,Louisiana,22021,432,0,0,0,0
+Caldwell,Texas,48055,209,0,0,0,0
+Calhoun,Florida,12013,148,0,0,0,0
+Calhoun,Illinois,17013,26,0,0,0,0
+Calhoun,Michigan,26025,3544,134,3.781038375,0,0
+Callaway,Missouri,29027,654,25,3.822629969,0,0
+Camden,Georgia,13039,676,8,1.183431953,0,0
+Camden,New Jersey,34007,53741,1844,3.431272213,0,0
+Cameron,Texas,48061,6976,178,2.551605505,0,0
+Canadian,Oklahoma,40017,2002,67,3.346653347,0,0
+Candler,Georgia,13043,146,0,0,0,0
+Carbon,Pennsylvania,42025,3395,193,5.684830633,0,1
+Caroline,Virginia,51033,334,1,0.299401198,0,0
+Carroll,Georgia,13045,8046,226,2.808849118,0,0
+Carroll,Kentucky,21041,65,0,0,0,0
+Carroll,Ohio,39019,439,7,1.59453303,0,0
+Carroll,Tennessee,47017,394,11,2.791878173,0,0
+Carter,Missouri,29035,104,27,25.96153846,1,1
+Cass,Iowa,19029,18,0,0,0,0
+Cass,Nebraska,31025,128,0,0,0,0
+Cassia,Idaho,16031,265,31,11.69811321,1,1
+Catoosa,Georgia,13047,698,0,0,0,0
+Cecil,Maryland,24015,2981,85,2.85139215,0,0
+Cedar,Nebraska,31027,16,0,0,0,0
+Champaign,Ohio,39021,237,20,8.438818565,0,1
+Charles,Maryland,24017,9473,491,5.183152117,0,1
+Charleston,South Carolina,45019,11504,106,0.921418637,0,0
+Clear Creek,Colorado,8019,352,10,2.840909091,0,0
+Clinton,Illinois,17027,1376,9,0.654069767,0,0
+Clinton,Missouri,29049,314,0,0,0,0
+Clinton,New York,36019,1471,64,4.350781781,0,0
+Cobb,Georgia,13067,30774,1538,4.997725353,0,0
+Codington,South Dakota,46029,382,0,0,0,0
+Coffee,Alabama,1031,1437,3,0.208768267,0,0
+Coffey,Kansas,20031,1217,118,9.695973706,0,1
+Cole,Missouri,29051,1325,28,2.113207547,0,0
+Colleton,South Carolina,45029,569,37,6.502636204,0,1
+Columbia,Georgia,13073,2784,30,1.077586207,0,0
+Columbia,Pennsylvania,42037,4466,135,3.02283923,0,0
+Columbia,Washington,53013,50,0,0,0,0
+Columbia,Wisconsin,55021,811,25,3.082614057,0,0
+Colusa,California,6011,88,0,0,0,0
+Cook,Georgia,13075,298,15,5.033557047,0,1
+Copiah,Mississippi,28029,1331,15,1.126972201,0,0
+Covington,Alabama,1039,563,9,1.598579041,0,0
+Covington,Mississippi,28031,742,0,0,0,0
+Craven,North Carolina,37049,878,56,6.378132118,0,1
+Crawford,Arkansas,5033,120,0,0,0,0
+Crawford,Iowa,19047,229,20,8.733624454,0,1
+Crawford,Michigan,26039,670,48,7.164179104,0,1
+Crenshaw,Alabama,1041,181,0,0,0,0
+Crittenden,Arkansas,5035,3544,88,2.483069977,0,0
+Crockett,Tennessee,47033,79,0,0,0,0
+Crook,Oregon,41013,28,0,0,0,0
+Cumberland,North Carolina,37051,3307,86,2.6005443,0,0
+Cuyahoga,Ohio,39035,43867,1508,3.437663848,0,0
+Dakota,Minnesota,27037,3459,139,4.018502457,0,0
+Dallas,Iowa,19049,2428,0,0,0,0
+Dallas,Missouri,29059,46,0,0,0,0
+Dare,North Carolina,37055,257,22,8.560311284,0,1
+Davie,North Carolina,37059,699,56,8.011444921,0,1
+Daviess,Indiana,18027,667,104,15.5922039,1,1
+Daviess,Kentucky,21059,3318,100,3.013863773,0,0
+Davison,South Dakota,46035,157,52,33.12101911,1,1
+Dawson,Georgia,13085,1109,32,2.885482417,0,0
+De Soto,Louisiana,22031,4100,228,5.56097561,0,1
+Deaf Smith,Texas,48117,386,0,0,0,0
+DeKalb,Illinois,17037,1415,25,1.766784452,0,0
+Delaware,Ohio,39041,3419,72,2.105878912,0,0
+Delta,Colorado,8029,496,23,4.637096774,0,0
+Delta,Michigan,26041,292,32,10.95890411,1,1
+Denver,Colorado,8031,52088,2136,4.100752573,0,0
+Des Moines,Iowa,19057,258,5,1.937984496,0,0
+Dinwiddie,Virginia,51053,203,0,0,0,0
+Dixie,Florida,12029,86,0,0,0,0
+Douglas,Georgia,13097,6101,196,3.2125881,0,0
+Douglas,Oregon,41019,586,0,0,0,0
+Douglas,Washington,53017,1131,17,1.503094607,0,0
+Duchesne,Utah,49013,93,0,0,0,0
+Dukes,Massachusetts,25007,355,10,2.816901408,0,0
+Durham,North Carolina,37063,11704,142,1.213260424,0,0
+Dutchess,New York,36027,60401,1201,1.988377676,0,0
+East Baton Rouge,Louisiana,22033,38985,2036,5.222521483,0,1
+Effingham,Georgia,13103,737,26,3.527815468,0,0
+El Paso,Texas,48141,13243,184,1.389413275,0,0
+Elbert,Georgia,13105,240,0,0,0,0
+Elk,Kansas,20049,2,0,0,0,0
+Elkhart,Indiana,18039,3976,108,2.716297787,0,0
+Erath,Texas,48143,311,28,9.003215434,0,1
+Escambia,Alabama,1053,386,10,2.590673575,0,0
+Escambia,Florida,12033,8923,172,1.927602824,0,0
+Essex,New Jersey,34013,265890,18241,6.860355786,0,1
+Etowah,Alabama,1055,2500,185,7.4,0,1
+Fairbanks North Star Borough,Alaska,2090,2358,47,1.993214589,0,0
+Fayette,West Virginia,54019,126,0,0,0,0
+Fillmore,Nebraska,31059,9,9,100,1,1
+Flathead,Montana,30029,1060,27,2.547169811,0,0
+Florence,Wisconsin,55037,51,0,0,0,0
+Floyd,Georgia,13115,3665,213,5.811732606,0,1
+Floyd,Virginia,51063,24,0,0,0,0
+Franklin,Georgia,13119,291,1,0.343642612,0,0
+Franklin,Illinois,17055,144,0,0,0,0
+Franklin,Indiana,18047,2440,218,8.93442623,0,1
+Franklin,Kentucky,21073,406,0,0,0,0
+Franklin,Louisiana,22041,1973,41,2.078053725,0,0
+Franklin,North Carolina,37069,1769,188,10.62747315,1,1
+Frederick,Virginia,51069,2038,3,0.14720314,0,0
+Freestone,Texas,48161,42,0,0,0,0
+Frontier,Nebraska,31063,2,0,0,0,0
+Fulton,Arkansas,5049,8,0,0,0,0
+Fulton,Georgia,13121,58260,2051,3.520425678,0,0
+Fulton,Indiana,18049,217,1,0.460829493,0,0
+Furnas,Nebraska,31065,27,0,0,0,0
+Gage,Nebraska,31067,692,44,6.358381503,0,1
+Gaines,Texas,48165,55,0,0,0,0
+Gallatin,Illinois,17059,43,0,0,0,0
+Garfield,Utah,49017,42,0,0,0,0
+Garrard,Kentucky,21079,29,0,0,0,0
+Garrett,Maryland,24023,142,0,0,0,0
+Garvin,Oklahoma,40049,363,2,0.550964187,0,0
+Garza,Texas,48169,1,0,0,0,0
+Gem,Idaho,16045,273,0,0,0,0
+Gila,Arizona,4007,188,0,0,0,0
+Giles,Tennessee,47055,138,0,0,0,0
+Gillespie,Texas,48171,56,0,0,0,0
+Gilpin,Colorado,8047,22,0,0,0,0
+Glasscock,Texas,48173,1,0,0,0,0
+Gogebic,Michigan,26053,117,36,30.76923077,1,1
+Goochland,Virginia,51075,1335,39,2.921348315,0,0
+Gosper,Nebraska,31073,119,0,0,0,0
+Gove,Kansas,20063,35,0,0,0,0
+Grady,Oklahoma,40051,565,17,3.008849558,0,0
+Grant,Arkansas,5053,299,0,0,0,0
+Grant,Indiana,18053,1845,99,5.365853659,0,1
+Grant,Louisiana,22043,328,0,0,0,0
+Grant,North Dakota,38037,31,0,0,0,0
+Grant,Washington,53025,4157,49,1.178734664,0,0
+Grays Harbor,Washington,53027,306,0,0,0,0
+Grayson,Texas,48181,561,0,0,0,0
+Cherokee,Alabama,1019,304,0,0,0,0
+Cherokee,Kansas,20021,208,0,0,0,0
+Chester,Pennsylvania,42029,22876,1131,4.944046162,0,0
+Chester,South Carolina,45023,614,0,0,0,0
+Chester,Tennessee,47023,236,0,0,0,0
+Chickasaw,Mississippi,28017,1177,89,7.561597281,0,1
+Chicot,Arkansas,5017,187,0,0,0,0
+Chippewa,Michigan,26033,48,8,16.66666667,1,1
+Chisago,Minnesota,27025,215,28,13.02325581,1,1
+Chowan,North Carolina,37041,118,0,0,0,0
+Christian,Missouri,29043,564,0,0,0,0
+Churchill,Nevada,32001,46,11,23.91304348,1,1
+Cimarron,Oklahoma,40025,10,0,0,0,0
+Clarke,Georgia,13059,3314,352,10.62160531,1,1
+Clarke,Mississippi,28023,717,45,6.276150628,0,1
+Clay,Alabama,1027,442,8,1.809954751,0,0
+Clay,Minnesota,27027,1801,81,4.497501388,0,0
+Clay,South Dakota,46027,154,0,0,0,0
+Clay,Texas,48077,82,0,0,0,0
+Clearwater,Minnesota,27029,74,0,0,0,0
+Cleburne,Arkansas,5023,2563,130,5.072181038,0,1
+Cleveland,North Carolina,37045,1062,25,2.354048964,0,0
+Cloud,Kansas,20029,77,0,0,0,0
+Cochran,Texas,48079,8,0,0,0,0
+Coconino,Arizona,4005,8970,757,8.439241918,0,1
+Coffee,Georgia,13069,2081,84,4.036520903,0,0
+Coffee,Tennessee,47031,508,0,0,0,0
+Colbert,Alabama,1033,433,32,7.390300231,0,1
+Colonial Heights city,Virginia,51570,606,31,5.115511551,0,1
+Columbia,Arkansas,5027,156,0,0,0,0
+Columbia,Oregon,41009,329,0,0,0,0
+Columbus,North Carolina,37047,1409,84,5.961674947,0,1
+Comanche,Oklahoma,40031,1775,10,0.563380282,0,0
+Concho,Texas,48095,21,0,0,0,0
+Cook,Illinois,17031,585974,22242,3.795731551,0,0
+Cooke,Texas,48097,74,0,0,0,0
+Coos,New Hampshire,33007,49,0,0,0,0
+Coosa,Alabama,1037,568,18,3.169014085,0,0
+Cortland,New York,36023,670,0,0,0,0
+Coshocton,Ohio,39031,467,0,0,0,0
+Cottle,Texas,48101,6,0,0,0,0
+Cotton,Oklahoma,40033,134,8,5.970149254,0,1
+Crawford,Illinois,17033,167,0,0,0,0
+Crawford,Ohio,39033,758,0,0,0,0
+Crawford,Pennsylvania,42039,437,0,0,0,0
+Creek,Oklahoma,40037,1871,109,5.825761625,0,1
+Crook,Wyoming,56011,94,0,0,0,0
+Crosby,Texas,48107,31,16,51.61290323,1,1
+Crow Wing,Minnesota,27035,437,3,0.686498856,0,0
+Crowley,Colorado,8025,63,43,68.25396825,1,1
+Culpeper,Virginia,51047,1428,16,1.120448179,0,0
+Cumberland,Kentucky,21057,78,0,0,0,0
+Cumberland,Maine,23005,11398,454,3.983154939,0,0
+Custer,Idaho,16037,67,0,0,0,0
+Custer,Nebraska,31041,411,43,10.4622871,1,1
+Dade,Georgia,13083,219,28,12.78538813,1,1
+Dallam,Texas,48111,88,8,9.090909091,0,1
+Dane,Wisconsin,55025,11703,452,3.862257541,0,0
+Darke,Ohio,39037,1578,264,16.73003802,1,1
+Dauphin,Pennsylvania,42043,9309,258,2.771511441,0,0
+Davidson,Tennessee,47037,51822,519,1.001505152,0,0
+Decatur,Indiana,18031,4463,434,9.724400627,0,1
+DeKalb,Georgia,13089,38088,687,1.803717706,0,0
+DeKalb,Tennessee,47041,310,0,0,0,0
+Delaware,New York,36025,1396,6,0.429799427,0,0
+Deschutes,Oregon,41017,1916,0,0,0,0
+Deuel,South Dakota,46039,34,0,0,0,0
+DeWitt,Texas,48123,340,10,2.941176471,0,0
+Dickinson,Kansas,20041,22,0,0,0,0
+Dickson,Tennessee,47043,1334,0,0,0,0
+Dimmit,Texas,48127,20,0,0,0,0
+Dodge,Nebraska,31053,630,0,0,0,0
+Doña Ana,New Mexico,35013,2132,19,0.891181989,0,0
+Doniphan,Kansas,20043,56,0,0,0,0
+Donley,Texas,48129,544,0,0,0,0
+Door,Wisconsin,55029,239,19,7.949790795,0,1
+Douglas,Illinois,17041,348,0,0,0,0
+Douglas,Nebraska,31055,10314,265,2.56932325,0,0
+Dunklin,Missouri,29069,471,30,6.369426752,0,1
+DuPage,Illinois,17043,47518,2242,4.718212046,0,0
+Duplin,North Carolina,37061,846,0,0,0,0
+Dyer,Tennessee,47045,663,0,0,0,0
+East Feliciana,Louisiana,22037,2298,166,7.223672759,0,1
+Eaton,Michigan,26045,2578,123,4.771140419,0,0
+Ector,Texas,48135,1470,69,4.693877551,0,0
+Eddy,New Mexico,35015,258,37,14.34108527,1,1
+Effingham,Illinois,17049,98,22,22.44897959,1,1
+El Dorado,California,6017,1105,0,0,0,0
+El Paso,Colorado,8041,21249,1427,6.715610146,0,1
+Elbert,Colorado,8039,573,27,4.712041885,0,0
+Ellis,Texas,48139,2571,96,3.733955659,0,0
+Emery,Utah,49015,84,0,0,0,0
+Emmet,Michigan,26047,563,58,10.30195382,1,1
+Emporia city,Virginia,51595,279,15,5.376344086,0,1
+Erie,Ohio,39043,785,63,8.025477707,0,1
+Erie,Pennsylvania,42049,1528,30,1.963350785,0,0
+Essex,Massachusetts,25009,133267,5385,4.040760278,0,0
+Essex,Vermont,50009,37,0,0,0,0
+Evans,Georgia,13109,58,0,0,0,0
+Fairfield,Connecticut,9001,213965,11772,5.501834412,0,1
+Fairfield,South Carolina,45039,717,16,2.231520223,0,0
+Fall River,South Dakota,46047,33,0,0,0,0
+Fannin,Georgia,13111,472,5,1.059322034,0,0
+Fannin,Texas,48147,238,0,0,0,0
+Fauquier,Virginia,51061,1314,17,1.293759513,0,0
+Fayette,Ohio,39047,282,0,0,0,0
+Fayette,Tennessee,47047,1158,16,1.381692573,0,0
+Fergus,Montana,30027,1,0,0,0,0
+Fillmore,Minnesota,27045,362,8,2.209944751,0,0
+Finney,Kansas,20055,1927,17,0.882200311,0,0
+Flagler,Florida,12035,2098,48,2.287893232,0,0
+Fleming,Kentucky,21069,39,0,0,0,0
+Charlotte,Florida,12015,3925,228,5.808917197,0,1
+Charlotte,Virginia,51037,141,0,0,0,0
+Chelan,Washington,53007,2024,178,8.794466403,0,1
+Cherokee,Oklahoma,40021,605,24,3.966942149,0,0
+Cherry,Nebraska,31031,27,0,0,0,0
+Cheyenne,Nebraska,31033,90,0,0,0,0
+Chickasaw,Iowa,19037,67,0,0,0,0
+Choctaw,Oklahoma,40023,79,0,0,0,0
+Cibola,New Mexico,35006,851,36,4.230317274,0,0
+Claiborne,Louisiana,22027,1263,115,9.10530483,0,1
+Clallam,Washington,53009,429,0,0,0,0
+Clare,Michigan,26035,196,21,10.71428571,1,1
+Clark,Illinois,17023,112,0,0,0,0
+Clark,Indiana,18019,4614,260,5.63502384,0,1
+Clark,Missouri,29045,28,0,0,0,0
+Clark,Ohio,39023,735,13,1.768707483,0,0
+Clark,South Dakota,46025,33,0,0,0,0
+Clark,Washington,53011,8147,506,6.210875169,0,1
+Clarke,Alabama,1025,560,11,1.964285714,0,0
+Clarke,Virginia,51043,142,0,0,0,0
+Clay,Mississippi,28025,640,23,3.59375,0,0
+Clayton,Georgia,13063,13822,474,3.429315584,0,0
+Clayton,Iowa,19043,222,16,7.207207207,0,1
+Clearfield,Pennsylvania,42033,294,0,0,0,0
+Cleburne,Alabama,1029,354,12,3.389830508,0,0
+Cleveland,Arkansas,5025,277,0,0,0,0
+Clinton,Iowa,19045,999,5,0.500500501,0,0
+Clinton,Pennsylvania,42035,321,0,0,0,0
+Cochise,Arizona,4003,633,0,0,0,0
+Coles,Illinois,17029,312,6,1.923076923,0,0
+Colfax,Nebraska,31037,274,0,0,0,0
+Collin,Texas,48085,15556,320,2.057084083,0,0
+Colorado,Texas,48089,205,0,0,0,0
+Columbia,New York,36021,3123,305,9.7662504,0,1
+Columbiana,Ohio,39029,4134,338,8.176100629,0,1
+Comanche,Texas,48093,78,1,1.282051282,0,0
+Conecuh,Alabama,1035,180,0,0,0,0
+Contra Costa,California,6013,19949,478,2.396110081,0,0
+Converse,Wyoming,56009,224,0,0,0,0
+Cooper,Missouri,29053,134,0,0,0,0
+Cottonwood,Minnesota,27033,207,0,0,0,0
+Covington city,Virginia,51580,28,0,0,0,0
+Coweta,Georgia,13077,4159,103,2.476556865,0,0
+Cowlitz,Washington,53015,918,0,0,0,0
+Craig,Oklahoma,40035,209,0,0,0,0
+Craig,Virginia,51045,49,0,0,0,0
+Craighead,Arkansas,5031,1263,11,0.870942201,0,0
+Crawford,Indiana,18025,345,0,0,0,0
+Crawford,Kansas,20037,203,32,15.7635468,1,1
+Crawford,Wisconsin,55023,77,0,0,0,0
+Crisp,Georgia,13081,2895,36,1.243523316,0,0
+Cross,Arkansas,5037,265,0,0,0,0
+Cullman,Alabama,1043,1148,17,1.480836237,0,0
+Cumberland,Illinois,17035,76,0,0,0,0
+Cumberland,Pennsylvania,42041,4961,152,3.063898408,0,0
+Curry,New Mexico,35009,301,0,0,0,0
+Custer,Oklahoma,40039,251,0,0,0,0
+Dakota,Nebraska,31043,4210,6,0.142517815,0,0
+Dallas,Texas,48113,65598,1545,2.355254733,0,0
+Dawson,Nebraska,31047,3847,0,0,0,0
+Dearborn,Indiana,18029,1886,114,6.044538706,0,1
+Defiance,Ohio,39039,426,8,1.877934272,0,0
+DeKalb,Alabama,1049,1144,29,2.534965035,0,0
+Delaware,Oklahoma,40041,1727,121,7.006369427,0,1
+Delta,Texas,48119,23,0,0,0,0
+Denton,Texas,48121,16856,419,2.485761747,0,0
+DeSoto,Florida,12027,656,97,14.78658537,1,1
+Dewey,Oklahoma,40043,40,0,0,0,0
+Dillon,South Carolina,45033,503,0,0,0,0
+District of Columbia,District of Columbia,11001,73873,2692,3.644091887,0,0
+Dixon,Nebraska,31051,27,0,0,0,0
+Dodge,Wisconsin,55027,646,17,2.631578947,0,0
+Dooly,Georgia,13093,1857,114,6.138933764,0,1
+Dorchester,Maryland,24019,593,28,4.721753794,0,0
+Douglas,Kansas,20045,1384,0,0,0,0
+Douglas,South Dakota,46043,4,0,0,0,0
+Douglas,Wisconsin,55031,275,0,0,0,0
+Dunn,North Dakota,38025,166,0,0,0,0
+Duval,Texas,48131,23,0,0,0,0
+Early,Georgia,13099,4316,270,6.2557924,0,1
+Eastland,Texas,48133,108,0,0,0,0
+Eau Claire,Wisconsin,55035,721,0,0,0,0
+Echols,Georgia,13101,88,0,0,0,0
+Eddy,North Dakota,38027,28,0,0,0,0
+Edgefield,South Carolina,45037,413,11,2.663438257,0,0
+Edmonson,Kentucky,21061,260,0,0,0,0
+Elko,Nevada,32007,351,27,7.692307692,0,1
+Elmore,Idaho,16039,574,17,2.961672474,0,0
+Emmet,Iowa,19063,1,0,0,0,0
+Essex,Virginia,51057,55,0,0,0,0
+Evangeline,Louisiana,22039,1115,1,0.089686099,0,0
+Fairfax city,Virginia,51600,311,18,5.78778135,0,1
+Faulk,South Dakota,46049,35,0,0,0,0
+Faulkner,Arkansas,5045,2019,47,2.327885092,0,0
+Fayette,Georgia,13113,3845,205,5.33159948,0,1
+Fayette,Illinois,17051,317,28,8.832807571,0,1
+Fayette,Indiana,18041,649,106,16.33281972,1,1
+Fayette,Kentucky,21067,6445,227,3.522110163,0,0
+Fayette,Pennsylvania,42051,1722,77,4.471544715,0,0
+Fayette,Texas,48149,439,7,1.59453303,0,0
+Fentress,Tennessee,47049,90,0,0,0,0
+Floyd,Indiana,18043,3530,180,5.099150142,0,1
+Floyd,Kentucky,21071,121,0,0,0,0
+Floyd,Texas,48153,47,0,0,0,0
+Fluvanna,Virginia,51065,1317,48,3.644646925,0,0
+Fond du Lac,Wisconsin,55039,1954,91,4.657113613,0,0
+Ford,Illinois,17053,156,24,15.38461538,1,1
+Foster,North Dakota,38031,37,0,0,0,0
+Fountain,Indiana,18045,159,44,27.67295597,1,1
+Franklin,Alabama,1059,593,4,0.674536256,0,0
+Franklin,Massachusetts,25011,5172,731,14.13379737,1,1
+Franklin,Ohio,39049,38982,859,2.20358114,0,0
+Greeley,Nebraska,31077,12,0,0,0,0
+Green,Wisconsin,55045,308,0,0,0,0
+Greenbrier,West Virginia,54025,101,0,0,0,0
+Greene,Alabama,1063,760,3,0.394736842,0,0
+Greene,Iowa,19073,31,0,0,0,0
+Greene,New York,36039,2038,0,0,0,0
+Greenup,Kentucky,21089,196,0,0,0,0
+Greenville,South Carolina,45045,12839,332,2.585871174,0,0
+Greenwood,Kansas,20073,47,0,0,0,0
+Greer,Oklahoma,40055,1359,127,9.345106696,0,1
+Grimes,Texas,48185,270,15,5.555555556,0,1
+Guadalupe,New Mexico,35019,95,0,0,0,0
+Guernsey,Ohio,39059,251,0,0,0,0
+Hale,Alabama,1065,647,19,2.936630603,0,0
+Hall,Nebraska,31079,11868,271,2.283451298,0,0
+Hamilton,Iowa,19079,86,0,0,0,0
+Hamilton,Nebraska,31081,602,54,8.970099668,0,1
+Hamlin,South Dakota,46057,49,0,0,0,0
+Hampshire,Massachusetts,25015,8536,303,3.549671978,0,0
+Hampshire,West Virginia,54027,133,12,9.022556391,0,1
+Hampton,South Carolina,45049,383,0,0,0,0
+Hampton city,Virginia,51650,2220,24,1.081081081,0,0
+Hancock,Illinois,17067,70,0,0,0,0
+Hancock,Maine,23009,162,0,0,0,0
+Hancock,Ohio,39063,725,21,2.896551724,0,0
+Hanover,Virginia,51085,1853,74,3.993524015,0,0
+Hardee,Florida,12049,156,0,0,0,0
+Hardeman,Tennessee,47069,232,0,0,0,0
+Hardin,Iowa,19083,87,0,0,0,0
+Hardin,Tennessee,47071,106,0,0,0,0
+Harney,Oregon,41025,3,0,0,0,0
+Harper,Oklahoma,40059,13,0,0,0,0
+Harrison,Iowa,19085,442,0,0,0,0
+Harrison,Kentucky,21097,671,0,0,0,0
+Harrison,Missouri,29081,151,0,0,0,0
+Hart,Kentucky,21099,54,0,0,0,0
+Henderson,Illinois,17071,42,0,0,0,0
+Henderson,North Carolina,37089,2963,228,7.694903814,0,1
+Henry,Alabama,1067,403,7,1.736972705,0,0
+Henry,Iowa,19087,667,26,3.898050975,0,0
+Henry,Missouri,29083,152,33,21.71052632,1,1
+Hidalgo,New Mexico,35023,1,0,0,0,0
+Highland,Virginia,51091,12,0,0,0,0
+Hitchcock,Nebraska,31087,1,0,0,0,0
+Horry,South Carolina,45051,4647,289,6.219066064,0,1
+Hot Spring,Arkansas,5059,274,0,0,0,0
+Houston,Tennessee,47083,112,0,0,0,0
+Humboldt,Iowa,19091,33,0,0,0,0
+Hunterdon,New Jersey,34019,11350,391,3.444933921,0,0
+Huron,Michigan,26063,249,1,0.401606426,0,0
+Huron,Ohio,39077,526,33,6.273764259,0,1
+Iberia,Louisiana,22045,4889,253,5.174882389,0,1
+Indian River,Florida,12061,2408,73,3.031561462,0,0
+Ionia,Michigan,26067,731,45,6.155950752,0,1
+Iosco,Michigan,26069,434,53,12.21198157,1,1
+Iron,Utah,49021,495,0,0,0,0
+Iron,Wisconsin,55051,55,35,63.63636364,1,1
+Irwin,Georgia,13155,381,9,2.362204724,0,0
+Isabella,Michigan,26073,1213,141,11.62407255,1,1
+Isanti,Minnesota,27059,143,0,0,0,0
+Isle of Wight,Virginia,51093,1727,19,1.100173712,0,0
+Itawamba,Mississippi,28057,612,19,3.104575163,0,0
+Izard,Arkansas,5065,60,0,0,0,0
+Jack,Texas,48237,71,0,0,0,0
+Jackson,Florida,12063,257,0,0,0,0
+Jackson,Mississippi,28059,5296,145,2.737915408,0,0
+Jackson,Missouri,29095,7268,265,3.646119978,0,0
+Jackson,Ohio,39079,77,0,0,0,0
+Jackson,Oklahoma,40065,257,0,0,0,0
+Jackson,Tennessee,47087,162,0,0,0,0
+James City,Virginia,51095,4643,223,4.802929141,0,0
+Jay,Indiana,18075,210,0,0,0,0
+Jefferson,Alabama,1073,20742,652,3.14338058,0,0
+Jefferson,Kentucky,21111,21723,1590,7.319431018,0,1
+Jefferson,Montana,30043,73,0,0,0,0
+Jefferson,Oregon,41031,57,0,0,0,0
+Jefferson,Texas,48245,4661,258,5.535292856,0,1
+Jefferson,West Virginia,54037,1576,3,0.19035533,0,0
+Jefferson Davis,Louisiana,22053,1284,103,8.021806854,0,1
+Jersey,Illinois,17083,214,6,2.803738318,0,0
+Jim Hogg,Texas,48247,14,0,0,0,0
+Jim Wells,Texas,48249,63,0,0,0,0
+Jo Daviess,Illinois,17085,293,0,0,0,0
+Johnson,Illinois,17087,48,0,0,0,0
+Johnson,Iowa,19103,8587,78,0.908349831,0,0
+Johnson,Kansas,20091,10493,685,6.528161632,0,1
+Johnson,Kentucky,21115,34,0,0,0,0
+Johnson,Tennessee,47091,71,0,0,0,0
+Johnston,North Carolina,37101,2906,212,7.295251204,0,1
+Jones,Iowa,19105,364,0,0,0,0
+Juneau,Wisconsin,55057,262,19,7.251908397,0,1
+Juniata,Pennsylvania,42067,1444,2,0.138504155,0,0
+Kalamazoo,Michigan,26077,4679,233,4.979696516,0,0
+Kanawha,West Virginia,54039,3181,39,1.22602955,0,0
+Kane,Utah,49025,77,0,0,0,0
+Karnes,Texas,48255,86,0,0,0,0
+Kaufman,Texas,48257,1158,1,0.086355786,0,0
+Kearney,Nebraska,31099,98,0,0,0,0
+Kendall,Illinois,17093,3929,99,2.519725121,0,0
+Kenton,Kentucky,21117,4086,321,7.856093979,0,1
+King George,Virginia,51099,519,38,7.32177264,0,1
+Kingsbury,South Dakota,46077,2,0,0,0,0
+Kit Carson,Colorado,8063,365,24,6.575342466,0,1
+Kittitas,Washington,53037,515,0,0,0,0
+Kleberg,Texas,48273,134,18,13.43283582,1,1
+Knox,Indiana,18083,431,0,0,0,0
+Knox,Maine,23013,362,0,0,0,0
+Knox,Ohio,39083,339,29,8.554572271,0,1
+La Crosse,Wisconsin,55063,854,0,0,0,0
+Labette,Kansas,20099,462,0,0,0,0
+Lackawanna,Pennsylvania,42069,15538,1036,6.667524778,0,1
+Lafayette,Arkansas,5073,111,5,4.504504505,0,0
+Forrest,Mississippi,28035,3695,106,2.868741543,0,0
+Forsyth,Georgia,13117,5275,163,3.090047393,0,0
+Fort Bend,Texas,48157,19915,421,2.113984434,0,0
+Franklin,Arkansas,5047,31,0,0,0,0
+Franklin,Iowa,19069,31,0,0,0,0
+Franklin,Kansas,20059,376,0,0,0,0
+Franklin,Missouri,29071,2350,112,4.765957447,0,0
+Franklin,Nebraska,31061,63,0,0,0,0
+Franklin,Texas,48159,33,0,0,0,0
+Franklin,Virginia,51067,458,0,0,0,0
+Franklin,Washington,53021,4798,100,2.084201751,0,0
+Franklin city,Virginia,51620,287,0,0,0,0
+Fredericksburg city,Virginia,51630,448,0,0,0,0
+Fremont,Wyoming,56013,1791,40,2.233389168,0,0
+Fulton,Illinois,17057,35,0,0,0,0
+Garfield,Oklahoma,40047,261,21,8.045977011,0,1
+Geary,Kansas,20061,221,0,0,0,0
+Genesee,Michigan,26049,31947,2820,8.827119917,0,1
+Gibson,Indiana,18051,168,0,0,0,0
+Gilchrist,Florida,12041,95,0,0,0,0
+Giles,Virginia,51071,86,0,0,0,0
+Glynn,Georgia,13127,1308,8,0.611620795,0,0
+Golden Valley,Montana,30037,48,0,0,0,0
+Goodhue,Minnesota,27049,474,0,0,0,0
+Gooding,Idaho,16047,165,0,0,0,0
+Graham,Arizona,4009,143,0,0,0,0
+Grand,Utah,49019,35,0,0,0,0
+Grant,Kansas,20067,11,0,0,0,0
+Grant,Kentucky,21081,397,48,12.0906801,1,1
+Grant,New Mexico,35017,280,0,0,0,0
+Grant,Oklahoma,40053,48,0,0,0,0
+Grant,West Virginia,54023,19,0,0,0,0
+Granville,North Carolina,37077,2825,81,2.867256637,0,0
+Gray,Texas,48179,557,0,0,0,0
+Green Lake,Wisconsin,55047,22,0,0,0,0
+Greene,Illinois,17061,34,0,0,0,0
+Greene,North Carolina,37079,352,0,0,0,0
+Greene,Ohio,39057,927,59,6.364617044,0,1
+Grenada,Mississippi,28043,513,0,0,0,0
+Grundy,Tennessee,47061,657,17,2.587519026,0,0
+Gulf,Florida,12045,30,0,0,0,0
+Gunnison,Colorado,8051,4133,91,2.201790467,0,0
+Halifax,Virginia,51083,259,0,0,0,0
+Hamilton,Florida,12047,87,0,0,0,0
+Hamilton,Illinois,17065,23,0,0,0,0
+Hamilton,Texas,48193,88,0,0,0,0
+Hancock,Georgia,13141,295,4,1.355932203,0,0
+Hancock,Iowa,19081,115,0,0,0,0
+Hancock,Kentucky,21091,117,0,0,0,0
+Hansford,Texas,48195,48,0,0,0,0
+Hardin,Ohio,39065,352,0,0,0,0
+Hardin,Texas,48199,1962,64,3.261977574,0,0
+Harding,New Mexico,35021,8,0,0,0,0
+Harnett,North Carolina,37085,2035,103,5.061425061,0,1
+Harrison,Indiana,18061,2260,75,3.318584071,0,0
+Harrison,Mississippi,28047,3994,139,3.48022033,0,0
+Harrison,Texas,48203,1130,50,4.424778761,0,0
+Harrison,West Virginia,54033,861,25,2.903600465,0,0
+Harrisonburg city,Virginia,51660,5471,83,1.517090111,0,0
+Hart,Georgia,13147,162,0,0,0,0
+Haskell,Oklahoma,40061,45,0,0,0,0
+Hawaii,Hawaii,15001,1477,0,0,0,0
+Hays,Texas,48209,3326,18,0.541190619,0,0
+Haywood,North Carolina,37087,116,0,0,0,0
+Haywood,Tennessee,47075,350,21,6,0,1
+Hemphill,Texas,48211,27,0,0,0,0
+Henry,Georgia,13151,9841,204,2.072960065,0,0
+Hickman,Kentucky,21105,15,0,0,0,0
+Hickman,Tennessee,47081,338,0,0,0,0
+Hill,Montana,30041,37,0,0,0,0
+Hinsdale,Colorado,8053,77,0,0,0,0
+Hocking,Ohio,39073,145,9,6.206896552,0,1
+Hoke,North Carolina,37093,845,0,0,0,0
+Holmes,Mississippi,28051,1865,111,5.951742627,0,1
+Holmes,Ohio,39075,100,11,11,1,1
+Hopewell city,Virginia,51670,462,0,0,0,0
+Howard,Indiana,18067,2176,120,5.514705882,0,1
+Howard,Iowa,19089,87,0,0,0,0
+Howard,Texas,48227,43,20,46.51162791,1,1
+Hudson,New Jersey,34017,271825,10966,4.034213189,0,0
+Humphreys,Mississippi,28053,344,61,17.73255814,1,1
+Hunt,Texas,48231,724,36,4.972375691,0,0
+Huntington,Indiana,18069,186,38,20.43010753,1,1
+Iberville,Louisiana,22047,7874,506,6.426212852,0,1
+Indiana,Pennsylvania,42063,1220,58,4.754098361,0,0
+Ingham,Michigan,26065,8933,157,1.757528266,0,0
+Iowa,Wisconsin,55049,178,0,0,0,0
+Iroquois,Illinois,17075,348,0,0,0,0
+Jackson,Alabama,1071,956,59,6.171548117,0,1
+Jackson,Kansas,20085,45,0,0,0,0
+Jackson,Kentucky,21109,907,68,7.49724366,0,1
+Jackson,Texas,48239,137,0,0,0,0
+Jackson,Wisconsin,55053,273,18,6.593406593,0,1
+Jefferson,Florida,12065,496,26,5.241935484,0,1
+Jefferson,Georgia,13163,256,22,8.59375,0,1
+Jefferson,Illinois,17081,905,51,5.635359116,0,1
+Jefferson,Indiana,18077,450,0,0,0,0
+Jefferson,Kansas,20087,164,0,0,0,0
+Jefferson,Mississippi,28063,179,0,0,0,0
+Jefferson,Nebraska,31095,13,0,0,0,0
+Jefferson,New York,36045,1406,0,0,0,0
+Jefferson,Wisconsin,55055,862,0,0,0,0
+Jerauld,South Dakota,46073,92,7,7.608695652,0,1
+Jessamine,Kentucky,21113,877,0,0,0,0
+Jones,Georgia,13169,481,0,0,0,0
+Jones,Texas,48253,172,0,0,0,0
+Juneau City and Borough,Alaska,2110,638,0,0,0,0
+Kearny,Kansas,20093,107,0,0,0,0
+Kemper,Mississippi,28069,638,6,0.940438871,0,0
+Kennebec,Maine,23011,2117,88,4.156825697,0,0
+Kern,California,6029,15969,100,0.626213288,0,0
+Kershaw,South Carolina,45055,6515,200,3.069838833,0,0
+Abbeville,South Carolina,45001,462,0,0,0,0
+Acadia,Louisiana,22001,3151,161,5.109489051,0,1
+Adair,Kentucky,21001,1210,101,8.347107438,0,1
+Adair,Missouri,29001,345,0,0,0,0
+Adams,Illinois,17001,718,0,0,0,0
+Adams,Indiana,18001,171,19,11.11111111,1,1
+Adams,Pennsylvania,42001,2125,36,1.694117647,0,0
+Aitkin,Minnesota,27001,14,0,0,0,0
+Alamance,North Carolina,37001,1453,7,0.481761872,0,0
+Alexandria city,Virginia,51510,9901,211,2.131097869,0,0
+Allamakee,Iowa,19005,1168,66,5.650684932,0,1
+Allegany,Maryland,24001,1228,45,3.664495114,0,0
+Allegany,New York,36003,827,7,0.84643289,0,0
+Allen,Kentucky,21003,142,0,0,0,0
+Amador,California,6005,170,0,0,0,0
+Androscoggin,Maine,23001,995,22,2.211055276,0,0
+Anne Arundel,Maryland,24003,27220,1016,3.732549596,0,0
+Anoka,Minnesota,27003,2877,55,1.911713591,0,0
+Antrim,Michigan,26009,230,1,0.434782609,0,0
+Appomattox,Virginia,51011,228,0,0,0,0
+Arenac,Michigan,26011,265,11,4.150943396,0,0
+Aroostook,Maine,23003,72,0,0,0,0
+Atchison,Kansas,20005,137,0,0,0,0
+Audrain,Missouri,29007,12,0,0,0,0
+Audubon,Iowa,19009,32,0,0,0,0
+Autauga,Alabama,1001,774,45,5.813953488,0,1
+Baldwin,Georgia,13009,2903,91,3.134688254,0,0
+Baltimore,Maryland,24005,46452,1231,2.650047361,0,0
+Barnstable,Massachusetts,25001,17826,616,3.455626613,0,0
+Barren,Kentucky,21009,208,0,0,0,0
+Barry,Michigan,26015,540,18,3.333333333,0,0
+Bath,Kentucky,21011,74,1,1.351351351,0,0
+Bayfield,Wisconsin,55007,108,13,12.03703704,1,1
+Beadle,South Dakota,46005,806,51,6.327543424,0,1
+Beaufort,North Carolina,37013,418,0,0,0,0
+Becker,Minnesota,27005,34,0,0,0,0
+Beckham,Oklahoma,40009,64,0,0,0,0
+Beltrami,Minnesota,27007,172,0,0,0,0
+Benton,Iowa,19011,597,24,4.020100503,0,0
+Benzie,Michigan,26019,54,0,0,0,0
+Berkshire,Massachusetts,25003,11644,732,6.286499485,0,1
+Bernalillo,New Mexico,35001,15269,606,3.968825725,0,0
+Berrien,Georgia,13019,270,0,0,0,0
+Berrien,Michigan,26021,4185,207,4.946236559,0,0
+Big Horn,Montana,30003,53,0,0,0,0
+Big Horn,Wyoming,56003,21,0,0,0,0
+Blackford,Indiana,18009,153,16,10.45751634,1,1
+Blair,Pennsylvania,42013,397,0,0,0,0
+Bleckley,Georgia,13023,143,0,0,0,0
+Blount,Tennessee,47009,1424,72,5.056179775,0,1
+Blue Earth,Minnesota,27013,757,0,0,0,0
+Bon Homme,South Dakota,46009,118,0,0,0,0
+Bonneville,Idaho,16019,383,0,0,0,0
+Boone,Illinois,17007,909,97,10.67106711,1,1
+Boone,Kentucky,21015,2013,47,2.334823646,0,0
+Bosque,Texas,48035,41,0,0,0,0
+Boulder,Colorado,8013,10556,483,4.575596817,0,0
+Box Butte,Nebraska,31013,20,0,0,0,0
+Box Elder,Utah,49003,451,11,2.43902439,0,0
+Boyd,Kentucky,21019,739,62,8.389715832,0,1
+Boyle,Kentucky,21021,376,0,0,0,0
+Breathitt,Kentucky,21025,102,0,0,0,0
+Brevard,Florida,12009,5348,145,2.711293942,0,0
+Broward,Florida,12011,108035,3105,2.874068589,0,0
+Bryan,Georgia,13029,1003,53,5.284147557,0,1
+Buchanan,Virginia,51027,230,0,0,0,0
+Buckingham,Virginia,51029,661,0,0,0,0
+Buffalo,Nebraska,31019,1479,31,2.096010818,0,0
+Bullitt,Kentucky,21029,911,58,6.366630077,0,1
+Bureau,Illinois,17011,196,0,0,0,0
+Burt,Nebraska,31021,28,0,0,0,0
+Butler,Alabama,1013,447,5,1.118568233,0,0
+Butler,Ohio,39017,4731,79,1.669837244,0,0
+Butte,South Dakota,46019,1,0,0,0,0
+Cabarrus,North Carolina,37025,5203,127,2.440899481,0,0
+Calcasieu,Louisiana,22019,8325,444,5.333333333,0,1
+Calhoun,Mississippi,28013,856,40,4.672897196,0,0
+Calhoun,South Carolina,45017,183,31,16.93989071,1,1
+Calvert,Maryland,24009,2828,93,3.28854314,0,0
+Camp,Texas,48063,123,0,0,0,0
+Campbell,Wyoming,56005,351,0,0,0,0
+Cannon,Tennessee,47015,253,0,0,0,0
+Canyon,Idaho,16027,5224,140,2.679938744,0,0
+Cape Girardeau,Missouri,29031,1016,24,2.362204724,0,0
+Carbon,Montana,30009,141,0,0,0,0
+Caribou,Idaho,16029,27,0,0,0,0
+Carroll,Mississippi,28015,350,15,4.285714286,0,0
+Carson,Texas,48065,15,0,0,0,0
+Carson City,Nevada,32510,800,9,1.125,0,0
+Carter,Oklahoma,40019,46,4,8.695652174,0,1
+Carver,Minnesota,27019,514,0,0,0,0
+Cass,Illinois,17017,202,0,0,0,0
+Cass,Michigan,26027,525,39,7.428571429,0,1
+Cass,Minnesota,27021,114,0,0,0,0
+Catawba,North Carolina,37035,1141,28,2.45398773,0,0
+Cerro Gordo,Iowa,19033,424,0,0,0,0
+Chambers,Alabama,1017,6277,357,5.687430301,0,1
+Charles Mix,South Dakota,46023,121,0,0,0,0
+Charlevoix,Michigan,26029,356,18,5.056179775,0,1
+Charlton,Georgia,13049,161,0,0,0,0
+Chase,Kansas,20017,14,0,0,0,0
+Chatham,North Carolina,37037,3354,57,1.699463327,0,0
+Chattahoochee,Georgia,13053,168,0,0,0,0
+Chautauqua,Kansas,20019,89,0,0,0,0
+Chautauqua,New York,36013,685,26,3.795620438,0,0
+Chaves,New Mexico,35005,614,10,1.628664495,0,0
+Cheboygan,Michigan,26031,361,27,7.479224377,0,1
+Chenango,New York,36017,2115,0,0,0,0
+Cherokee,Iowa,19035,17,0,0,0,0
+Cherokee,Texas,48073,247,17,6.882591093,0,1
+Franklin,Pennsylvania,42055,3266,100,3.061849357,0,0
+Franklin,Tennessee,47051,693,28,4.04040404,0,0
+Frederick,Maryland,24021,14219,601,4.226738871,0,0
+Fremont,Idaho,16043,62,0,0,0,0
+Frio,Texas,48163,44,0,0,0,0
+Fulton,Ohio,39051,348,0,0,0,0
+Fulton,Pennsylvania,42057,53,0,0,0,0
+Gallatin,Montana,30031,4400,3,0.068181818,0,0
+Gaston,North Carolina,37071,2864,76,2.653631285,0,0
+Geneva,Alabama,1061,92,0,0,0,0
+George,Mississippi,28039,264,13,4.924242424,0,0
+Georgetown,South Carolina,45043,960,45,4.6875,0,0
+Gibson,Tennessee,47053,754,9,1.193633952,0,0
+Glacier,Montana,30035,101,0,0,0,0
+Glades,Florida,12043,146,31,21.23287671,1,1
+Gladwin,Michigan,26051,233,11,4.721030043,0,0
+Gloucester,New Jersey,34015,19644,548,2.789655875,0,0
+Gloucester,Virginia,51073,584,10,1.712328767,0,0
+Goliad,Texas,48175,129,0,0,0,0
+Gonzales,Texas,48177,129,9,6.976744186,0,1
+Goshen,Wyoming,56015,87,0,0,0,0
+Grafton,New Hampshire,33009,1668,0,0,0,0
+Grand,Colorado,8049,159,0,0,0,0
+Grand Isle,Vermont,50013,68,0,0,0,0
+Grand Traverse,Michigan,26055,530,109,20.56603774,1,1
+Grant,Oregon,41023,42,0,0,0,0
+Graves,Kentucky,21083,1345,113,8.401486989,0,1
+Gray,Kansas,20069,22,0,0,0,0
+Grayson,Kentucky,21085,564,19,3.368794326,0,0
+Grayson,Virginia,51077,4,0,0,0,0
+Green,Kentucky,21087,28,0,0,0,0
+Greene,Arkansas,5055,288,0,0,0,0
+Greene,Georgia,13133,1056,27,2.556818182,0,0
+Greene,Indiana,18055,889,70,7.874015748,0,1
+Greene,Mississippi,28041,74,7,9.459459459,0,1
+Greene,Missouri,29077,2583,252,9.756097561,0,1
+Grundy,Iowa,19075,109,0,0,0,0
+Guadalupe,Texas,48187,1587,0,0,0,0
+Guthrie,Iowa,19077,101,0,0,0,0
+Habersham,Georgia,13137,2403,61,2.53849355,0,0
+Hall,Georgia,13139,17170,162,0.943506115,0,0
+Hall,Texas,48191,3,0,0,0,0
+Hamblen,Tennessee,47063,275,30,10.90909091,1,1
+Hamilton,Indiana,18057,15809,873,5.522170915,0,1
+Hamilton,Kansas,20075,26,0,0,0,0
+Hamilton,Ohio,39061,20082,881,4.387013246,0,0
+Hamilton,Tennessee,47065,3586,321,8.95147797,0,1
+Hampden,Massachusetts,25013,61824,5240,8.475672878,0,1
+Hancock,Mississippi,28045,1448,131,9.046961326,0,1
+Hancock,West Virginia,54029,222,0,0,0,0
+Harford,Maryland,24025,5631,41,0.728112236,0,0
+Harper,Kansas,20077,1,0,0,0,0
+Harrison,Ohio,39067,40,0,0,0,0
+Hartford,Connecticut,9003,86693,8189,9.44597603,0,1
+Hartley,Texas,48205,33,0,0,0,0
+Harvey,Kansas,20079,136,0,0,0,0
+Haskell,Kansas,20081,57,0,0,0,0
+Hawkins,Tennessee,47073,687,48,6.986899563,0,1
+Heard,Georgia,13149,179,37,20.67039106,1,1
+Henderson,Kentucky,21101,1019,8,0.785083415,0,0
+Henderson,Tennessee,47077,92,0,0,0,0
+Hendry,Florida,12051,1035,21,2.028985507,0,0
+Hennepin,Minnesota,27053,24971,2298,9.202675103,0,1
+Henrico,Virginia,51087,14854,1579,10.6301333,1,1
+Henry,Indiana,18065,713,16,2.244039271,0,0
+Henry,Ohio,39069,66,0,0,0,0
+Hernando,Florida,12053,2243,63,2.808738297,0,0
+Hertford,North Carolina,37091,349,26,7.449856734,0,1
+Highland,Ohio,39071,213,1,0.469483568,0,0
+Hill,Texas,48217,282,15,5.319148936,0,1
+Hillsborough,Florida,12057,26344,465,1.765107804,0,0
+Hillsdale,Michigan,26059,2427,266,10.96003296,1,1
+Hinds,Mississippi,28049,9152,108,1.18006993,0,0
+Holt,Missouri,29087,16,0,0,0,0
+Honolulu,Hawaii,15003,11430,181,1.583552056,0,0
+Hopkins,Texas,48223,126,0,0,0,0
+Houghton,Michigan,26061,50,0,0,0,0
+Houston,Minnesota,27055,26,0,0,0,0
+Houston,Texas,48225,39,0,0,0,0
+Howard,Arkansas,5061,305,1,0.327868852,0,0
+Howard,Maryland,24027,14350,276,1.923344948,0,0
+Howard,Nebraska,31093,111,0,0,0,0
+Howell,Missouri,29091,116,0,0,0,0
+Hughes,South Dakota,46065,157,0,0,0,0
+Humboldt,California,6023,1645,0,0,0,0
+Hyde,South Dakota,46069,18,0,0,0,0
+Imperial,California,6025,4739,102,2.152352817,0,0
+Independence,Arkansas,5063,228,0,0,0,0
+Inyo,California,6027,490,8,1.632653061,0,0
+Island,Washington,53029,5433,233,4.288606663,0,0
+Jackson,Indiana,18071,2281,3,0.131521263,0,0
+Jackson,Iowa,19097,123,0,0,0,0
+Jackson,Oregon,41029,1425,0,0,0,0
+Jackson,West Virginia,54035,1900,122,6.421052632,0,1
+Jasper,Illinois,17079,500,36,7.2,0,1
+Jasper,Mississippi,28061,526,14,2.661596958,0,0
+Jasper,Texas,48241,212,22,10.37735849,1,1
+Jefferson,Colorado,8059,27552,1125,4.083188153,0,0
+Jefferson,Iowa,19101,129,0,0,0,0
+Jefferson,Ohio,39081,801,9,1.123595506,0,0
+Jefferson,Oklahoma,40067,35,0,0,0,0
+Jefferson,Pennsylvania,42065,62,0,0,0,0
+Jefferson,Tennessee,47089,461,2,0.433839479,0,0
+Jefferson,Washington,53031,938,0,0,0,0
+Jenkins,Georgia,13165,313,23,7.348242812,0,1
+Jennings,Indiana,18079,1725,16,0.927536232,0,0
+Jerome,Idaho,16053,868,45,5.184331797,0,1
+Jewell,Kansas,20089,82,0,0,0,0
+Johnson,Indiana,18081,11097,866,7.803910967,0,1
+Johnson,Nebraska,31097,51,0,0,0,0
+Kalkaska,Michigan,26079,440,58,13.18181818,1,1
+Kandiyohi,Minnesota,27067,415,3,0.722891566,0,0
+Cheshire,New Hampshire,33005,745,46,6.174496644,0,1
+Childress,Texas,48075,12,0,0,0,0
+Chilton,Alabama,1021,1093,9,0.823421775,0,0
+Chippewa,Minnesota,27023,17,0,0,0,0
+Christian,Illinois,17021,791,125,15.80278129,1,1
+Christian,Kentucky,21047,1933,63,3.259182618,0,0
+Citrus,Florida,12017,2302,212,9.209383145,0,1
+Clackamas,Oregon,41005,4607,145,3.147384415,0,0
+Claiborne,Tennessee,47025,130,0,0,0,0
+Clarion,Pennsylvania,42031,449,13,2.89532294,0,0
+Clark,Arkansas,5019,953,0,0,0,0
+Clark,Kansas,20025,8,0,0,0,0
+Clark,Kentucky,21049,543,0,0,0,0
+Clark,Wisconsin,55019,377,22,5.835543767,0,1
+Clarke,Iowa,19039,47,0,0,0,0
+Clatsop,Oregon,41007,181,0,0,0,0
+Clay,Florida,12019,5716,326,5.703289013,0,1
+Clay,Kansas,20027,69,4,5.797101449,0,1
+Clay,Kentucky,21051,12,0,0,0,0
+Clay,Nebraska,31035,87,0,0,0,0
+Clay,Tennessee,47027,105,0,0,0,0
+Clermont,Ohio,39025,1628,42,2.57985258,0,0
+Cleveland,Oklahoma,40027,9007,591,6.561563229,0,1
+Clinch,Georgia,13065,167,0,0,0,0
+Clinton,Indiana,18023,489,22,4.498977505,0,0
+Clinton,Kentucky,21053,53,0,0,0,0
+Clinton,Michigan,26037,2809,146,5.19757921,0,1
+Clinton,Ohio,39027,596,1,0.167785235,0,0
+Coahoma,Mississippi,28027,1441,42,2.914642609,0,0
+Cocke,Tennessee,47029,250,0,0,0,0
+Colfax,New Mexico,35007,80,0,0,0,0
+Collier,Florida,12021,12844,235,1.829648085,0,0
+Colquitt,Georgia,13071,3342,148,4.428485937,0,0
+Columbia,Florida,12023,971,6,0.61791967,0,0
+Comal,Texas,48091,1186,149,12.56323777,1,1
+Concordia,Louisiana,22029,617,53,8.589951378,0,1
+Conway,Arkansas,5029,198,34,17.17171717,1,1
+Coos,Oregon,41011,107,0,0,0,0
+Corson,South Dakota,46031,22,0,0,0,0
+Coryell,Texas,48099,1682,17,1.010701546,0,0
+Costilla,Colorado,8023,99,0,0,0,0
+Cowley,Kansas,20035,43,22,51.1627907,1,1
+Crane,Texas,48103,73,0,0,0,0
+Crawford,Georgia,13079,248,0,0,0,0
+Crawford,Missouri,29055,143,0,0,0,0
+Crittenden,Kentucky,21055,79,11,13.92405063,1,1
+Cumberland,New Jersey,34011,8367,131,1.565674674,0,0
+Cumberland,Tennessee,47035,1506,3,0.199203187,0,0
+Cumberland,Virginia,51049,224,0,0,0,0
+Cuming,Nebraska,31039,72,0,0,0,0
+Currituck,North Carolina,37053,76,0,0,0,0
+Curry,Oregon,41015,85,0,0,0,0
+Custer,Colorado,8027,57,0,0,0,0
+Dale,Alabama,1045,408,0,0,0,0
+Dallas,Alabama,1047,610,36,5.901639344,0,1
+Dallas,Arkansas,5039,27,0,0,0,0
+Danville city,Virginia,51590,700,10,1.428571429,0,0
+Darlington,South Carolina,45031,1829,8,0.437397485,0,0
+Davidson,North Carolina,37057,2902,65,2.239834597,0,0
+Daviess,Missouri,29061,31,0,0,0,0
+Davis,Iowa,19051,2,0,0,0,0
+Davis,Utah,49011,6823,68,0.996629049,0,0
+Dawson,Texas,48115,326,22,6.748466258,0,1
+Day,South Dakota,46037,3,0,0,0,0
+De Witt,Illinois,17039,53,0,0,0,0
+Decatur,Georgia,13087,1320,12,0.909090909,0,0
+Decatur,Tennessee,47039,81,0,0,0,0
+Deer Lodge,Montana,30023,98,0,0,0,0
+DeKalb,Indiana,18033,284,16,5.633802817,0,1
+DeKalb,Missouri,29063,75,0,0,0,0
+Del Norte,California,6015,61,0,0,0,0
+Delaware,Indiana,18035,2720,177,6.507352941,0,1
+Delaware,Iowa,19055,64,0,0,0,0
+Delaware,Pennsylvania,42045,62735,2376,3.787359528,0,0
+Desha,Arkansas,5041,273,0,0,0,0
+DeSoto,Mississippi,28033,6448,78,1.209677419,0,0
+Dickens,Texas,48125,25,0,0,0,0
+Dickinson,Iowa,19059,70,0,0,0,0
+Dickinson,Michigan,26043,78,48,61.53846154,1,1
+Divide,North Dakota,38023,34,0,0,0,0
+Dodge,Georgia,13091,474,4,0.843881857,0,0
+Dodge,Minnesota,27039,514,0,0,0,0
+Dorchester,South Carolina,45035,2208,29,1.313405797,0,0
+Dougherty,Georgia,13095,37819,2539,6.713556678,0,1
+Douglas,Colorado,8035,10740,392,3.64990689,0,0
+Douglas,Minnesota,27041,45,0,0,0,0
+Douglas,Nevada,32005,411,0,0,0,0
+Drew,Arkansas,5043,235,21,8.936170213,0,1
+Dubois,Indiana,18037,392,0,0,0,0
+Dubuque,Iowa,19061,1490,45,3.020134228,0,0
+Dunn,Wisconsin,55033,252,0,0,0,0
+Duval,Florida,12031,22866,452,1.976734016,0,0
+Eagle,Colorado,8037,15316,197,1.286236615,0,0
+East Carroll,Louisiana,22035,84,0,0,0,0
+Edgecombe,North Carolina,37065,1184,31,2.618243243,0,0
+Edwards,Kansas,20047,15,0,0,0,0
+Elk,Pennsylvania,42047,53,0,0,0,0
+Ellis,Kansas,20051,107,0,0,0,0
+Elmore,Alabama,1051,1614,16,0.991325898,0,0
+Emanuel,Georgia,13107,321,0,0,0,0
+Emmons,North Dakota,38029,26,24,92.30769231,1,1
+Erie,New York,36029,58679,3399,5.792532252,0,1
+Essex,New York,36031,568,0,0,0,0
+Fairfax,Virginia,51059,48292,1343,2.780998923,0,0
+Fairfield,Ohio,39045,2619,33,1.26002291,0,0
+Falls,Texas,48145,49,0,0,0,0
+Falls Church city,Virginia,51610,292,18,6.164383562,0,1
+Faribault,Minnesota,27043,118,0,0,0,0
+Fayette,Alabama,1057,99,0,0,0,0
+Fayette,Iowa,19065,227,0,0,0,0
+Ferry,Washington,53019,37,0,0,0,0
+Florence,South Carolina,45041,3931,244,6.207071992,0,1
+Ford,Kansas,20057,4918,0,0,0,0
+Lafayette,Mississippi,28071,1561,61,3.907751441,0,0
+Lafourche,Louisiana,22057,14366,631,4.392315189,0,0
+Lake,California,6033,127,0,0,0,0
+Lake,Indiana,18089,28777,1156,4.017096987,0,0
+Lake,Montana,30047,158,0,0,0,0
+Lamar,Texas,48277,356,0,0,0,0
+Lampasas,Texas,48281,73,0,0,0,0
+Lancaster,Virginia,51103,35,0,0,0,0
+Lanier,Georgia,13173,163,17,10.42944785,1,1
+LaPorte,Indiana,18091,2836,112,3.94922426,0,0
+LaSalle,Illinois,17099,829,36,4.342581423,0,0
+LaSalle,Louisiana,22059,361,0,0,0,0
+Lauderdale,Tennessee,47097,329,0,0,0,0
+Lawrence,Mississippi,28077,515,0,0,0,0
+Lea,New Mexico,35025,141,0,0,0,0
+Lebanon,Pennsylvania,42075,10966,108,0.984862302,0,0
+Lee,Arkansas,5077,72,17,23.61111111,1,1
+Lee,Illinois,17103,384,0,0,0,0
+Lee,Texas,48287,57,0,0,0,0
+Lee,Virginia,51105,188,0,0,0,0
+Leflore,Mississippi,28083,2370,232,9.789029536,0,1
+Lehigh,Pennsylvania,42077,55674,919,1.650680749,0,0
+Lenawee,Michigan,26091,1766,5,0.283125708,0,0
+Lewis,Missouri,29111,53,9,16.98113208,1,1
+Lewis,Washington,53041,677,58,8.567208272,0,1
+Lexington,South Carolina,45063,7051,246,3.488866827,0,0
+Lexington city,Virginia,51678,83,0,0,0,0
+Liberty,Georgia,13179,743,0,0,0,0
+Limestone,Texas,48293,279,27,9.677419355,0,1
+Lincoln,Arkansas,5079,7839,0,0,0,0
+Lincoln,Colorado,8073,69,0,0,0,0
+Lincoln,Idaho,16063,474,0,0,0,0
+Lincoln,Kentucky,21137,77,16,20.77922078,1,1
+Lincoln,Maine,23015,394,0,0,0,0
+Lincoln,Mississippi,28085,2354,137,5.819881054,0,1
+Lincoln,Montana,30053,226,35,15.48672566,1,1
+Lincoln,Oklahoma,40081,312,0,0,0,0
+Lincoln,Oregon,41041,138,0,0,0,0
+Lincoln,Tennessee,47103,267,0,0,0,0
+Lincoln,West Virginia,54043,18,0,0,0,0
+Linn,Kansas,20107,214,0,0,0,0
+Linn,Missouri,29115,112,18,16.07142857,1,1
+Live Oak,Texas,48297,105,0,0,0,0
+Livingston,Illinois,17105,462,11,2.380952381,0,0
+Livingston,Kentucky,21139,29,0,0,0,0
+Livingston,Missouri,29117,49,0,0,0,0
+Livingston,New York,36051,1163,40,3.439380911,0,0
+Logan,Arkansas,5083,59,0,0,0,0
+Lonoke,Arkansas,5085,847,0,0,0,0
+Loudoun,Virginia,51107,11925,156,1.308176101,0,0
+Love,Oklahoma,40085,61,0,0,0,0
+Lucas,Ohio,39095,20470,1064,5.197850513,0,1
+Lynchburg city,Virginia,51680,995,10,1.005025126,0,0
+Lyon,Kansas,20111,2303,12,0.521059488,0,0
+Lyon,Minnesota,27083,149,0,0,0,0
+Madison,Illinois,17119,4865,204,4.193216855,0,0
+Madison,Kentucky,21151,645,26,4.031007752,0,0
+Madison,Mississippi,28089,4049,94,2.321560879,0,0
+Madison,Montana,30057,266,32,12.03007519,1,1
+Madison,Nebraska,31119,851,59,6.933019976,0,1
+Madison,New York,36053,3226,61,1.890886547,0,0
+Madison,North Carolina,37115,6,0,0,0,0
+Mahnomen,Minnesota,27087,36,0,0,0,0
+Mahoning,Ohio,39099,15608,1263,8.0920041,0,1
+Malheur,Oregon,41045,126,0,0,0,0
+Marathon,Wisconsin,55073,441,20,4.535147392,0,0
+Marinette,Wisconsin,55075,141,16,11.34751773,1,1
+Marion,Kentucky,21155,307,0,0,0,0
+Marion,Oregon,41047,10224,347,3.393974961,0,0
+Marion,Tennessee,47115,749,30,4.005340454,0,0
+Marion,Texas,48315,92,0,0,0,0
+Marion,West Virginia,54049,1051,50,4.75737393,0,0
+Marshall,Alabama,1095,4356,84,1.928374656,0,0
+Marshall,Iowa,19127,4335,3,0.069204152,0,0
+Martin,Indiana,18101,126,0,0,0,0
+Maury,Tennessee,47119,1028,22,2.140077821,0,0
+McDowell,West Virginia,54047,131,0,0,0,0
+McHenry,North Dakota,38049,36,32,88.88888889,1,1
+McIntosh,Georgia,13191,99,0,0,0,0
+McKean,Pennsylvania,42083,101,0,0,0,0
+McLean,Illinois,17113,2308,86,3.726169844,0,0
+McLean,North Dakota,38055,84,0,0,0,0
+McLennan,Texas,48309,2465,87,3.529411765,0,0
+McLeod,Minnesota,27085,66,0,0,0,0
+McPherson,South Dakota,46089,6,0,0,0,0
+Meade,Kansas,20119,16,0,0,0,0
+Meigs,Ohio,39105,40,0,0,0,0
+Menominee,Michigan,26109,41,0,0,0,0
+Mercer,Illinois,17131,116,0,0,0,0
+Mercer,North Dakota,38057,3,0,0,0,0
+Middlesex,Massachusetts,25017,228796,9574,4.184513715,0,0
+Middlesex,Virginia,51119,75,0,0,0,0
+Mifflin,Pennsylvania,42087,512,0,0,0,0
+Miller,Missouri,29131,16,0,0,0,0
+Mineral,Nevada,32021,19,0,0,0,0
+Mineral,West Virginia,54057,215,0,0,0,0
+Mingo,West Virginia,54059,34,16,47.05882353,1,1
+Minnehaha,South Dakota,46099,29162,91,0.312049928,0,0
+Mississippi,Arkansas,5093,230,0,0,0,0
+Moniteau,Missouri,29135,521,0,0,0,0
+Monmouth,New Jersey,34025,127755,5363,4.197878752,0,0
+Monona,Iowa,19133,206,0,0,0,0
+Monroe,Alabama,1099,235,23,9.787234043,0,1
+Monroe,Arkansas,5095,72,0,0,0,0
+Monroe,Indiana,18105,2796,87,3.111587983,0,0
+Monroe,New York,36055,29111,1574,5.406890866,0,1
+Monroe,Ohio,39111,54,0,0,0,0
+Monroe,Pennsylvania,42089,25843,927,3.587044848,0,0
+Montgomery,Alabama,1101,5530,102,1.844484629,0,0
+Montgomery,Indiana,18107,763,0,0,0,0
+Montgomery,Iowa,19137,35,0,0,0,0
+Kankakee,Illinois,17091,6652,428,6.434155141,0,1
+Kauai,Hawaii,15007,665,0,0,0,0
+Kendall,Texas,48259,409,0,0,0,0
+Kenosha,Wisconsin,55059,6589,124,1.881924419,0,0
+Kent,Michigan,26081,16575,548,3.306184012,0,0
+Kent,Rhode Island,44003,8688,16,0.184162063,0,0
+Keokuk,Iowa,19107,73,0,0,0,0
+Kewaunee,Wisconsin,55061,164,17,10.36585366,1,1
+King and Queen,Virginia,51097,53,0,0,0,0
+Kiowa,Kansas,20097,8,0,0,0,0
+Kiowa,Oklahoma,40075,69,0,0,0,0
+Kittson,Minnesota,27069,13,0,0,0,0
+Knott,Kentucky,21119,54,0,0,0,0
+Knox,Illinois,17095,348,0,0,0,0
+Knox,Nebraska,31107,81,0,0,0,0
+Knox,Tennessee,47093,5449,106,1.945311066,0,0
+Lafayette,Wisconsin,55065,75,0,0,0,0
+Lamar,Alabama,1075,224,0,0,0,0
+Lamar,Mississippi,28073,1569,35,2.230720204,0,0
+Lancaster,South Carolina,45057,2079,47,2.260702261,0,0
+Lane,Oregon,41039,1285,51,3.968871595,0,0
+Las Animas,Colorado,8071,65,0,0,0,0
+Latimer,Oklahoma,40077,124,27,21.77419355,1,1
+Laurens,South Carolina,45059,527,23,4.364326376,0,0
+Lavaca,Texas,48285,126,6,4.761904762,0,0
+Lawrence,Alabama,1079,281,0,0,0,0
+Lawrence,Kentucky,21127,31,0,0,0,0
+Lawrence,Pennsylvania,42073,1469,131,8.917631042,0,1
+Leavenworth,Kansas,20103,3462,56,1.617562103,0,0
+Lee,Mississippi,28081,1668,100,5.995203837,0,1
+Leelanau,Michigan,26089,183,0,0,0,0
+Lemhi,Idaho,16059,6,0,0,0,0
+Leon,Texas,48289,113,0,0,0,0
+Levy,Florida,12075,283,0,0,0,0
+Lewis,Kentucky,21135,71,0,0,0,0
+Lewis,Tennessee,47101,73,0,0,0,0
+Lewis,West Virginia,54041,58,0,0,0,0
+Liberty,Florida,12077,41,0,0,0,0
+Liberty,Texas,48291,720,0,0,0,0
+Lincoln,Louisiana,22061,1394,51,3.658536585,0,0
+Lincoln,Missouri,29113,901,23,2.552719201,0,0
+Lincoln,North Carolina,37109,531,0,0,0,0
+Linn,Iowa,19113,10530,618,5.868945869,0,1
+Linn,Oregon,41043,2121,151,7.119283357,0,1
+Lipscomb,Texas,48295,5,0,0,0,0
+Logan,Colorado,8075,1927,14,0.726517903,0,0
+Logan,Nebraska,31113,2,0,0,0,0
+Logan,Ohio,39091,328,0,0,0,0
+Logan,West Virginia,54045,258,19,7.364341085,0,1
+Long,Georgia,13183,65,0,0,0,0
+Los Alamos,New Mexico,35028,133,0,0,0,0
+Loudon,Tennessee,47105,634,0,0,0,0
+Loup,Nebraska,31115,6,0,0,0,0
+Lowndes,Alabama,1085,719,9,1.251738526,0,0
+Lumpkin,Georgia,13187,603,6,0.995024876,0,0
+Lynn,Texas,48305,137,10,7.299270073,0,1
+Lyon,Kentucky,21143,324,58,17.90123457,1,1
+Macon,Georgia,13193,1165,27,2.317596567,0,0
+Macon,Illinois,17115,1501,157,10.45969354,1,1
+Macon,Missouri,29121,66,0,0,0,0
+Macon,North Carolina,37113,52,24,46.15384615,1,1
+Madison,Florida,12079,677,21,3.101920236,0,0
+Madison,Idaho,16065,177,0,0,0,0
+Madison,Iowa,19121,74,20,27.02702703,1,1
+Madison,Louisiana,22065,109,0,0,0,0
+Madison,Virginia,51113,262,0,0,0,0
+Mahaska,Iowa,19123,192,11,5.729166667,0,1
+Major,Oklahoma,40093,48,17,35.41666667,1,1
+Manassas Park city,Virginia,51685,666,10,1.501501502,0,0
+Marengo,Alabama,1091,784,44,5.612244898,0,1
+Marion,Alabama,1093,1554,120,7.722007722,0,1
+Marion,Georgia,13197,604,14,2.317880795,0,0
+Marion,South Carolina,45067,422,33,7.819905213,0,1
+Marshall,Kentucky,21157,434,0,0,0,0
+Marshall,Minnesota,27089,12,0,0,0,0
+Marshall,Oklahoma,40095,37,0,0,0,0
+Marshall,Tennessee,47117,404,21,5.198019802,0,1
+Marshall,West Virginia,54051,248,0,0,0,0
+Mason,Michigan,26105,96,0,0,0,0
+Mason,Texas,48319,63,0,0,0,0
+Matagorda,Texas,48321,1631,103,6.315144083,0,1
+Mayes,Oklahoma,40097,480,72,15,1,1
+McCormick,South Carolina,45065,121,24,19.83471074,1,1
+McCreary,Kentucky,21147,223,0,0,0,0
+McCurtain,Oklahoma,40089,152,0,0,0,0
+McDonough,Illinois,17109,100,0,0,0,0
+McDuffie,Georgia,13189,840,72,8.571428571,0,1
+McIntosh,Oklahoma,40091,33,0,0,0,0
+McKenzie,North Dakota,38053,238,0,0,0,0
+McKinley,New Mexico,35031,10410,159,1.527377522,0,0
+Meade,South Dakota,46093,37,0,0,0,0
+Mecklenburg,North Carolina,37119,34375,650,1.890909091,0,0
+Mecklenburg,Virginia,51117,1636,66,4.034229829,0,0
+Medina,Ohio,39103,3926,254,6.469689251,0,1
+Meigs,Tennessee,47121,115,0,0,0,0
+Menard,Illinois,17129,90,0,0,0,0
+Merced,California,6047,2184,72,3.296703297,0,0
+Mercer,Ohio,39107,390,27,6.923076923,0,1
+Mercer,Pennsylvania,42085,1364,14,1.026392962,0,0
+Mercer,West Virginia,54055,240,0,0,0,0
+Merrimack,New Hampshire,33013,2716,61,2.245949926,0,0
+Mesa,Colorado,8077,1061,0,0,0,0
+Miami,Indiana,18103,908,0,0,0,0
+Miami,Kansas,20121,111,0,0,0,0
+Miami,Ohio,39109,3765,572,15.19256308,1,1
+Middlesex,New Jersey,34023,209467,8119,3.876028205,0,0
+Midland,Michigan,26111,1191,52,4.366078925,0,0
+Miller,Arkansas,5091,720,9,1.25,0,0
+Miller,Georgia,13201,577,0,0,0,0
+Mineral,Colorado,8079,64,0,0,0,0
+Missaukee,Michigan,26113,174,35,20.11494253,1,1
+Mitchell,Iowa,19131,60,0,0,0,0
+Mitchell,Kansas,20123,91,0,0,0,0
+Montgomery,Kansas,20125,359,54,15.04178273,1,1
+Montgomery,Mississippi,28097,487,31,6.36550308,0,1
+Montgomery,Missouri,29139,192,0,0,0,0
+Montgomery,North Carolina,37123,497,29,5.83501006,0,1
+Montgomery,Tennessee,47125,3045,50,1.642036125,0,0
+Moore,Texas,48341,2987,28,0.93739538,0,0
+Morris,Kansas,20127,94,0,0,0,0
+Morris,New Jersey,34027,107922,6404,5.933915235,0,1
+Morrow,Ohio,39117,496,4,0.806451613,0,0
+Morton,Kansas,20129,44,0,0,0,0
+Morton,North Dakota,38059,738,50,6.775067751,0,1
+Motley,Texas,48345,18,0,0,0,0
+Murray,Oklahoma,40099,22,0,0,0,0
+Muscatine,Iowa,19139,4848,110,2.268976898,0,0
+Muscogee,Georgia,13215,5305,98,1.847313855,0,0
+Muskegon,Michigan,26121,3640,225,6.181318681,0,1
+Natchitoches,Louisiana,22069,1362,26,1.908957416,0,0
+Nemaha,Nebraska,31127,43,0,0,0,0
+Nevada,California,6057,1151,28,2.432667246,0,0
+Newaygo,Michigan,26123,252,0,0,0,0
+Newton,Georgia,13217,3487,108,3.097218239,0,0
+Nez Perce,Idaho,16069,866,263,30.36951501,1,1
+Nicholas,Kentucky,21181,34,0,0,0,0
+Nobles,Minnesota,27105,3786,9,0.237717908,0,0
+Northumberland,Pennsylvania,42097,1565,0,0,0,0
+Nowata,Oklahoma,40105,391,0,0,0,0
+Nueces,Texas,48355,2462,22,0.893582453,0,0
+Nye,Nevada,32023,610,0,0,0,0
+Ocean,New Jersey,34029,126710,5736,4.526872386,0,0
+Oceana,Michigan,26127,126,24,19.04761905,1,1
+Ogemaw,Michigan,26129,172,0,0,0,0
+Oglala Lakota,South Dakota,46102,23,0,0,0,0
+Ogle,Illinois,17141,1302,22,1.689708141,0,0
+Ohio,Indiana,18115,59,0,0,0,0
+Ohio,Kentucky,21183,497,0,0,0,0
+Oktibbeha,Mississippi,28105,1237,48,3.880355699,0,0
+Olmsted,Minnesota,27109,5252,95,1.80883473,0,0
+Onondaga,New York,36067,15732,515,3.273582507,0,0
+Orange,Texas,48361,1295,2,0.154440154,0,0
+Orange,Virginia,51137,491,0,0,0,0
+Orangeburg,South Carolina,45075,1397,6,0.429491768,0,0
+Otsego,New York,36077,1393,103,7.394113424,0,1
+Ottawa,Michigan,26139,3313,118,3.561726532,0,0
+Ouachita,Louisiana,22073,12766,271,2.122826257,0,0
+Outagamie,Wisconsin,55087,1029,51,4.956268222,0,0
+Overton,Tennessee,47133,183,0,0,0,0
+Oxford,Maine,23017,467,0,0,0,0
+Pacific,Washington,53049,52,0,0,0,0
+Page,Virginia,51139,730,2,0.273972603,0,0
+Palo Pinto,Texas,48363,140,20,14.28571429,1,1
+Panola,Mississippi,28107,838,51,6.085918854,0,1
+Park,Wyoming,56029,45,0,0,0,0
+Payne,Oklahoma,40119,1048,6,0.572519084,0,0
+Peach,Georgia,13225,870,58,6.666666667,0,1
+Pemiscot,Missouri,29155,329,8,2.431610942,0,0
+Pend Oreille,Washington,53051,43,0,0,0,0
+Peoria,Illinois,17143,1176,41,3.486394558,0,0
+Perry,Indiana,18123,117,0,0,0,0
+Pettis,Missouri,29159,354,0,0,0,0
+Phelps,Missouri,29161,30,0,0,0,0
+Phillips,Kansas,20147,20,0,0,0,0
+Pickaway,Ohio,39129,20018,104,0.519532421,0,0
+Pickens,Georgia,13227,500,60,12,1,1
+Pierce,Wisconsin,55093,278,0,0,0,0
+Piscataquis,Maine,23021,12,0,0,0,0
+Pitkin,Colorado,8097,1865,69,3.699731903,0,0
+Pitt,North Carolina,37147,2368,29,1.224662162,0,0
+Pittsylvania,Virginia,51143,186,10,5.376344086,0,1
+Plymouth,Iowa,19149,186,0,0,0,0
+Pointe Coupee,Louisiana,22077,1690,166,9.822485207,0,1
+Polk,Arkansas,5113,215,0,0,0,0
+Polk,Georgia,13233,1039,0,0,0,0
+Polk,Missouri,29167,24,0,0,0,0
+Portage,Ohio,39133,4739,603,12.72420342,1,1
+Portsmouth city,Virginia,51740,2081,85,4.084574724,0,0
+Posey,Indiana,18129,208,0,0,0,0
+Poweshiek,Iowa,19157,569,39,6.854130053,0,1
+Presque Isle,Michigan,26141,121,0,0,0,0
+Preston,West Virginia,54077,257,0,0,0,0
+Prince George,Virginia,51149,769,0,0,0,0
+Prince of Wales-Hyder Census Area,Alaska,2198,37,0,0,0,0
+Providence,Rhode Island,44007,78743,1087,1.380440166,0,0
+Pueblo,Colorado,8101,2455,166,6.761710794,0,1
+Putnam,New York,36079,17978,795,4.422071421,0,0
+Quay,New Mexico,35037,52,11,21.15384615,1,1
+Quitman,Mississippi,28119,359,0,0,0,0
+Rabun,Georgia,13241,209,1,0.4784689,0,0
+Raleigh,West Virginia,54081,200,0,0,0,0
+Ralls,Missouri,29173,37,0,0,0,0
+Ramsey,North Dakota,38071,118,0,0,0,0
+Randolph,Indiana,18135,306,38,12.41830065,1,1
+Randolph,West Virginia,54083,108,0,0,0,0
+Ransom,North Dakota,38073,5,0,0,0,0
+Red River,Texas,48387,15,0,0,0,0
+Reno,Kansas,20155,501,0,0,0,0
+Republic,Kansas,20157,94,0,0,0,0
+Rice,Kansas,20159,21,0,0,0,0
+Richland,North Dakota,38077,106,0,0,0,0
+Richland,South Carolina,45079,17593,401,2.279315637,0,0
+Richland,Wisconsin,55103,208,18,8.653846154,0,1
+Richmond,Georgia,13245,6458,235,3.638897491,0,0
+Richmond,North Carolina,37153,495,34,6.868686869,0,1
+Richmond,Virginia,51159,1052,0,0,0,0
+Rio Arriba,New Mexico,35039,297,0,0,0,0
+Roane,Tennessee,47145,202,0,0,0,0
+Robertson,Texas,48395,74,0,0,0,0
+Rooks,Kansas,20163,86,0,0,0,0
+Rutherford,Tennessee,47149,8622,176,2.041289724,0,0
+Rutland,Vermont,50021,1141,15,1.314636284,0,0
+Sacramento,California,6067,25135,943,3.751740601,0,0
+Forest,Pennsylvania,42053,161,0,0,0,0
+Forsyth,North Carolina,37067,3901,113,2.896693156,0,0
+Franklin,Florida,12037,54,0,0,0,0
+Franklin,Maine,23007,380,6,1.578947368,0,0
+Franklin,Mississippi,28037,371,6,1.617250674,0,0
+Franklin,New York,36033,392,0,0,0,0
+Franklin,Vermont,50011,2130,87,4.084507042,0,0
+Freeborn,Minnesota,27047,729,0,0,0,0
+Fremont,Colorado,8043,327,0,0,0,0
+Fresno,California,6019,8997,151,1.678337224,0,0
+Fulton,Kentucky,21075,13,0,0,0,0
+Fulton,New York,36035,856,7,0.817757009,0,0
+Gadsden,Florida,12039,1225,0,0,0,0
+Galax city,Virginia,51640,49,0,0,0,0
+Gallatin,Kentucky,21077,20,0,0,0,0
+Gallia,Ohio,39053,165,38,23.03030303,1,1
+Galveston,Texas,48167,12339,381,3.087770484,0,0
+Garfield,Colorado,8045,2119,54,2.548371874,0,0
+Garland,Arkansas,5051,2813,0,0,0,0
+Gasconade,Missouri,29073,57,0,0,0,0
+Gates,North Carolina,37073,120,0,0,0,0
+Geauga,Ohio,39055,2668,157,5.884557721,0,1
+Genesee,New York,36037,2592,38,1.466049383,0,0
+Gentry,Missouri,29075,25,0,0,0,0
+Gilmer,Georgia,13123,541,0,0,0,0
+Gilmer,West Virginia,54021,11,0,0,0,0
+Glenn,California,6021,113,0,0,0,0
+Gordon,Georgia,13129,1660,177,10.6626506,1,1
+Grady,Georgia,13131,804,36,4.47761194,0,0
+Graham,North Carolina,37075,4,0,0,0,0
+Grainger,Tennessee,47057,116,0,0,0,0
+Grand Forks,North Dakota,38035,2558,0,0,0,0
+Grant,Wisconsin,55043,441,55,12.47165533,1,1
+Gratiot,Michigan,26057,228,12,5.263157895,0,1
+Greene,Pennsylvania,42059,667,0,0,0,0
+Greene,Tennessee,47059,950,47,4.947368421,0,0
+Greene,Virginia,51079,189,10,5.291005291,0,1
+Greenlee,Arizona,4011,52,0,0,0,0
+Greensville,Virginia,51081,516,49,9.496124031,0,1
+Greenwood,South Carolina,45047,835,0,0,0,0
+Gregg,Texas,48183,1320,0,0,0,0
+Grundy,Illinois,17063,635,0,0,0,0
+Guilford,North Carolina,37081,5688,349,6.135724332,0,1
+Gwinnett,Georgia,13135,29835,924,3.097033685,0,0
+Hale,Texas,48189,376,60,15.95744681,1,1
+Halifax,North Carolina,37083,817,14,1.713586291,0,0
+Hamilton,New York,36041,108,0,0,0,0
+Hancock,Indiana,18059,3924,170,4.332313965,0,0
+Hand,South Dakota,46059,5,0,0,0,0
+Haralson,Georgia,13143,586,18,3.071672355,0,0
+Hardin,Illinois,17069,10,0,0,0,0
+Hardin,Kentucky,21093,746,0,0,0,0
+Hardy,West Virginia,54031,81,0,0,0,0
+Harris,Georgia,13145,971,36,3.707518023,0,0
+Harris,Texas,48201,120489,1772,1.470673671,0,0
+Hempstead,Arkansas,5057,131,22,16.79389313,1,1
+Henderson,Texas,48213,362,0,0,0,0
+Hendricks,Indiana,18063,12130,456,3.759274526,0,0
+Henry,Illinois,17073,736,0,0,0,0
+Henry,Kentucky,21103,101,0,0,0,0
+Henry,Tennessee,47079,239,0,0,0,0
+Henry,Virginia,51089,256,10,3.90625,0,0
+Herkimer,New York,36043,1321,45,3.40651022,0,0
+Hidalgo,Texas,48215,6389,68,1.064329316,0,0
+Highlands,Florida,12055,1826,157,8.598028478,0,1
+Hillsborough,New Hampshire,33011,15847,595,3.754653878,0,0
+Hockley,Texas,48219,480,28,5.833333333,0,1
+Holmes,Florida,12059,145,0,0,0,0
+Hood,Texas,48221,455,60,13.18681319,1,1
+Hood River,Oregon,41027,131,0,0,0,0
+Hopkins,Kentucky,21107,3280,344,10.48780488,1,1
+Hot Springs,Wyoming,56017,55,0,0,0,0
+Houston,Alabama,1069,1597,61,3.819661866,0,0
+Houston,Georgia,13153,4407,288,6.535057862,0,1
+Howard,Missouri,29089,42,0,0,0,0
+Huerfano,Colorado,8055,44,0,0,0,0
+Humboldt,Nevada,32013,704,30,4.261363636,0,0
+Humphreys,Tennessee,47085,165,6,3.636363636,0,0
+Huntingdon,Pennsylvania,42061,394,0,0,0,0
+Hutchinson,South Dakota,46067,73,0,0,0,0
+Hutchinson,Texas,48233,171,0,0,0,0
+Hyde,North Carolina,37095,2,0,0,0,0
+Idaho,Idaho,16049,92,0,0,0,0
+Iowa,Iowa,19095,317,0,0,0,0
+Iredell,North Carolina,37097,2323,53,2.281532501,0,0
+Iron,Missouri,29093,32,0,0,0,0
+Itasca,Minnesota,27061,65,0,0,0,0
+Jackson,Arkansas,5067,18,0,0,0,0
+Jackson,Georgia,13157,1333,24,1.800450113,0,0
+Jackson,Illinois,17077,1217,115,9.4494659,0,1
+Jackson,Louisiana,22049,422,4,0.947867299,0,0
+Jackson,Michigan,26075,6445,273,4.235841738,0,0
+Jackson,Minnesota,27063,107,0,0,0,0
+Jackson,North Carolina,37099,86,0,0,0,0
+Jasper,Georgia,13159,370,0,0,0,0
+Jasper,Indiana,18073,660,36,5.454545455,0,1
+Jasper,Iowa,19099,1188,2,0.168350168,0,0
+Jasper,Missouri,29097,534,0,0,0,0
+Jasper,South Carolina,45053,430,12,2.790697674,0,0
+Jeff Davis,Georgia,13161,156,11,7.051282051,0,1
+Jefferson,Arkansas,5069,3622,151,4.168967421,0,0
+Jefferson,Idaho,16051,131,0,0,0,0
+Jefferson,Louisiana,22051,152383,6954,4.563501178,0,0
+Jefferson,Missouri,29099,4953,83,1.675752069,0,0
+Jefferson Davis,Mississippi,28065,300,18,6,0,1
+Johnson,Arkansas,5071,558,0,0,0,0
+Johnson,Georgia,13167,708,28,3.95480226,0,0
+Johnson,Missouri,29101,1321,0,0,0,0
+Johnson,Texas,48251,1347,27,2.004454343,0,0
+Johnson,Wyoming,56019,327,18,5.504587156,0,1
+Johnston,Oklahoma,40069,49,0,0,0,0
+Salt Lake,Utah,49035,43991,369,0.838807938,0,0
+San Jacinto,Texas,48407,199,0,0,0,0
+San Joaquin,California,6077,11806,568,4.811112993,0,0
+San Juan,New Mexico,35045,7640,415,5.431937173,0,1
+Sanborn,South Dakota,46111,54,0,0,0,0
+Sanilac,Michigan,26151,772,77,9.974093264,0,1
+Sanpete,Utah,49039,52,0,0,0,0
+Santa Rosa,Florida,12113,3516,161,4.579067122,0,0
+Sargent,North Dakota,38081,21,0,0,0,0
+Sarpy,Nebraska,31153,1720,1,0.058139535,0,0
+Sauk,Wisconsin,55111,967,84,8.686659772,0,1
+Saunders,Nebraska,31155,199,0,0,0,0
+Scioto,Ohio,39145,126,0,0,0,0
+Scotland,Missouri,29199,80,0,0,0,0
+Scott,Kentucky,21209,736,0,0,0,0
+Sevier,Arkansas,5133,252,2,0.793650794,0,0
+Seward,Nebraska,31159,79,10,12.65822785,1,1
+Shawano,Wisconsin,55115,155,0,0,0,0
+Shawnee,Kansas,20177,2304,127,5.512152778,0,1
+Shelby,Indiana,18145,3017,116,3.844879019,0,0
+Shelby,Iowa,19165,224,0,0,0,0
+Shelby,Ohio,39149,728,6,0.824175824,0,0
+Sibley,Minnesota,27143,39,0,0,0,0
+Simpson,Mississippi,28127,584,0,0,0,0
+Siskiyou,California,6093,167,0,0,0,0
+Skamania,Washington,53059,80,0,0,0,0
+Smith,Tennessee,47159,333,16,4.804804805,0,0
+Snohomish,Washington,53061,69858,2612,3.739013427,0,0
+Somerset,Maine,23025,328,0,0,0,0
+Somerset,Maryland,24039,284,0,0,0,0
+Southeast Fairbanks Census Area,Alaska,2240,28,0,0,0,0
+Spencer,Kentucky,21215,224,0,0,0,0
+Spokane,Washington,53063,9447,475,5.028051233,0,1
+St. James,Louisiana,22093,6363,392,6.160616062,0,1
+St. Landry,Louisiana,22097,3562,539,15.13194834,1,1
+St. Lawrence,New York,36089,3126,26,0.831733845,0,0
+St. Louis,Minnesota,27137,1312,173,13.18597561,1,1
+St. Lucie,Florida,12111,5169,342,6.616366802,0,1
+Starr,Texas,48427,213,0,0,0,0
+Staunton city,Virginia,51790,145,0,0,0,0
+Stearns,Minnesota,27145,995,0,0,0,0
+Stoddard,Missouri,29207,405,0,0,0,0
+Stone,Arkansas,5137,227,0,0,0,0
+Stutsman,North Dakota,38093,56,0,0,0,0
+Sullivan,Indiana,18153,234,0,0,0,0
+Summit,Colorado,8117,2405,24,0.997920998,0,0
+Summit,Utah,49043,10420,0,0,0,0
+Sumner,Kansas,20191,79,22,27.84810127,1,1
+Sumner,Tennessee,47165,14618,739,5.055411137,0,1
+Sumter,Alabama,1119,921,14,1.520086862,0,0
+Switzerland,Indiana,18155,363,0,0,0,0
+Talbot,Georgia,13263,401,24,5.985037406,0,1
+Talbot,Maryland,24041,553,27,4.882459313,0,0
+Tangipahoa,Louisiana,22105,11046,372,3.367734927,0,0
+Taos,New Mexico,35055,525,0,0,0,0
+Terrebonne,Louisiana,22109,8455,530,6.268480189,0,1
+Thurston,Washington,53067,2848,27,0.948033708,0,0
+Tift,Georgia,13277,2273,66,2.903651562,0,0
+Tioga,New York,36107,1031,34,3.297769156,0,0
+Tipton,Indiana,18159,362,15,4.143646409,0,0
+Tishomingo,Mississippi,28141,102,0,0,0,0
+Todd,South Dakota,46121,35,0,0,0,0
+Tooele,Utah,49045,1156,0,0,0,0
+Traverse,Minnesota,27155,62,0,0,0,0
+Trigg,Kentucky,21221,93,0,0,0,0
+Troup,Georgia,13285,2515,101,4.015904573,0,0
+Trousdale,Tennessee,47169,850,30,3.529411765,0,0
+Tucker,West Virginia,54093,135,0,0,0,0
+Tulsa,Oklahoma,40143,11359,607,5.343780262,0,1
+Tuolumne,California,6109,60,0,0,0,0
+Tuscaloosa,Alabama,1125,4017,6,0.149365198,0,0
+Tuscola,Michigan,26157,1614,248,15.36555143,1,1
+Tyrrell,North Carolina,37177,65,0,0,0,0
+Uinta,Wyoming,56041,130,0,0,0,0
+Union,Florida,12125,75,0,0,0,0
+Union,Oregon,41061,120,0,0,0,0
+Val Verde,Texas,48465,344,0,0,0,0
+Van Buren,Arkansas,5141,875,54,6.171428571,0,1
+Van Buren,Michigan,26159,819,46,5.616605617,0,1
+Van Buren,Tennessee,47175,24,0,0,0,0
+Vance,North Carolina,37181,954,35,3.668763103,0,0
+Ventura,California,6111,11723,371,3.164718929,0,0
+Vermillion,Indiana,18165,128,0,0,0,0
+Vernon,Missouri,29217,78,0,0,0,0
+Wake,North Carolina,37183,16436,145,0.882209783,0,0
+Walker,Texas,48471,2269,16,0.705156457,0,0
+Walton,Florida,12131,1014,0,0,0,0
+Walworth,South Dakota,46129,85,0,0,0,0
+Walworth,Wisconsin,55127,2134,101,4.73289597,0,0
+Wapello,Iowa,19179,173,0,0,0,0
+Warren,Indiana,18171,172,31,18.02325581,1,1
+Warren,Iowa,19181,476,0,0,0,0
+Warren,Ohio,39165,2725,148,5.431192661,0,1
+Warren,Virginia,51187,668,0,0,0,0
+Warrick,Indiana,18173,1489,145,9.738079248,0,1
+Washakie,Wyoming,56043,116,0,0,0,0
+Washington,Alabama,1129,465,30,6.451612903,0,1
+Washington,Idaho,16087,30,0,0,0,0
+Washington,Minnesota,27163,2810,115,4.09252669,0,0
+Washington,Mississippi,28151,1842,60,3.25732899,0,0
+Washington,Nebraska,31177,694,18,2.593659942,0,0
+Washington,New York,36115,1780,4,0.224719101,0,0
+Washington,Oklahoma,40147,3947,203,5.143146694,0,1
+Washington,Tennessee,47179,1292,0,0,0,0
+Washington,Texas,48477,1728,132,7.638888889,0,1
+Washington,Vermont,50023,922,15,1.626898048,0,0
+Washtenaw,Michigan,26161,24793,877,3.537288751,0,0
+Wayne,Georgia,13305,189,0,0,0,0
+Wayne,North Carolina,37191,8513,105,1.233407729,0,0
+Webster,Kentucky,21233,339,0,0,0,0
+Mobile,Alabama,1097,16642,723,4.344429756,0,0
+Moffat,Colorado,8081,143,0,0,0,0
+Mono,California,6051,729,31,4.252400549,0,0
+Monroe,Florida,12087,2030,79,3.891625616,0,0
+Monroe,Georgia,13207,457,31,6.783369803,0,1
+Monroe,Illinois,17133,1300,137,10.53846154,1,1
+Montezuma,Colorado,8083,340,50,14.70588235,1,1
+Montgomery,Illinois,17135,369,3,0.81300813,0,0
+Montgomery,Kentucky,21173,287,0,0,0,0
+Montgomery,Texas,48339,10364,187,1.804322655,0,0
+Montgomery,Virginia,51121,976,6,0.614754098,0,0
+Moore,North Carolina,37125,1609,21,1.305158484,0,0
+Morgan,Missouri,29141,56,0,0,0,0
+Morgan,Ohio,39115,72,0,0,0,0
+Morgan,Tennessee,47129,147,0,0,0,0
+Morrill,Nebraska,31123,16,0,0,0,0
+Mountrail,North Dakota,38061,774,0,0,0,0
+Muskogee,Oklahoma,40101,731,85,11.62790698,1,1
+Nance,Nebraska,31125,16,0,0,0,0
+Nantucket,Massachusetts,25019,303,0,0,0,0
+Nevada,Arkansas,5099,33,0,0,0,0
+New Haven,Connecticut,9009,121736,6670,5.479069462,0,1
+Newberry,South Carolina,45071,494,23,4.655870445,0,0
+Newton,Texas,48351,50,0,0,0,0
+Niagara,New York,36063,6972,176,2.524383247,0,0
+Nicholas,West Virginia,54067,92,0,0,0,0
+Noble,Ohio,39121,72,0,0,0,0
+Noble,Oklahoma,40103,200,0,0,0,0
+Nodaway,Missouri,29147,69,0,0,0,0
+Norfolk,Massachusetts,25021,101378,6035,5.9529681,0,1
+Northumberland,Virginia,51133,155,0,0,0,0
+Norton city,Virginia,51720,20,0,0,0,0
+Noxubee,Mississippi,28103,635,0,0,0,0
+Oconto,Wisconsin,55083,121,0,0,0,0
+Okanogan,Washington,53047,438,9,2.054794521,0,0
+Oklahoma,Oklahoma,40109,15593,631,4.046687616,0,0
+Okmulgee,Oklahoma,40111,413,0,0,0,0
+Oldham,Texas,48359,98,37,37.75510204,1,1
+Oliver,North Dakota,38065,32,0,0,0,0
+Oneida,New York,36065,7241,153,2.112967822,0,0
+Onslow,North Carolina,37133,917,31,3.380588877,0,0
+Ontario,New York,36069,1955,46,2.352941176,0,0
+Ontonagon,Michigan,26131,3,0,0,0,0
+Orange,Indiana,18117,861,111,12.89198606,1,1
+Orange,North Carolina,37135,4557,136,2.984419574,0,0
+Orange,Vermont,50017,200,0,0,0,0
+Osceola,Iowa,19143,90,0,0,0,0
+Ottawa,Kansas,20143,90,0,0,0,0
+Owen,Indiana,18119,627,21,3.349282297,0,0
+Owen,Kentucky,21187,3,0,0,0,0
+Owsley,Kentucky,21189,42,0,0,0,0
+Ozaukee,Wisconsin,55089,2466,282,11.43552311,1,1
+Panola,Texas,48365,1016,68,6.692913386,0,1
+Park,Colorado,8093,205,0,0,0,0
+Parke,Indiana,18121,218,0,0,0,0
+Parmer,Texas,48369,44,0,0,0,0
+Patrick,Virginia,51141,17,0,0,0,0
+Pearl River,Mississippi,28109,3278,239,7.291031117,0,1
+Pender,North Carolina,37141,172,0,0,0,0
+Pendleton,Kentucky,21191,112,0,0,0,0
+Pennington,Minnesota,27113,10,0,0,0,0
+Perry,Mississippi,28111,587,34,5.792163543,0,1
+Perry,Missouri,29157,1083,0,0,0,0
+Phelps,Nebraska,31137,33,0,0,0,0
+Philadelphia,Pennsylvania,42101,240770,7715,3.204302862,0,0
+Pierce,Nebraska,31139,20,0,0,0,0
+Pike,Pennsylvania,42103,7486,229,3.059043548,0,0
+Pinal,Arizona,4021,6820,147,2.15542522,0,0
+Placer,California,6061,4244,205,4.830348728,0,0
+Platte,Nebraska,31141,421,0,0,0,0
+Plymouth,Massachusetts,25023,78790,3274,4.155349664,0,0
+Pocahontas,Iowa,19151,4,0,0,0,0
+Polk,Florida,12105,9107,336,3.689469639,0,0
+Polk,Nebraska,31143,95,0,0,0,0
+Polk,North Carolina,37149,310,0,0,0,0
+Polk,Oregon,41053,1005,28,2.786069652,0,0
+Polk,Texas,48373,373,0,0,0,0
+Pontotoc,Mississippi,28115,487,45,9.240246407,0,1
+Porter,Indiana,18127,4263,75,1.759324419,0,0
+Pottawattamie,Iowa,19155,514,20,3.891050584,0,0
+Potter,Pennsylvania,42105,123,0,0,0,0
+Pulaski,Indiana,18131,135,0,0,0,0
+Pulaski,Missouri,29169,657,30,4.566210046,0,0
+Rains,Texas,48379,37,0,0,0,0
+Ramsey,Minnesota,27123,5849,310,5.300051291,0,1
+Randolph,Alabama,1111,1189,90,7.569386039,0,1
+Randolph,Arkansas,5121,310,0,0,0,0
+Randolph,Missouri,29175,226,0,0,0,0
+Randolph,North Carolina,37151,2242,56,2.497769848,0,0
+Rapides,Louisiana,22079,5619,197,3.505961915,0,0
+Rappahannock,Virginia,51157,34,0,0,0,0
+Ray,Missouri,29177,218,0,0,0,0
+Richland,Illinois,17159,45,0,0,0,0
+Richland,Ohio,39139,1454,23,1.581843191,0,0
+Rio Blanco,Colorado,8103,28,0,0,0,0
+Rio Grande,Colorado,8105,200,0,0,0,0
+Ripley,Missouri,29181,104,0,0,0,0
+Riverside,California,6065,67083,2156,3.213929013,0,0
+Roanoke city,Virginia,51770,725,0,0,0,0
+Roberts,Texas,48393,30,0,0,0,0
+Rock,Minnesota,27133,88,0,0,0,0
+Rockdale,Georgia,13247,3663,136,3.712803713,0,0
+Rockingham,New Hampshire,33015,13308,231,1.735798016,0,0
+Rockingham,North Carolina,37157,447,51,11.40939597,1,1
+Roosevelt,Montana,30085,140,0,0,0,0
+Roscommon,Michigan,26143,275,0,0,0,0
+Roseau,Minnesota,27135,24,0,0,0,0
+Ross,Ohio,39141,652,9,1.380368098,0,0
+Rowan,North Carolina,37159,5887,278,4.722269407,0,0
+Rush,Indiana,18139,566,28,4.946996466,0,0
+Russell,Virginia,51167,48,0,0,0,0
+Jones,Mississippi,28067,1789,5,0.279485746,0,0
+Jones,North Carolina,37103,189,29,15.34391534,1,1
+Josephine,Oregon,41033,568,20,3.521126761,0,0
+Juab,Utah,49023,97,0,0,0,0
+Kane,Illinois,17089,18874,835,4.424075448,0,0
+Kansas City,Missouri,NULL,11244,295,2.623621487,0,0
+Kay,Oklahoma,40071,1366,116,8.491947291,0,1
+Kenai Peninsula Borough,Alaska,2122,506,0,0,0,0
+Kent,Delaware,10001,11060,309,2.793851718,0,0
+Kent,Maryland,24029,845,34,4.023668639,0,0
+Kerr,Texas,48265,98,0,0,0,0
+King,Washington,53033,162168,11302,6.969315771,0,1
+King William,Virginia,51101,78,2,2.564102564,0,0
+Kingfisher,Oklahoma,40073,158,0,0,0,0
+Kitsap,Washington,53035,4320,41,0.949074074,0,0
+Knox,Texas,48275,24,0,0,0,0
+Kodiak Island Borough,Alaska,2150,15,0,0,0,0
+Kosciusko,Indiana,18085,609,22,3.612479475,0,0
+Kossuth,Iowa,19109,41,0,0,0,0
+La Paz,Arizona,4012,162,19,11.72839506,1,1
+La Plata,Colorado,8067,1461,0,0,0,0
+Lafayette,Florida,12067,23,0,0,0,0
+LaGrange,Indiana,18087,414,28,6.763285024,0,1
+Lake,Colorado,8065,234,0,0,0,0
+Lake,Ohio,39085,3867,169,4.370312904,0,0
+Lake,Tennessee,47095,414,0,0,0,0
+Lamb,Texas,48279,55,0,0,0,0
+Lamoille,Vermont,50015,707,43,6.082036775,0,1
+Lancaster,Pennsylvania,42071,29285,2205,7.529451938,0,1
+Lander,Nevada,32015,22,0,0,0,0
+Larue,Kentucky,21123,123,0,0,0,0
+Latah,Idaho,16057,91,0,0,0,0
+Lauderdale,Mississippi,28075,5382,325,6.038647343,0,1
+Laurel,Kentucky,21125,292,36,12.32876712,1,1
+Lawrence,Arkansas,5075,635,28,4.409448819,0,0
+Lawrence,Illinois,17101,54,0,0,0,0
+Le Sueur,Minnesota,27079,712,0,0,0,0
+Leake,Mississippi,28079,2150,19,0.88372093,0,0
+Lee,Georgia,13177,7646,476,6.225477374,0,1
+Lee,North Carolina,37105,1239,0,0,0,0
+Lee,South Carolina,45061,1069,116,10.85126286,1,1
+Leslie,Kentucky,21131,45,0,0,0,0
+Lewis,New York,36049,226,0,0,0,0
+Lewis and Clark,Montana,30049,548,0,0,0,0
+Limestone,Alabama,1083,1231,0,0,0,0
+Lincoln,Georgia,13181,275,0,0,0,0
+Lincoln,Minnesota,27081,62,0,0,0,0
+Lincoln,South Dakota,46083,2170,0,0,0,0
+Lincoln,Washington,53043,67,0,0,0,0
+Lincoln,Wyoming,56023,134,0,0,0,0
+Litchfield,Connecticut,9005,16294,1168,7.168282803,0,1
+Livingston,Louisiana,22063,3924,174,4.434250765,0,0
+Llano,Texas,48299,105,0,0,0,0
+Logan,Illinois,17107,105,0,0,0,0
+Los Angeles,California,6037,378489,15069,3.98135745,0,0
+Louisa,Iowa,19115,4250,28,0.658823529,0,0
+Louisa,Virginia,51109,879,0,0,0,0
+Lowndes,Mississippi,28087,935,21,2.245989305,0,0
+Lubbock,Texas,48303,10470,710,6.781279847,0,1
+Lunenburg,Virginia,51111,75,0,0,0,0
+Luzerne,Pennsylvania,42079,44364,1037,2.33748084,0,0
+Lycoming,Pennsylvania,42081,966,20,2.070393375,0,0
+Lyman,South Dakota,46085,65,0,0,0,0
+Lyon,Iowa,19119,134,0,0,0,0
+Macomb,Michigan,26099,114703,9644,8.407801017,0,1
+Macon,Alabama,1087,580,42,7.24137931,0,1
+Macon,Tennessee,47111,1394,165,11.83644189,1,1
+Madera,California,6039,1173,63,5.37084399,0,1
+Madison,Alabama,1089,6058,99,1.634202707,0,0
+Madison,Arkansas,5087,23,0,0,0,0
+Madison,Ohio,39097,934,80,8.565310493,0,1
+Madison,Tennessee,47113,2135,12,0.56206089,0,0
+Madison,Texas,48313,35,0,0,0,0
+Manistee,Michigan,26101,278,0,0,0,0
+Manitowoc,Wisconsin,55071,159,5,3.144654088,0,0
+Maricopa,Arizona,4013,72797,2138,2.936934214,0,0
+Marin,California,6041,6231,305,4.894880437,0,0
+Marion,Florida,12083,3248,78,2.401477833,0,0
+Marion,Indiana,18097,104151,4735,4.546283761,0,0
+Marion,Missouri,29127,48,0,0,0,0
+Marion,Ohio,39101,28058,40,0.142561836,0,0
+Marquette,Michigan,26103,818,129,15.77017115,1,1
+Marquette,Wisconsin,55077,80,13,16.25,1,1
+Marshall,Indiana,18099,554,9,1.624548736,0,0
+Marshall,South Dakota,46091,32,0,0,0,0
+Martin,Florida,12085,4025,91,2.260869565,0,0
+Martin,Kentucky,21159,75,0,0,0,0
+Mason,Illinois,17125,130,0,0,0,0
+Mason,Kentucky,21161,143,0,0,0,0
+Massac,Illinois,17127,79,0,0,0,0
+Matanuska-Susitna Borough,Alaska,2170,423,17,4.01891253,0,0
+Mathews,Virginia,51115,95,0,0,0,0
+Maui,Hawaii,15009,2698,90,3.335804299,0,0
+McClain,Oklahoma,40087,672,2,0.297619048,0,0
+McCook,South Dakota,46087,112,22,19.64285714,1,1
+McCracken,Kentucky,21145,783,45,5.747126437,0,1
+McCulloch,Texas,48307,63,0,0,0,0
+McDowell,North Carolina,37111,512,6,1.171875,0,0
+McLean,Kentucky,21149,179,0,0,0,0
+McMinn,Tennessee,47107,473,2,0.422832981,0,0
+Meade,Kentucky,21163,107,22,20.56074766,1,1
+Meagher,Montana,30059,36,0,0,0,0
+Mendocino,California,6045,204,0,0,0,0
+Mercer,Kentucky,21167,243,0,0,0,0
+Merrick,Nebraska,31121,165,0,0,0,0
+Miami-Dade,Florida,12086,247725,4970,2.006256938,0,0
+Midland,Texas,48329,1418,91,6.417489422,0,1
+Milam,Texas,48331,272,7,2.573529412,0,0
+Mille Lacs,Minnesota,27095,18,12,66.66666667,1,1
+Minidoka,Idaho,16067,161,0,0,0,0
+Mississippi,Missouri,29133,151,0,0,0,0
+Missoula,Montana,30063,1036,27,2.606177606,0,0
+Webster,Nebraska,31181,44,0,0,0,0
+Weld,Colorado,8123,29894,1694,5.666688968,0,1
+Wells,North Dakota,38103,15,0,0,0,0
+West Carroll,Louisiana,22123,87,0,0,0,0
+Westchester,New York,36119,695071,19614,2.821869996,0,0
+Westmoreland,Virginia,51193,288,0,0,0,0
+Wetzel,West Virginia,54103,85,0,0,0,0
+Wexford,Michigan,26165,216,24,11.11111111,1,1
+White,Arkansas,5145,888,11,1.238738739,0,0
+White,Tennessee,47185,113,0,0,0,0
+Whiteside,Illinois,17195,1112,79,7.104316547,0,1
+Whitley,Kentucky,21235,171,0,0,0,0
+Wilkes,Georgia,13317,379,0,0,0,0
+Wilkes,North Carolina,37193,250,29,11.6,1,1
+Wilkin,Minnesota,27167,216,46,21.2962963,1,1
+Wilkinson,Mississippi,28157,1554,139,8.944658945,0,1
+Will,Illinois,17197,43454,2392,5.504671607,0,1
+Williams,North Dakota,38105,234,0,0,0,0
+Williamson,Texas,48491,4793,129,2.691424995,0,0
+Windham,Vermont,50025,1652,39,2.360774818,0,0
+Winn,Louisiana,22127,414,49,11.83574879,1,1
+Winnebago,Illinois,17201,5001,228,4.559088182,0,0
+Winnebago,Iowa,19189,46,0,0,0,0
+Winston,Mississippi,28159,808,0,0,0,0
+Wirt,West Virginia,54105,61,0,0,0,0
+Woodford,Kentucky,21239,467,0,0,0,0
+Woodruff,Arkansas,5147,38,0,0,0,0
+Woods,Oklahoma,40151,36,0,0,0,0
+Worth,Georgia,13321,3066,165,5.381604697,0,1
+Worth,Iowa,19195,23,0,0,0,0
+Wright,Missouri,29229,253,0,0,0,0
+Wythe,Virginia,51197,225,10,4.444444444,0,0
+Yadkin,North Carolina,37197,312,16,5.128205128,0,1
+Yakima,Washington,53077,21578,872,4.041153026,0,0
+Yankton,South Dakota,46135,636,0,0,0,0
+Yell,Arkansas,5149,49,0,0,0,0
+York,Maine,23031,4927,132,2.67911508,0,0
+York,Nebraska,31185,167,0,0,0,0
+Yuba,California,6115,467,26,5.56745182,0,1
+Zavala,Texas,48507,14,0,0,0,0
+Ketchikan Gateway Borough,Alaska,2130,567,0,0,0,0
+Kimball,Nebraska,31105,262,0,0,0,0
+Kings,California,6031,859,20,2.328288708,0,0
+Klamath,Oregon,41035,827,0,0,0,0
+Klickitat,Washington,53039,487,64,13.14168378,1,1
+Knox,Kentucky,21121,82,0,0,0,0
+Koochiching,Minnesota,27071,29,0,0,0,0
+Kootenai,Idaho,16055,1588,0,0,0,0
+La Salle,Texas,48283,15,0,0,0,0
+Lac qui Parle,Minnesota,27073,39,0,0,0,0
+Lafayette,Louisiana,22055,11295,400,3.541389996,0,0
+Lafayette,Missouri,29107,924,32,3.463203463,0,0
+Lake,Florida,12069,5440,165,3.033088235,0,0
+Lake,Illinois,17097,57221,1942,3.393858898,0,0
+Lake,Michigan,26085,38,0,0,0,0
+Lake,South Dakota,46079,74,0,0,0,0
+Lamar,Georgia,13171,676,5,0.73964497,0,0
+Lancaster,Nebraska,31109,2385,23,0.964360587,0,0
+Lapeer,Michigan,26087,3349,373,11.13765303,1,1
+Laramie,Wyoming,56021,2129,16,0.751526538,0,0
+Larimer,Colorado,8069,7359,371,5.041445849,0,1
+Lauderdale,Alabama,1077,765,91,11.89542484,1,1
+Laurens,Georgia,13175,1165,21,1.802575107,0,0
+Lawrence,Indiana,18093,2051,233,11.36031204,1,1
+Lawrence,Ohio,39087,504,0,0,0,0
+Lawrence,South Dakota,46081,285,0,0,0,0
+Lawrence,Tennessee,47099,366,0,0,0,0
+Le Flore,Oklahoma,40079,154,0,0,0,0
+Lee,Alabama,1081,8219,394,4.793770532,0,0
+Lee,Florida,12071,21162,774,3.657499291,0,0
+Lee,Iowa,19111,80,0,0,0,0
+Lenoir,North Carolina,37107,693,20,2.886002886,0,0
+Leon,Florida,12073,4273,26,0.6084718,0,0
+Letcher,Kentucky,21133,31,0,0,0,0
+Lewis,Idaho,16061,4,0,0,0,0
+Liberty,Montana,30051,31,0,0,0,0
+Licking,Ohio,39089,2634,97,3.682611997,0,0
+Lincoln,Nebraska,31111,567,35,6.172839506,0,1
+Lincoln,New Mexico,35027,37,0,0,0,0
+Livingston,Michigan,26093,7489,248,3.311523568,0,0
+Logan,Kentucky,21141,205,0,0,0,0
+Logan,Oklahoma,40083,289,2,0.692041522,0,0
+Lorain,Ohio,39093,7752,346,4.463364293,0,0
+Lowndes,Georgia,13185,2720,83,3.051470588,0,0
+Luce,Michigan,26095,31,0,0,0,0
+Luna,New Mexico,35029,60,1,1.666666667,0,0
+Lyon,Nevada,32019,397,0,0,0,0
+Mackinac,Michigan,26097,116,0,0,0,0
+Macoupin,Illinois,17117,509,0,0,0,0
+Madison,Georgia,13195,439,32,7.28929385,0,1
+Madison,Indiana,18095,7907,740,9.358796004,0,1
+Madison,Missouri,29123,25,0,0,0,0
+Manassas city,Virginia,51683,2376,14,0.589225589,0,0
+Manatee,Florida,12081,9953,723,7.264141465,0,1
+Maries,Missouri,29125,60,0,0,0,0
+Marion,Arkansas,5089,21,0,0,0,0
+Marion,Illinois,17121,480,0,0,0,0
+Marion,Iowa,19125,108,0,0,0,0
+Marion,Kansas,20115,115,4,3.47826087,0,0
+Marion,Mississippi,28091,1021,44,4.30950049,0,0
+Mariposa,California,6043,5,0,0,0,0
+Marlboro,South Carolina,45069,649,0,0,0,0
+Marshall,Illinois,17123,79,0,0,0,0
+Marshall,Mississippi,28093,1063,49,4.609595484,0,0
+Martin,Minnesota,27091,1385,122,8.80866426,0,1
+Martin,North Carolina,37117,248,0,0,0,0
+Martin,Texas,48317,60,0,0,0,0
+Mason,Washington,53045,596,5,0.838926174,0,0
+Mason,West Virginia,54053,272,0,0,0,0
+Maverick,Texas,48323,322,0,0,0,0
+McDonald,Missouri,29119,115,0,0,0,0
+McHenry,Illinois,17111,9573,438,4.575368223,0,0
+McIntosh,North Dakota,38051,36,0,0,0,0
+McNairy,Tennessee,47109,246,0,0,0,0
+McPherson,Kansas,20113,445,0,0,0,0
+Mecosta,Michigan,26107,325,36,11.07692308,1,1
+Medina,Texas,48325,398,37,9.296482412,0,1
+Meeker,Minnesota,27093,97,0,0,0,0
+Menifee,Kentucky,21165,109,0,0,0,0
+Menominee,Wisconsin,55078,30,0,0,0,0
+Mercer,New Jersey,34021,61488,2867,4.662698413,0,0
+Meriwether,Georgia,13199,991,3,0.302724521,0,0
+Metcalfe,Kentucky,21169,3,0,0,0,0
+Middlesex,Connecticut,9007,11306,1006,8.897930302,0,1
+Millard,Utah,49027,116,0,0,0,0
+Mills,Iowa,19129,46,0,0,0,0
+Milwaukee,Wisconsin,55079,61312,3186,5.196372651,0,1
+Miner,South Dakota,46097,21,0,0,0,0
+Mitchell,Georgia,13205,5548,524,9.444844989,0,1
+Mitchell,North Carolina,37121,110,0,0,0,0
+Mohave,Arizona,4015,1508,72,4.774535809,0,0
+Monongalia,West Virginia,54061,2553,90,3.525264395,0,0
+Monroe,Kentucky,21171,74,0,0,0,0
+Monroe,Mississippi,28095,1993,140,7.024586051,0,1
+Monroe,Wisconsin,55081,302,3,0.993377483,0,0
+Montgomery,Arkansas,5097,3,0,0,0,0
+Montgomery,Georgia,13209,40,0,0,0,0
+Montgomery,Maryland,24031,66611,2379,3.571482188,0,0
+Montgomery,Ohio,39113,5898,189,3.204476094,0,0
+Montgomery,Pennsylvania,42091,78021,3960,5.075556581,0,1
+Montrose,Colorado,8085,1899,174,9.16271722,0,1
+Morehouse,Louisiana,22067,953,64,6.715634837,0,1
+Morgan,Alabama,1103,1412,0,0,0,0
+Morgan,Colorado,8087,4070,120,2.948402948,0,0
+Morgan,Illinois,17137,368,32,8.695652174,0,1
+Morgan,Utah,49029,218,0,0,0,0
+Morrow,Oregon,41049,133,0,0,0,0
+Moultrie,Illinois,17139,71,0,0,0,0
+Muhlenberg,Kentucky,21177,1726,52,3.012746234,0,0
+Murray,Georgia,13213,513,0,0,0,0
+Nacogdoches,Texas,48347,2053,120,5.845104725,0,1
+Napa,California,6055,1372,59,4.300291545,0,0
+Salem,New Jersey,34033,3049,131,4.296490653,0,0
+Salem city,Virginia,51775,158,0,0,0,0
+Saline,Arkansas,5125,1236,26,2.103559871,0,0
+San Augustine,Texas,48405,314,28,8.917197452,0,1
+San Benito,California,6069,1298,73,5.62403698,0,1
+San Patricio,Texas,48409,248,0,0,0,0
+Santa Barbara,California,6083,10439,107,1.025002395,0,0
+Sarasota,Florida,12115,7771,615,7.914039377,0,1
+Sawyer,Wisconsin,55113,44,0,0,0,0
+Scotland,North Carolina,37165,338,0,0,0,0
+Scott,Kansas,20171,31,0,0,0,0
+Scott,Minnesota,27139,768,28,3.645833333,0,0
+Sebastian,Arkansas,5131,348,0,0,0,0
+Sedgwick,Kansas,20173,6877,106,1.541369783,0,0
+Seminole,Florida,12117,8929,114,1.276738717,0,0
+Sharkey,Mississippi,28125,103,0,0,0,0
+Sharp,Arkansas,5135,69,0,0,0,0
+Shelby,Illinois,17173,132,2,1.515151515,0,0
+Shelby,Kentucky,21211,561,43,7.664884135,0,1
+Shelby,Missouri,29205,37,0,0,0,0
+Shelby,Texas,48419,1508,4,0.265251989,0,0
+Sherman,Kansas,20181,29,0,0,0,0
+Sherman,Nebraska,31163,8,0,0,0,0
+Shiawassee,Michigan,26155,2426,82,3.380049464,0,0
+Simpson,Kentucky,21213,541,48,8.87245841,0,1
+Sitka City and Borough,Alaska,2220,5,0,0,0,0
+Skagit,Washington,53057,7619,232,3.045019031,0,0
+Smith,Mississippi,28129,1063,46,4.327375353,0,0
+Snyder,Pennsylvania,42109,636,31,4.874213836,0,0
+Solano,California,6095,5333,73,1.368835552,0,0
+Sonoma,California,6097,5566,63,1.13187208,0,0
+Southampton,Virginia,51175,973,10,1.027749229,0,0
+St. Charles,Louisiana,22089,12957,770,5.942733657,0,1
+St. Francois,Missouri,29187,665,23,3.458646617,0,0
+St. Helena,Louisiana,22091,478,15,3.138075314,0,0
+St. Joseph,Michigan,26149,636,18,2.830188679,0,0
+St. Louis,Missouri,29189,59312,2099,3.538912868,0,0
+St. Mary,Louisiana,22101,3813,254,6.661421453,0,1
+Stafford,Virginia,51179,3696,29,0.784632035,0,0
+Stanly,North Carolina,37167,542,57,10.51660517,1,1
+Stanton,Nebraska,31167,43,0,0,0,0
+Steele,Minnesota,27147,338,0,0,0,0
+Stephens,Oklahoma,40137,465,29,6.23655914,0,1
+Stephens,Texas,48429,21,0,0,0,0
+Steuben,Indiana,18151,414,23,5.555555556,0,1
+Steuben,New York,36101,4228,174,4.115421003,0,0
+Stevens,Kansas,20189,107,0,0,0,0
+Stewart,Georgia,13259,328,0,0,0,0
+Stewart,Tennessee,47161,126,0,0,0,0
+Stillwater,Montana,30095,22,0,0,0,0
+Strafford,New Hampshire,33017,2604,51,1.958525346,0,0
+Sublette,Wyoming,56035,34,0,0,0,0
+Sullivan,New York,36105,14272,231,1.618553812,0,0
+Sullivan,Pennsylvania,42113,27,0,0,0,0
+Sunflower,Mississippi,28133,1200,51,4.25,0,0
+Suwannee,Florida,12121,2256,149,6.604609929,0,1
+Swisher,Texas,48437,132,0,0,0,0
+Tarrant,Texas,48439,34249,978,2.855557827,0,0
+Taylor,Georgia,13269,294,49,16.66666667,1,1
+Taylor,Kentucky,21217,129,0,0,0,0
+Taylor,West Virginia,54091,112,0,0,0,0
+Telfair,Georgia,13271,388,0,0,0,0
+Teton,Idaho,16081,211,0,0,0,0
+Teton,Wyoming,56039,1717,8,0.465928946,0,0
+Thomas,Georgia,13275,3061,263,8.591963411,0,1
+Tillman,Oklahoma,40141,31,0,0,0,0
+Tioga,Pennsylvania,42117,345,30,8.695652174,0,1
+Tippecanoe,Indiana,18157,1676,51,3.042959427,0,0
+Tolland,Connecticut,9013,7544,701,9.292152704,0,1
+Transylvania,North Carolina,37175,209,0,0,0,0
+Trempealeau,Wisconsin,55121,37,0,0,0,0
+Trimble,Kentucky,21223,41,0,0,0,0
+Turner,Georgia,13287,1274,79,6.200941915,0,1
+Turner,South Dakota,46125,224,0,0,0,0
+Twiggs,Georgia,13289,137,0,0,0,0
+Twin Falls,Idaho,16083,2714,187,6.890198968,0,1
+Unicoi,Tennessee,47171,36,0,0,0,0
+Union,Arkansas,5139,714,0,0,0,0
+Union,Georgia,13291,400,26,6.5,0,1
+Union,Illinois,17181,107,0,0,0,0
+Union,Iowa,19175,21,0,0,0,0
+Union,Mississippi,28145,310,20,6.451612903,0,1
+Union,Ohio,39159,391,0,0,0,0
+Union,Tennessee,47173,78,0,0,0,0
+Upshur,West Virginia,54097,93,0,0,0,0
+Uvalde,Texas,48463,195,0,0,0,0
+Valencia,New Mexico,35061,725,0,0,0,0
+Vanderburgh,Indiana,18163,2271,25,1.100836636,0,0
+Vernon,Wisconsin,55123,7,0,0,0,0
+Vinton,Ohio,39163,14,0,0,0,0
+Wabash,Illinois,17185,31,0,0,0,0
+Wabaunsee,Kansas,20197,124,0,0,0,0
+Wakulla,Florida,12129,374,19,5.080213904,0,1
+Walker,Alabama,1127,2483,0,0,0,0
+Walker,Georgia,13295,719,0,0,0,0
+Walla Walla,Washington,53071,1007,0,0,0,0
+Wallowa,Oregon,41063,32,0,0,0,0
+Walsh,North Dakota,38099,108,0,0,0,0
+Wasatch,Utah,49051,3456,20,0.578703704,0,0
+Washburn,Wisconsin,55129,17,0,0,0,0
+Washington,Colorado,8121,125,0,0,0,0
+Washington,Illinois,17189,148,0,0,0,0
+Washington,Louisiana,22117,5072,291,5.737381703,0,1
+Washington,Missouri,29221,104,6,5.769230769,0,1
+Washington,North Carolina,37187,466,41,8.798283262,0,1
+Washington,Pennsylvania,42125,2432,30,1.233552632,0,0
+Washington,Virginia,51191,675,30,4.444444444,0,0
+Washoe,Nevada,32031,16941,466,2.750723098,0,0
+Watauga,North Carolina,37189,279,0,0,0,0
+Mitchell,Texas,48335,24,0,0,0,0
+Monroe,Michigan,26115,6214,205,3.299002253,0,0
+Monroe,Tennessee,47123,323,15,4.643962848,0,0
+Monroe,West Virginia,54063,73,0,0,0,0
+Montague,Texas,48337,116,10,8.620689655,0,1
+Montcalm,Michigan,26117,731,24,3.283173735,0,0
+Monterey,California,6053,3819,109,2.854150301,0,0
+Montgomery,New York,36057,982,27,2.749490835,0,0
+Montmorency,Michigan,26119,71,0,0,0,0
+Montour,Pennsylvania,42093,1194,0,0,0,0
+Moody,South Dakota,46101,34,0,0,0,0
+Moore,Tennessee,47127,38,0,0,0,0
+Morgan,Georgia,13211,499,0,0,0,0
+Morgan,Indiana,18109,3189,84,2.634054563,0,0
+Morgan,Kentucky,21175,19,0,0,0,0
+Morgan,West Virginia,54065,186,0,0,0,0
+Morris,Texas,48343,108,0,0,0,0
+Morrison,Minnesota,27097,17,0,0,0,0
+Mower,Minnesota,27099,796,0,0,0,0
+Multnomah,Oregon,41051,13678,698,5.103085246,0,1
+Murray,Minnesota,27101,98,0,0,0,0
+Muskingum,Ohio,39119,246,0,0,0,0
+Musselshell,Montana,30065,33,0,0,0,0
+Nash,North Carolina,37127,1445,31,2.14532872,0,0
+Natrona,Wyoming,56025,1038,0,0,0,0
+Navarro,Texas,48349,516,55,10.65891473,1,1
+Nelson,Kentucky,21179,385,0,0,0,0
+Neshoba,Mississippi,28099,1905,34,1.784776903,0,0
+New Kent,Virginia,51127,450,13,2.888888889,0,0
+New York City,New York,36999,3701389,233932,6.320113882,0,1
+Newport,Rhode Island,44005,2752,0,0,0,0
+Newport News city,Virginia,51700,2627,94,3.578226113,0,0
+Newton,Mississippi,28101,820,0,0,0,0
+Niobrara,Wyoming,56027,22,0,0,0,0
+Nolan,Texas,48353,7,0,0,0,0
+Nome Census Area,Alaska,2180,16,0,0,0,0
+Northampton,Pennsylvania,42095,38191,996,2.60794428,0,0
+Northampton,Virginia,51131,323,0,0,0,0
+O'Brien,Iowa,19141,107,0,0,0,0
+Oconee,South Carolina,45073,473,0,0,0,0
+Oglethorpe,Georgia,13221,718,53,7.381615599,0,1
+Okaloosa,Florida,12091,3498,57,1.629502573,0,0
+Oldham,Kentucky,21185,556,0,0,0,0
+Osage,Missouri,29151,122,0,0,0,0
+Osage,Oklahoma,40113,1641,188,11.45642901,1,1
+Osborne,Kansas,20141,55,0,0,0,0
+Osceola,Florida,12097,11239,159,1.414716612,0,0
+Oswego,New York,36075,1354,14,1.033973412,0,0
+Otero,New Mexico,35035,102,0,0,0,0
+Otoe,Nebraska,31131,29,0,0,0,0
+Otsego,Michigan,26137,1650,114,6.909090909,0,1
+Ottawa,Ohio,39123,595,0,0,0,0
+Ottawa,Oklahoma,40115,668,7,1.047904192,0,0
+Otter Tail,Minnesota,27111,138,0,0,0,0
+Ouachita,Arkansas,5103,131,0,0,0,0
+Ouray,Colorado,8091,114,22,19.29824561,1,1
+Owyhee,Idaho,16073,139,0,0,0,0
+Page,Iowa,19145,117,0,0,0,0
+Palm Beach,Florida,12099,58675,3170,5.40264167,0,1
+Park,Montana,30067,214,0,0,0,0
+Passaic,New Jersey,34031,216855,6684,3.082243896,0,0
+Paulding,Georgia,13223,3473,126,3.627987331,0,0
+Paulding,Ohio,39125,132,0,0,0,0
+Pawnee,Oklahoma,40117,866,61,7.043879908,0,1
+Payette,Idaho,16075,271,23,8.487084871,0,1
+Pembina,North Dakota,38067,8,0,0,0,0
+Pendleton,West Virginia,54071,49,0,0,0,0
+Pennington,South Dakota,46103,294,0,0,0,0
+Penobscot,Maine,23019,1242,0,0,0,0
+Perry,Alabama,1105,172,0,0,0,0
+Perry,Illinois,17145,95,0,0,0,0
+Perry,Tennessee,47135,170,0,0,0,0
+Person,North Carolina,37145,359,2,0.557103064,0,0
+Petersburg Borough,Alaska,2195,40,0,0,0,0
+Phillips,Arkansas,5107,91,19,20.87912088,1,1
+Pickens,Alabama,1107,893,10,1.119820829,0,0
+Pierce,Georgia,13229,1263,48,3.800475059,0,0
+Pierce,North Dakota,38069,82,0,0,0,0
+Pierce,Washington,53053,33416,890,2.663394781,0,0
+Pike,Alabama,1109,1025,0,0,0,0
+Pike,Georgia,13231,712,27,3.792134831,0,0
+Pike,Illinois,17149,27,0,0,0,0
+Pike,Kentucky,21195,145,32,22.06896552,1,1
+Pike,Mississippi,28113,2499,68,2.721088435,0,0
+Pike,Missouri,29163,166,0,0,0,0
+Pinellas,Florida,12103,16564,508,3.066892055,0,0
+Pittsburg,Oklahoma,40121,430,26,6.046511628,0,1
+Pleasants,West Virginia,54073,46,0,0,0,0
+Plumas,California,6063,107,0,0,0,0
+Pocahontas,West Virginia,54075,7,0,0,0,0
+Poinsett,Arkansas,5111,335,3,0.895522388,0,0
+Pondera,Montana,30073,28,0,0,0,0
+Pontotoc,Oklahoma,40123,293,17,5.802047782,0,1
+Pope,Arkansas,5115,898,0,0,0,0
+Pottawatomie,Kansas,20149,178,0,0,0,0
+Pottawatomie,Oklahoma,40125,875,78,8.914285714,0,1
+Potter,Texas,48375,4726,88,1.86203978,0,0
+Power,Idaho,16077,48,0,0,0,0
+Powhatan,Virginia,51145,214,0,0,0,0
+Prairie,Arkansas,5117,54,0,0,0,0
+Pratt,Kansas,20151,30,0,0,0,0
+Prentiss,Mississippi,28117,562,6,1.067615658,0,0
+Prince William,Virginia,51153,20622,213,1.032877509,0,0
+Pulaski,Arkansas,5119,10542,323,3.063934737,0,0
+Pulaski,Virginia,51155,164,0,0,0,0
+Pushmataha,Oklahoma,40127,4,0,0,0,0
+Putnam,Florida,12107,1609,28,1.740211311,0,0
+Putnam,Georgia,13237,497,40,8.048289738,0,1
+Putnam,Ohio,39137,573,44,7.678883072,0,1
+Putnam,Tennessee,47141,2856,56,1.960784314,0,0
+Quitman,Georgia,13239,84,16,19.04761905,1,1
+Waupaca,Wisconsin,55135,132,34,25.75757576,1,1
+Wayne,Indiana,18177,641,45,7.020280811,0,1
+Wayne,Kentucky,21231,166,0,0,0,0
+Wayne,West Virginia,54099,1401,74,5.28194147,0,1
+Weakley,Tennessee,47183,252,0,0,0,0
+Webb,Texas,48479,6926,284,4.100490904,0,0
+Webster,Missouri,29225,220,0,0,0,0
+Wells,Indiana,18179,136,0,0,0,0
+Whatcom,Washington,53073,8562,718,8.385891147,0,1
+White Pine,Nevada,32033,58,0,0,0,0
+Whitfield,Georgia,13313,1255,92,7.330677291,0,1
+Wilbarger,Texas,48487,17,0,0,0,0
+Wilcox,Alabama,1131,1060,12,1.132075472,0,0
+Willacy,Texas,48489,234,27,11.53846154,1,1
+Williams,Ohio,39171,321,16,4.984423676,0,0
+Williamsburg,South Carolina,45089,769,0,0,0,0
+Wilson,Tennessee,47189,4895,35,0.715015322,0,0
+Winnebago,Wisconsin,55139,1098,25,2.276867031,0,0
+Winston,Alabama,1133,220,0,0,0,0
+Wise,Texas,48497,249,29,11.64658635,1,1
+Wood,Texas,48499,150,0,0,0,0
+Wood,West Virginia,54107,721,25,3.46740638,0,0
+Wood,Wisconsin,55141,82,0,0,0,0
+Woodford,Illinois,17203,309,10,3.236245955,0,0
+Woodward,Oklahoma,40153,30,0,0,0,0
+Worcester,Massachusetts,25027,82342,2987,3.627553375,0,0
+Wyandotte,Kansas,20209,11514,955,8.294250478,0,1
+Wyoming,Pennsylvania,42131,347,22,6.340057637,0,1
+Yalobusha,Mississippi,28161,438,0,0,0,0
+Yates,New York,36123,226,9,3.982300885,0,0
+Yellowstone,Montana,30111,2065,15,0.726392252,0,0
+York,Virginia,51199,1105,24,2.171945701,0,0
+Yukon-Koyukuk Census Area,Alaska,2290,29,0,0,0,0
+Zapata,Texas,48505,120,0,0,0,0
+Nassau,Florida,12089,1193,0,0,0,0
+Nassau,New York,36059,808206,37076,4.58744429,0,0
+Navajo,Arizona,4017,12570,289,2.299124901,0,0
+Nelson,North Dakota,38063,12,0,0,0,0
+Nelson,Virginia,51125,154,0,0,0,0
+Nemaha,Kansas,20131,3,0,0,0,0
+Neosho,Kansas,20133,59,0,0,0,0
+New Castle,Delaware,10003,31638,886,2.800429863,0,0
+New Hanover,North Carolina,37129,1832,35,1.910480349,0,0
+New London,Connecticut,9011,8290,391,4.716525935,0,0
+New Madrid,Missouri,29143,198,0,0,0,0
+Newton,Arkansas,5101,54,0,0,0,0
+Newton,Indiana,18111,737,78,10.5834464,1,1
+Newton,Missouri,29145,271,9,3.32103321,0,0
+Nicollet,Minnesota,27103,234,34,14.52991453,1,1
+Noble,Indiana,18113,905,89,9.834254144,0,1
+Norfolk city,Virginia,51710,3363,50,1.486767767,0,0
+Norman,Minnesota,27107,83,0,0,0,0
+Northampton,North Carolina,37131,1966,39,1.983723296,0,0
+Nottoway,Virginia,51135,183,0,0,0,0
+Oakland,Michigan,26125,165401,12163,7.353643569,0,1
+Obion,Tennessee,47131,229,29,12.66375546,1,1
+Ochiltree,Texas,48357,90,6,6.666666667,0,1
+Oconee,Georgia,13219,1351,4,0.29607698,0,0
+Ohio,West Virginia,54069,675,18,2.666666667,0,0
+Okeechobee,Florida,12093,182,0,0,0,0
+Okfuskee,Oklahoma,40107,21,0,0,0,0
+Oneida,Wisconsin,55085,165,0,0,0,0
+Orange,California,6059,46382,801,1.726963046,0,0
+Orange,Florida,12095,32814,587,1.788870604,0,0
+Orange,New York,36071,175355,3984,2.27196259,0,0
+Oregon,Missouri,29149,24,0,0,0,0
+Orleans,Louisiana,22071,175730,9138,5.200022762,0,1
+Orleans,New York,36073,1211,34,2.807597027,0,0
+Orleans,Vermont,50019,285,0,0,0,0
+Osage,Kansas,20139,126,0,0,0,0
+Osceola,Michigan,26133,172,0,0,0,0
+Oscoda,Michigan,26135,106,1,0.943396226,0,0
+Otero,Colorado,8089,187,7,3.743315508,0,0
+Pamlico,North Carolina,37137,154,0,0,0,0
+Parker,Texas,48367,497,0,0,0,0
+Pasco,Florida,12101,5465,108,1.97621226,0,0
+Pasquotank,North Carolina,37139,622,10,1.607717042,0,0
+Pecos,Texas,48371,111,0,0,0,0
+Perquimans,North Carolina,37143,192,0,0,0,0
+Perry,Arkansas,5105,100,0,0,0,0
+Perry,Kentucky,21193,120,0,0,0,0
+Perry,Ohio,39127,241,0,0,0,0
+Perry,Pennsylvania,42099,514,28,5.447470817,0,1
+Petersburg city,Virginia,51730,566,20,3.533568905,0,0
+Phillips,Colorado,8095,128,0,0,0,0
+Piatt,Illinois,17147,161,0,0,0,0
+Pickens,South Carolina,45077,1084,2,0.184501845,0,0
+Pike,Arkansas,5109,86,0,0,0,0
+Pike,Indiana,18125,20,0,0,0,0
+Pike,Ohio,39131,51,0,0,0,0
+Pima,Arizona,4019,23413,1319,5.633622347,0,1
+Pine,Minnesota,27115,496,0,0,0,0
+Pipestone,Minnesota,27117,39,0,0,0,0
+Plaquemines,Louisiana,22075,4288,338,7.882462687,0,1
+Platte,Missouri,29165,766,0,0,0,0
+Polk,Iowa,19153,10821,366,3.382312171,0,0
+Polk,Minnesota,27119,230,0,0,0,0
+Polk,Tennessee,47139,143,0,0,0,0
+Polk,Wisconsin,55095,73,0,0,0,0
+Poquoson city,Virginia,51735,167,0,0,0,0
+Portage,Wisconsin,55097,119,0,0,0,0
+Powell,Kentucky,21197,33,0,0,0,0
+Preble,Ohio,39135,495,23,4.646464646,0,0
+Price,Wisconsin,55099,20,0,0,0,0
+Prince Edward,Virginia,51147,553,30,5.424954792,0,1
+Prince George's,Maryland,24033,86325,2654,3.074428034,0,0
+Prowers,Colorado,8099,22,0,0,0,0
+Pulaski,Georgia,13235,441,18,4.081632653,0,0
+Pulaski,Illinois,17153,219,0,0,0,0
+Pulaski,Kentucky,21199,956,49,5.125523013,0,1
+Putnam,Indiana,18133,1230,92,7.479674797,0,1
+Putnam,West Virginia,54079,424,0,0,0,0
+Queen Anne's,Maryland,24035,814,41,5.036855037,0,1
+Radford city,Virginia,51750,51,0,0,0,0
+Randall,Texas,48381,2868,63,2.19665272,0,0
+Randolph,Georgia,13243,3308,294,8.887545345,0,1
+Randolph,Illinois,17157,1683,14,0.831847891,0,0
+Ravalli,Montana,30081,127,0,0,0,0
+Red River,Louisiana,22081,406,73,17.98029557,1,1
+Red Willow,Nebraska,31145,20,0,0,0,0
+Redwood,Minnesota,27127,26,0,0,0,0
+Reynolds,Missouri,29179,64,0,0,0,0
+Rice,Minnesota,27131,216,14,6.481481481,0,1
+Richland,Louisiana,22083,844,0,0,0,0
+Richmond city,Virginia,51760,5915,213,3.60101437,0,0
+Roane,West Virginia,54087,91,0,0,0,0
+Robertson,Tennessee,47147,3044,0,0,0,0
+Rock,Wisconsin,55105,2466,101,4.095701541,0,0
+Rock Island,Illinois,17161,4916,115,2.339300244,0,0
+Rockcastle,Kentucky,21203,239,0,0,0,0
+Rogers,Oklahoma,40131,927,42,4.530744337,0,0
+Rolette,North Dakota,38079,20,0,0,0,0
+Roosevelt,New Mexico,35041,83,0,0,0,0
+Routt,Colorado,8107,1365,50,3.663003663,0,0
+Russell,Kentucky,21207,287,31,10.80139373,1,1
+Sabine,Texas,48403,22,0,0,0,0
+Sagadahoc,Maine,23023,503,4,0.795228628,0,0
+Saginaw,Michigan,26145,10475,660,6.30071599,0,1
+Saline,Kansas,20169,373,44,11.79624665,1,1
+Saline,Nebraska,31151,611,0,0,0,0
+Sampson,North Carolina,37163,582,0,0,0,0
+San Bernardino,California,6071,33603,1411,4.199029849,0,0
+San Francisco,California,6075,33138,508,1.532983282,0,0
+San Juan,Colorado,8111,2,0,0,0,0
+Racine,Wisconsin,55101,4747,184,3.876132294,0,0
+Rankin,Mississippi,28121,3770,85,2.25464191,0,0
+Red Lake,Minnesota,27125,20,0,0,0,0
+Rensselaer,New York,36083,4792,236,4.924874791,0,0
+Renville,Minnesota,27129,99,0,0,0,0
+Rhea,Tennessee,47143,48,0,0,0,0
+Richland,Montana,30083,66,0,0,0,0
+Riley,Kansas,20161,790,0,0,0,0
+Ripley,Indiana,18137,2462,97,3.939886271,0,0
+Roanoke,Virginia,51161,647,0,0,0,0
+Roberts,South Dakota,46109,118,0,0,0,0
+Robeson,North Carolina,37155,1106,21,1.898734177,0,0
+Rockbridge,Virginia,51163,129,0,0,0,0
+Rockingham,Virginia,51165,2760,10,0.362318841,0,0
+Rockland,New York,36087,262304,6446,2.457453947,0,0
+Rockwall,Texas,48397,978,4,0.408997955,0,0
+Rowan,Kentucky,21205,34,0,0,0,0
+Runnels,Texas,48399,3,0,0,0,0
+Rusk,Texas,48401,644,14,2.173913043,0,0
+Rusk,Wisconsin,55107,93,0,0,0,0
+Russell,Alabama,1113,976,0,0,0,0
+Rutherford,North Carolina,37161,1800,73,4.055555556,0,0
+Sabine,Louisiana,22085,312,3,0.961538462,0,0
+Saguache,Colorado,8109,90,0,0,0,0
+Saline,Illinois,17165,78,0,0,0,0
+Saline,Missouri,29195,1791,0,0,0,0
+Saluda,South Carolina,45081,443,0,0,0,0
+San Diego,California,6073,68304,2036,2.980791755,0,0
+San Juan,Washington,53055,397,0,0,0,0
+San Luis Obispo,California,6079,4449,27,0.60687795,0,0
+San Miguel,New Mexico,35047,60,0,0,0,0
+Sandusky,Ohio,39143,414,50,12.07729469,1,1
+Sangamon,Illinois,17167,2060,140,6.796116505,0,1
+Santa Cruz,Arizona,4023,493,0,0,0,0
+Schuyler,Illinois,17169,23,0,0,0,0
+Schuylkill,Pennsylvania,42107,6524,106,1.62477008,0,0
+Scott,Missouri,29201,1052,16,1.520912548,0,0
+Scott,Tennessee,47151,274,0,0,0,0
+Screven,Georgia,13251,266,16,6.015037594,0,1
+Scurry,Texas,48415,42,0,0,0,0
+Searcy,Arkansas,5129,205,0,0,0,0
+Seneca,New York,36099,563,17,3.019538188,0,0
+Seneca,Ohio,39147,300,31,10.33333333,1,1
+Sequatchie,Tennessee,47153,82,0,0,0,0
+Sequoyah,Oklahoma,40135,287,63,21.95121951,1,1
+Sevier,Tennessee,47155,843,14,1.660735469,0,0
+Sevier,Utah,49041,73,0,0,0,0
+Seward,Kansas,20175,3288,0,0,0,0
+Sheboygan,Wisconsin,55117,1173,54,4.603580563,0,0
+Shelby,Tennessee,47157,47056,897,1.906239374,0,0
+Sheridan,Kansas,20179,20,0,0,0,0
+Sheridan,Wyoming,56033,437,0,0,0,0
+Sherman,Oregon,41055,26,0,0,0,0
+Sierra,New Mexico,35051,2,0,0,0,0
+Silver Bow,Montana,30093,398,0,0,0,0
+Sioux,Iowa,19167,224,0,0,0,0
+Slope,North Dakota,38087,77,0,0,0,0
+Spalding,Georgia,13255,3269,163,4.986234322,0,0
+Spartanburg,South Carolina,45083,5536,139,2.51083815,0,0
+Spink,South Dakota,46115,82,0,0,0,0
+St. Clair,Alabama,1115,1506,0,0,0,0
+St. Clair,Missouri,29185,44,0,0,0,0
+St. Croix,Wisconsin,55109,342,0,0,0,0
+St. Francis,Arkansas,5123,1437,0,0,0,0
+St. John the Baptist,Louisiana,22095,17364,1389,7.999308915,0,1
+St. Johns,Florida,12109,5655,104,1.83908046,0,0
+St. Mary's,Maryland,24037,2742,69,2.516411379,0,0
+St. Tammany,Louisiana,22103,27854,1684,6.045810297,0,1
+Stafford,Kansas,20185,33,0,0,0,0
+Stark,North Dakota,38089,1068,43,4.026217228,0,0
+Stark,Ohio,39151,6156,608,9.87654321,0,1
+Starke,Indiana,18149,284,18,6.338028169,0,1
+Ste. Genevieve,Missouri,29186,194,25,12.88659794,1,1
+Stephenson,Illinois,17177,349,0,0,0,0
+Stevens,Washington,53065,240,18,7.5,0,1
+Stone,Missouri,29209,89,0,0,0,0
+Suffolk,Massachusetts,25025,212550,6110,2.874617737,0,0
+Suffolk,New York,36103,720510,20100,2.789690636,0,0
+Suffolk city,Virginia,51800,2310,59,2.554112554,0,0
+Sullivan,Tennessee,47163,1201,29,2.414654455,0,0
+Summers,West Virginia,54089,20,0,0,0,0
+Sumter,Florida,12119,4036,269,6.665014866,0,1
+Sumter,Georgia,13261,7674,413,5.381808705,0,1
+Sumter,South Carolina,45085,4892,164,3.352412101,0,0
+Surry,Virginia,51181,98,10,10.20408163,1,1
+Susquehanna,Pennsylvania,42115,1316,67,5.09118541,0,1
+Sussex,Delaware,10005,26304,676,2.569951338,0,0
+Sussex,New Jersey,34037,17386,1485,8.541355113,0,1
+Sutter,California,6101,735,55,7.482993197,0,1
+Sweetwater,Wyoming,56037,249,0,0,0,0
+Swift,Minnesota,27151,27,0,0,0,0
+Talladega,Alabama,1121,1192,28,2.348993289,0,0
+Tama,Iowa,19171,4148,117,2.820636451,0,0
+Taney,Missouri,29213,248,22,8.870967742,0,1
+Tate,Mississippi,28137,863,0,0,0,0
+Taylor,Florida,12123,43,0,0,0,0
+Taylor,Iowa,19173,34,0,0,0,0
+Tehama,California,6103,28,5,17.85714286,1,1
+Teller,Colorado,8119,602,60,9.966777409,0,1
+Tillamook,Oregon,41057,154,0,0,0,0
+Tom Green,Texas,48451,1028,21,2.042801556,0,0
+Toole,Montana,30101,721,127,17.61442441,1,1
+Travis,Texas,48453,29943,597,1.993788198,0,0
+Trumbull,Ohio,39155,6085,464,7.625308135,0,1
+Tuscarawas,Ohio,39157,1055,0,0,0,0
+Union,Indiana,18161,149,0,0,0,0
+Union,Louisiana,22111,1908,108,5.660377358,0,1
+Union,New Mexico,35059,16,0,0,0,0
+Union,North Carolina,37179,4234,102,2.409069438,0,0
+Union,Pennsylvania,42119,624,0,0,0,0
+San Juan,Utah,49037,609,28,4.597701149,0,0
+San Mateo,California,6081,26350,883,3.351043643,0,0
+San Miguel,Colorado,8113,416,0,0,0,0
+Sandoval,New Mexico,35043,7581,162,2.13692125,0,0
+Santa Clara,California,6085,57843,2356,4.073094411,0,0
+Santa Cruz,California,6087,3210,49,1.526479751,0,0
+Santa Fe,New Mexico,35049,2649,0,0,0,0
+Saratoga,New York,36091,7763,52,0.669844132,0,0
+Schenectady,New York,36093,8340,431,5.167865707,0,1
+Schley,Georgia,13249,377,25,6.631299735,0,1
+Schoharie,New York,36095,620,0,0,0,0
+Schoolcraft,Michigan,26153,63,0,0,0,0
+Schuyler,New York,36097,171,0,0,0,0
+Scott,Arkansas,5127,31,0,0,0,0
+Scott,Indiana,18143,628,63,10.03184713,1,1
+Scott,Iowa,19163,4048,70,1.729249012,0,0
+Scott,Mississippi,28123,3537,0,0,0,0
+Scott,Virginia,51169,94,10,10.63829787,1,1
+Scotts Bluff,Nebraska,31157,484,0,0,0,0
+Seminole,Georgia,13253,595,32,5.378151261,0,1
+Seminole,Oklahoma,40133,187,26,13.90374332,1,1
+Shasta,California,6089,774,98,12.66149871,1,1
+Shelby,Alabama,1117,7442,197,2.647137866,0,0
+Shenandoah,Virginia,51171,1153,23,1.994796184,0,0
+Sherburne,Minnesota,27141,408,0,0,0,0
+Sherman,Texas,48421,147,0,0,0,0
+Sioux,North Dakota,38085,35,0,0,0,0
+Smith,Kansas,20183,30,0,0,0,0
+Smith,Texas,48423,3331,75,2.251576103,0,0
+Smyth,Virginia,51173,279,0,0,0,0
+Socorro,New Mexico,35053,669,16,2.391629297,0,0
+Somerset,New Jersey,34035,62447,3763,6.025909972,0,1
+Somerset,Pennsylvania,42111,446,0,0,0,0
+Spencer,Indiana,18147,94,0,0,0,0
+Spotsylvania,Virginia,51177,1977,29,1.466868993,0,0
+St. Bernard,Louisiana,22087,11181,351,3.139254092,0,0
+St. Charles,Missouri,29183,11239,544,4.840288282,0,0
+St. Clair,Illinois,17163,7266,398,5.477566749,0,1
+St. Clair,Michigan,26147,6434,278,4.320795772,0,0
+St. Joseph,Indiana,18141,9754,205,2.101701866,0,0
+St. Louis city,Missouri,29510,21128,858,4.060961757,0,0
+St. Martin,Louisiana,22099,4884,300,6.142506143,0,1
+Stanislaus,California,6099,5765,105,1.821335646,0,0
+Stanley,South Dakota,46117,24,0,0,0,0
+Stanton,Kansas,20187,60,0,0,0,0
+Stark,Illinois,17175,23,0,0,0,0
+Stephens,Georgia,13257,989,14,1.415571284,0,0
+Stokes,North Carolina,37169,261,0,0,0,0
+Stone,Mississippi,28131,381,0,0,0,0
+Story,Iowa,19169,438,3,0.684931507,0,0
+Sullivan,New Hampshire,33019,261,30,11.49425287,1,1
+Sully,South Dakota,46119,19,0,0,0,0
+Summit,Ohio,39153,10527,667,6.336088154,0,1
+Surry,North Carolina,37171,313,0,0,0,0
+Sussex,Virginia,51183,412,10,2.427184466,0,0
+Swain,North Carolina,37173,6,0,0,0,0
+Tallahatchie,Mississippi,28135,205,14,6.829268293,0,1
+Tallapoosa,Alabama,1123,4436,261,5.88367899,0,1
+Tattnall,Georgia,13267,163,0,0,0,0
+Taylor,Texas,48441,3492,56,1.603665521,0,0
+Tazewell,Illinois,17179,720,65,9.027777778,0,1
+Tazewell,Virginia,51185,120,0,0,0,0
+Tensas,Louisiana,22107,20,0,0,0,0
+Terrell,Georgia,13273,3814,374,9.805977976,0,1
+Terry,Texas,48445,253,0,0,0,0
+Texas,Missouri,29215,4,0,0,0,0
+Texas,Oklahoma,40139,868,17,1.958525346,0,0
+Thurston,Nebraska,31173,16,0,0,0,0
+Tippah,Mississippi,28139,1470,177,12.04081633,1,1
+Tipton,Tennessee,47167,1894,0,0,0,0
+Titus,Texas,48449,234,0,0,0,0
+Todd,Kentucky,21219,205,0,0,0,0
+Todd,Minnesota,27153,58,0,0,0,0
+Tompkins,New York,36109,3681,38,1.032328172,0,0
+Toombs,Georgia,13279,502,55,10.9561753,1,1
+Torrance,New Mexico,35057,316,0,0,0,0
+Towns,Georgia,13281,294,3,1.020408163,0,0
+Treutlen,Georgia,13283,39,0,0,0,0
+Trinity,Texas,48455,145,0,0,0,0
+Tulare,California,6107,10118,517,5.109705475,0,1
+Tunica,Mississippi,28143,816,37,4.534313725,0,0
+Tyler,Texas,48457,120,0,0,0,0
+Tyler,West Virginia,54095,66,0,0,0,0
+Uintah,Utah,49047,145,0,0,0,0
+Ulster,New York,36111,23173,96,0.414275234,0,0
+Umatilla,Oregon,41059,685,0,0,0,0
+Union,Kentucky,21225,178,0,0,0,0
+Union,New Jersey,34039,235908,9446,4.004103295,0,0
+Van Zandt,Texas,48467,309,33,10.67961165,1,1
+Victoria,Texas,48469,2451,27,1.101591187,0,0
+Virginia Beach city,Virginia,51810,8045,154,1.914232443,0,0
+Wabasha,Minnesota,27157,246,0,0,0,0
+Wahkiakum,Washington,53069,53,0,0,0,0
+Walthall,Mississippi,28147,657,0,0,0,0
+Ward,North Dakota,38101,633,19,3.001579779,0,0
+Warren,Mississippi,28149,680,27,3.970588235,0,0
+Warren,Missouri,29219,462,0,0,0,0
+Washington,Arkansas,5143,1585,23,1.451104101,0,0
+Washington,Georgia,13303,692,14,2.023121387,0,0
+Washington,Indiana,18175,857,0,0,0,0
+Washington,Kansas,20201,1,0,0,0,0
+Washington,Oregon,41067,12334,250,2.026917464,0,0
+Washington,Rhode Island,44009,5053,46,0.910350287,0,0
+Washington,Wisconsin,55131,2530,96,3.794466403,0,0
+Washita,Oklahoma,40149,2,0,0,0,0
+Watonwan,Minnesota,27165,140,0,0,0,0
+Waukesha,Wisconsin,55133,7613,279,3.664783922,0,0
+Wayne,Mississippi,28153,308,0,0,0,0
+Waynesboro city,Virginia,51820,190,0,0,0,0
+Webster,Georgia,13307,147,9,6.12244898,0,1
+Webster,Louisiana,22119,2010,100,4.975124378,0,0
+Webster,Mississippi,28155,447,37,8.277404922,0,1
+West Baton Rouge,Louisiana,22121,2216,304,13.71841155,1,1
+Wharton,Texas,48481,835,0,0,0,0
+White,Indiana,18181,342,0,0,0,0
+Whitley,Indiana,18183,372,26,6.989247312,0,1
+Wichita,Texas,48485,1823,29,1.590784421,0,0
+Wicomico,Maryland,24045,3831,72,1.879404855,0,0
+Wilcox,Georgia,13315,1039,79,7.60346487,0,1
+Williamsburg city,Virginia,51830,540,40,7.407407407,0,1
+Williamson,Illinois,17199,417,0,0,0,0
+Wilson,North Carolina,37195,2637,103,3.905953735,0,0
+Winchester city,Virginia,51840,663,0,0,0,0
+Windsor,Vermont,50027,1103,66,5.98368087,0,1
+Winkler,Texas,48495,51,0,0,0,0
+Winneshiek,Iowa,19191,255,0,0,0,0
+Winona,Minnesota,27169,1287,223,17.32711733,1,1
+Woodson,Kansas,20207,128,0,0,0,0
+Worth,Missouri,29227,25,0,0,0,0
+Wright,Minnesota,27171,699,20,2.861230329,0,0
+Yoakum,Texas,48501,19,0,0,0,0
+Young,Texas,48503,111,16,14.41441441,1,1
+Yuma,Arizona,4027,888,18,2.027027027,0,0
+Union,South Carolina,45087,605,0,0,0,0
+Union,South Dakota,46127,199,0,0,0,0
+Upshur,Texas,48459,263,0,0,0,0
+Upson,Georgia,13293,3555,203,5.710267229,0,1
+Utah,Utah,49049,13556,89,0.656535851,0,0
+Valley,Idaho,16085,74,0,0,0,0
+Valley,Nebraska,31175,4,0,0,0,0
+Van Buren,Iowa,19177,210,0,0,0,0
+Van Wert,Ohio,39161,76,0,0,0,0
+Venango,Pennsylvania,42121,173,0,0,0,0
+Vermilion,Illinois,17183,250,2,0.8,0,0
+Vermilion,Louisiana,22113,815,34,4.171779141,0,0
+Vernon,Louisiana,22115,409,23,5.623471883,0,1
+Vigo,Indiana,18167,1347,110,8.166295471,0,1
+Vilas,Wisconsin,55125,129,0,0,0,0
+Volusia,Florida,12127,8753,279,3.187478579,0,0
+Wabash,Indiana,18169,320,9,2.8125,0,0
+Wadena,Minnesota,27159,3,0,0,0,0
+Wagoner,Oklahoma,40145,2584,227,8.784829721,0,1
+Waldo,Maine,23027,896,149,16.62946429,1,1
+Waller,Texas,48473,575,0,0,0,0
+Walton,Georgia,13297,1736,69,3.974654378,0,0
+Ware,Georgia,13299,2077,161,7.751564757,0,1
+Warren,Georgia,13301,257,0,0,0,0
+Warren,Illinois,17187,461,0,0,0,0
+Warren,Kentucky,21227,3208,2,0.06234414,0,0
+Warren,New Jersey,34041,15147,1050,6.932065756,0,1
+Warren,New York,36113,2460,119,4.837398374,0,0
+Warren,North Carolina,37185,94,0,0,0,0
+Warren,Pennsylvania,42123,39,10,25.64102564,1,1
+Warren,Tennessee,47177,115,0,0,0,0
+Wasco,Oregon,41065,310,5,1.612903226,0,0
+Waseca,Minnesota,27161,128,0,0,0,0
+Washington,Florida,12133,186,0,0,0,0
+Washington,Iowa,19183,2970,123,4.141414141,0,0
+Washington,Kentucky,21229,109,0,0,0,0
+Washington,Maine,23029,44,0,0,0,0
+Washington,Maryland,24043,3087,47,1.522513767,0,0
+Washington,Ohio,39167,1551,128,8.252740168,0,1
+Washington,Utah,49053,1295,0,0,0,0
+Waushara,Wisconsin,55137,47,0,0,0,0
+Wayne,Illinois,17191,21,0,0,0,0
+Wayne,Michigan,26163,378121,28412,7.513996842,0,1
+Wayne,Nebraska,31179,20,0,0,0,0
+Wayne,New York,36117,1520,0,0,0,0
+Wayne,Ohio,39169,1935,304,15.71059432,1,1
+Wayne,Pennsylvania,42127,2068,52,2.51450677,0,0
+Wayne,Tennessee,47181,67,0,0,0,0
+Weber,Utah,49057,3256,39,1.197788698,0,0
+Webster,Iowa,19187,79,0,0,0,0
+West Feliciana,Louisiana,22125,1801,24,1.332593004,0,0
+Westmoreland,Pennsylvania,42129,7725,452,5.851132686,0,1
+Wheatland,Montana,30107,7,0,0,0,0
+Wheeler,Georgia,13309,78,0,0,0,0
+Wheeler,Texas,48483,37,0,0,0,0
+White,Georgia,13311,683,0,0,0,0
+White,Illinois,17193,14,0,0,0,0
+Whitman,Washington,53075,452,0,0,0,0
+Wilkinson,Georgia,13319,494,32,6.477732794,0,1
+Williamson,Tennessee,47187,10676,150,1.405020607,0,0
+Wilson,Kansas,20205,14,0,0,0,0
+Wilson,Texas,48493,498,27,5.421686747,0,1
+Windham,Connecticut,9015,2784,59,2.119252874,0,0
+Wise,Virginia,51195,374,20,5.347593583,0,1
+Wood,Ohio,39173,2339,233,9.961522018,0,1
+Woodbury,Iowa,19193,4251,9,0.211714891,0,0
+Worcester,Maryland,24047,837,5,0.597371565,0,0
+Wright,Iowa,19197,48,0,0,0,0
+Wyandot,Ohio,39175,427,42,9.836065574,0,1
+Wyoming,New York,36121,1148,62,5.400696864,0,1
+Wyoming,West Virginia,54109,24,0,0,0,0
+Yamhill,Oregon,41071,1041,166,15.94620557,1,1
+Yavapai,Arizona,4025,2006,27,1.345962114,0,0
+Yazoo,Mississippi,28163,2268,29,1.278659612,0,0
+Yellow Medicine,Minnesota,27173,72,0,0,0,0
+Yolo,California,6113,3407,228,6.692104491,0,1
+York,Pennsylvania,42133,11854,186,1.569090602,0,0
+York,South Carolina,45091,4438,78,1.757548445,0,0
+Yuma,Colorado,8125,121,0,0,0,0
