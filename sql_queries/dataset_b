@@ -1,0 +1,43 @@
+WITH
+
+-- exported census_state_tavg as csv and manually aggregated data for Bronx, Kings, New York, Queens, and Richmond counties into a row for New York City, set a fake fips code (36999)
+-- add fake fips code to case_totals_w_nyc
+org AS (
+SELECT sd.*, cases.cases_since_01212020, cases.deaths_since_01212020, cases.death_rate, cases.high_chance_of_death_10pct, cases.high_chance_of_death_5pct
+    FROM [master].[dbo].[census_state_tavg_w_nyc_data] as sd 
+    JOIN [master].[dbo].[case_totals_w_nyc] as cases
+    ON sd.fips = cases.fips
+),
+
+org_no_nulls AS ( 
+SELECT sd.*, cases.cases_since_01212020, cases.deaths_since_01212020, cases.death_rate, cases.high_chance_of_death_10pct, cases.high_chance_of_death_5pct
+    FROM [master].[dbo].[census_state_tavg_w_nyc_data] as sd 
+    JOIN [master].[dbo].[case_totals_w_nyc] as cases
+    ON sd.fips = cases.fips
+    WHERE sd.median_household_income is not NULL
+),
+
+-- SELECT fips FROM org
+-- EXCEPT
+-- SELECT fips FROM org_no_nulls
+
+-- counties: 2322
+merged_wow_decrease AS (
+SELECT org_no_nulls.*, m.wow_decrease AS at_least_100pct_w2w3_dec 
+    FROM org_no_nulls
+    JOIN [master].[dbo].[at_least_100pct_w2w3_dec] AS m 
+    ON (org_no_nulls.state = m.state and org_no_nulls.county = m.county) or (org_no_nulls.state = m.state and org_no_nulls.place_name = m.county)
+),
+
+-- counties: 2326
+output AS (
+SELECT merged_data.*, wow_inc.less_than_25_percent_increase_wow
+    FROM merged_wow_decrease AS merged_data
+    JOIN [master].[dbo].[less_than_25_percent_increase_wow] as wow_inc
+    ON (merged_data.state = wow_inc.state and merged_data.county = wow_inc.county) or (merged_data.state = wow_inc.state and merged_data.place_name = wow_inc.county)
+)
+
+SELECT state, county, fips, median_household_income, pct_households_below_poverty, pct_pop_over_65, pct_pop_uninsured,
+    pct_pop_using_public_transit, pop_density, imposed_intervention, governor_political_party, state_control_political_party, 
+    tavg_jan, tavg_feb, tavg_mar, tavg_apr, cases_since_01212020, deaths_since_01212020, high_chance_of_death_5pct, at_least_100pct_w2w3_dec, less_than_25_percent_increase_wow
+    FROM output

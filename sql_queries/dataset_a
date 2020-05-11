@@ -1,0 +1,55 @@
+-- WITH 
+
+-- 35039 assigned NULL as value for columns where value was -888888888
+-- census AS (
+-- SELECT scf.state, scf.county, scf.county_full AS place_name, census_data.* 
+--     FROM [master].[dbo].[census_data_w_fips] as census_data
+--     JOIN [master].[dbo].[state_county_fips] as scf
+--     ON census_data.state_fips = scf.state_fips and census_data.county_fips = scf.county_fips
+-- ),
+
+-- merge census data with state-level data (total rows: 3132)
+-- census_state AS (
+-- SELECT census.*, IIF(sd.stay_at_home = 1 or sd.shelter_in_place = 1, 1, 0) AS imposed_intervention, sd.governor_political_party, sd.state_control_political_party
+--     FROM census
+--     JOIN [master].[dbo].[state_data] as sd
+--     ON census.state_fips = sd.fips_state_code
+-- ),
+
+-- SELECT * FROM census_state_data
+
+-- merge in temperature data (total rows: 3132)
+-- census_state_tavg AS (
+-- SELECT census_state.*, tavg.jan AS tavg_jan, tavg.feb AS tavg_feb, tavg.mar AS tavg_mar, tavg.apr AS tavg_apr
+--     FROM census_state
+--     JOIN [master].[dbo].[tavg_counties] as tavg
+--     ON census_state.fips = tavg.fips
+-- )
+
+WITH
+
+-- exported census_state_tavg as csv and manually aggregated data for Bronx, Kings, New York, Queens, and Richmond counties into a row for New York City, set a fake fips code (36999)
+-- add fake fips code to case_totals_w_nyc
+org AS (
+SELECT sd.*, cases.cases_since_01212020, cases.deaths_since_01212020, cases.death_rate, cases.high_chance_of_death_10pct, cases.high_chance_of_death_5pct
+    FROM [master].[dbo].[census_state_tavg_w_nyc_data] as sd 
+    JOIN [master].[dbo].[case_totals_w_nyc] as cases
+    ON sd.fips = cases.fips
+),
+
+org_no_nulls AS ( 
+SELECT sd.*, cases.cases_since_01212020, cases.deaths_since_01212020, cases.death_rate, cases.high_chance_of_death_10pct, cases.high_chance_of_death_5pct
+    FROM [master].[dbo].[census_state_tavg_w_nyc_data] as sd 
+    JOIN [master].[dbo].[case_totals_w_nyc] as cases
+    ON sd.fips = cases.fips
+    WHERE sd.median_household_income is not NULL
+)
+
+-- SELECT fips FROM org
+-- EXCEPT
+-- SELECT fips FROM org_no_nulls
+
+SELECT state, county, fips, median_household_income, pct_households_below_poverty, pct_pop_over_65, pct_pop_uninsured,
+    pct_pop_using_public_transit, pop_density, imposed_intervention, governor_political_party, state_control_political_party, 
+    tavg_jan, tavg_feb, tavg_mar, tavg_apr, cases_since_01212020, deaths_since_01212020, high_chance_of_death_5pct
+    FROM org_no_nulls
