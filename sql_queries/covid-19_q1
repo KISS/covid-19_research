@@ -75,29 +75,34 @@ SELECT phase_five.state, phase_five.county
 q1 AS (
 SELECT state, county, end_week, avg_cases, cases_alt, perecentage_change
     FROM phase_six
-    WHERE perecentage_change < 25 and cases_alt >= 5
+    WHERE perecentage_change < 30 and cases_alt >= 5
     GROUP BY state, county, perecentage_change, end_week, avg_cases, cases_alt
 ),
 
--- 51 counties: both weeks showed less than 25 % change 
+-- 51 counties: both weeks showed less than 30 % change 
 -- SELECT q1.state, q1.county, q1.perecentage_change AS per_change_w1w2, alt.perecentage_change AS per_change_w2w3
 --     FROM q1
 --     JOIN q1 AS alt
 --     ON q1.state = alt.state and q1.county = alt.county and q1.end_week < alt.end_week
 --     ORDER BY q1.state, q1.county
 
--- 294 counties: at least 1 week where % change was less than 25 (CHOSEN FOR MODEL)
+-- 294 counties: at least 1 week where % change was less than 30 (CHOSEN FOR MODEL)
 q1_final AS (
 SELECT state, county, MAX(perecentage_change) AS max_percentage_change 
     FROM q1
     GROUP BY state, county
     -- ORDER BY state, county
 )
+-- ,
 
 -- create final output dataset where 1 is set for all counties that match criteria, and 0 for all others 
 -- 2340 counties total, 294 have 1 in less_than_25_percent_increase_wow column
+-- test AS (
 SELECT phase_one.state, phase_one.county, 
-    CASE WHEN phase_one.state = q1_final.state and phase_one.county = q1_final.county THEN 1 ELSE 0 END AS less_than_25_percent_increase_wow
+    CASE WHEN phase_one.state = q1_final.state and phase_one.county = q1_final.county THEN 1 ELSE 0 END AS less_than_30_percent_increase_wow
     FROM phase_one
     LEFT OUTER JOIN q1_final
     ON phase_one.state = q1_final.state and phase_one.county = q1_final.county
+-- )
+
+-- SELECT * FROM test WHERE less_than_25_percent_increase_wow = 1

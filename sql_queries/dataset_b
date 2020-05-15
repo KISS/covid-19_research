@@ -31,13 +31,27 @@ SELECT org_no_nulls.*, m.wow_decrease AS at_least_100pct_w2w3_dec
 
 -- counties: 2326
 output AS (
-SELECT merged_data.*, wow_inc.less_than_25_percent_increase_wow
+-- using 25 percent 
+-- SELECT merged_data.*, wow_inc.less_than_25_percent_increase_wow
+--     FROM merged_wow_decrease AS merged_data
+--     JOIN [master].[dbo].[less_than_25_percent_increase_wow] as wow_inc
+--     ON (merged_data.state = wow_inc.state and merged_data.county = wow_inc.county) or (merged_data.state = wow_inc.state and merged_data.place_name = wow_inc.county)
+
+-- using 30 percent
+SELECT merged_data.*, wow_inc.less_than_30pct_increase_wow
     FROM merged_wow_decrease AS merged_data
-    JOIN [master].[dbo].[less_than_25_percent_increase_wow] as wow_inc
+    JOIN [master].[dbo].[less_than_30_percent_increase_wow] as wow_inc
     ON (merged_data.state = wow_inc.state and merged_data.county = wow_inc.county) or (merged_data.state = wow_inc.state and merged_data.place_name = wow_inc.county)
 )
 
+-- using 25 percent
+-- SELECT state, county, fips, median_household_income, pct_households_below_poverty, pct_pop_over_65, pct_pop_uninsured,
+--     pct_pop_using_public_transit, pop_density, imposed_intervention, governor_political_party, state_control_political_party, 
+--     tavg_jan, tavg_feb, tavg_mar, tavg_apr, cases_since_01212020, deaths_since_01212020, high_chance_of_death_5pct, at_least_100pct_w2w3_dec, less_than_25_percent_increase_wow
+--     FROM output
+
+-- using 30 percent
 SELECT state, county, fips, median_household_income, pct_households_below_poverty, pct_pop_over_65, pct_pop_uninsured,
     pct_pop_using_public_transit, pop_density, imposed_intervention, governor_political_party, state_control_political_party, 
-    tavg_jan, tavg_feb, tavg_mar, tavg_apr, cases_since_01212020, deaths_since_01212020, high_chance_of_death_5pct, at_least_100pct_w2w3_dec, less_than_25_percent_increase_wow
+    tavg_jan, tavg_feb, tavg_mar, tavg_apr, cases_since_01212020, deaths_since_01212020, high_chance_of_death_5pct, at_least_100pct_w2w3_dec, less_than_30pct_increase_wow
     FROM output
