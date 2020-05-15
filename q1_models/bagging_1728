@@ -1,0 +1,52 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.Bagging -P 100 -S 1 -num-slots 1 -I 10 -W weka.classifiers.trees.J48 -- -C 0.25 -M 2
+Relation:     dataset_b-weka.filters.unsupervised.attribute.Remove-R1-3-weka.filters.unsupervised.attribute.Remove-R8-9-weka.filters.unsupervised.attribute.Remove-R7-weka.filters.unsupervised.attribute.Remove-R11-21
+Instances:    2326
+Attributes:   11
+              median_household_income
+              pct_households_below_poverty
+              pct_pop_over_65
+              pct_pop_uninsured
+              pct_pop_using_public_transit
+              pop_density
+              governor_political_party_nominal
+              state_control_political_party_nominal
+              tavg_jan
+              tavg_feb
+              less_than_30pct_inc_wow_nominal
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bagging with 10 iterations and base learner
+
+weka.classifiers.trees.J48 -C 0.25 -M 2
+
+Time taken to build model: 0.27 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1891               81.2984 %
+Incorrectly Classified Instances       435               18.7016 %
+Kappa statistic                          0.1407
+Mean absolute error                      0.2628
+Root mean squared error                  0.3749
+Relative absolute error                 87.9469 %
+Root relative squared error             97.0037 %
+Total Number of Instances             2326     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.964    0.861    0.833      0.964    0.894      0.174    ?         ?         n
+                 0.139    0.036    0.461      0.139    0.213      0.174    ?         ?         y
+Weighted Avg.    0.813    0.710    0.765      0.813    0.770      0.174    ?         ?         
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1832   69 |    a = n
+  366   59 |    b = y
+
